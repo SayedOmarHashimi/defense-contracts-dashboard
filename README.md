@@ -83,6 +83,9 @@ instead of an on-demand render.
   constituent UEIs are listed on each detail record. Parent/subsidiary
   relationships (e.g. a subsidiary trading under its own name) are _not_
   rolled up.
+- **Negative amounts are real.** Net deobligations make some fiscal years and
+  some agency totals negative. Charts use a zero baseline rather than a
+  part-to-whole form, which cannot represent a negative share.
 - **Competition split** uses the FPDS extent-competed code. Competed =
   `A`, `D`, `F`, `CDO`; not competed = `B`, `C`, `E`, `G`, `NDO`. Note that
   "follow-on to competed action" (`E`) counts as not competed.
