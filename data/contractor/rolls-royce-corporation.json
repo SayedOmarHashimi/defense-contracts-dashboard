@@ -1,0 +1,69 @@
+{
+  "name": "Rolls-Royce Corporation",
+  "slug": "rolls-royce-corporation",
+  "ueis": [
+    "KHK8QYLFGLU1"
+  ],
+  "total_awarded": 6075323270.54,
+  "contract_count": 3216,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 994370479.88
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 981002970.44
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 963177793.12
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 968177743.72
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 845462362.89
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1323131920.49
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 3302964590.69,
+      "share": 0.5437
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 2441257379.51,
+      "share": 0.4018
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 436181570.64,
+      "share": 0.0718
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": -12341.93,
+      "share": -0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -105067928.37,
+      "share": -0.0173
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 675981114.64,
+    "not_competed_amount": 5399342155.9,
+    "competed_pct": 0.1113,
+    "not_competed_pct": 0.8887
+  }
+}

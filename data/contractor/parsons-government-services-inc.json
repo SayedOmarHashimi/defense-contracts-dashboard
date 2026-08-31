@@ -1,0 +1,99 @@
+{
+  "name": "Parsons Government Services Inc.",
+  "slug": "parsons-government-services-inc",
+  "ueis": [
+    "NMBCAG1JBKL7"
+  ],
+  "total_awarded": 3472705064.17,
+  "contract_count": 339,
+  "top_agency": "Missile Defense Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 466642392.57
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 585696381.19
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 493742201.28
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 547372790.31
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 685040448.31
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 694210850.51
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 1605818750.01,
+      "share": 0.4624
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 898830089.97,
+      "share": 0.2588
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 633047122.01,
+      "share": 0.1823
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 128218061.98,
+      "share": 0.0369
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 100546532.58,
+      "share": 0.029
+    },
+    {
+      "agency": "U.S. Cyber Command",
+      "amount": 56070280.88,
+      "share": 0.0161
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 24364391.97,
+      "share": 0.007
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 18908870.2,
+      "share": 0.0054
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 5074919.99,
+      "share": 0.0015
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 2477746.61,
+      "share": 0.0007
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -651702.03,
+      "share": -0.0002
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3194926189.67,
+    "not_competed_amount": 277778874.5,
+    "competed_pct": 0.92,
+    "not_competed_pct": 0.08
+  }
+}

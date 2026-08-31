@@ -1,0 +1,74 @@
+{
+  "name": "W S Darley & Co",
+  "slug": "w-s-darley-co",
+  "ueis": [
+    "TENRPZGMAGJ6"
+  ],
+  "total_awarded": 5286130554.19,
+  "contract_count": 21768,
+  "top_agency": "Defense Logistics Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 610338491.46
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 428439092.11
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 606773823.44
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 955127635.22
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1213997891.49
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1471453620.47
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 5232629163.97,
+      "share": 0.9899
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 19915757.18,
+      "share": 0.0038
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 16326969.33,
+      "share": 0.0031
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 15863555.44,
+      "share": 0.003
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 1363055.03,
+      "share": 0.0003
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 32053.24,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 4877649083.97,
+    "not_competed_amount": 408481470.22,
+    "competed_pct": 0.9227,
+    "not_competed_pct": 0.0773
+  }
+}

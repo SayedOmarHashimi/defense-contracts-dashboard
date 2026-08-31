@@ -1,0 +1,64 @@
+{
+  "name": "BAE Systems Land & Armaments L.P.",
+  "slug": "bae-systems-land-armaments-l-p",
+  "ueis": [
+    "DMHSJF9K3XP9"
+  ],
+  "total_awarded": 8414626175.48,
+  "contract_count": 98,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1095492718.2
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 102938568.42
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 604034746.94
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 2146217419.15
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 2301394809.96
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 2164547912.81
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 8353914480.91,
+      "share": 0.9928
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 63402841.95,
+      "share": 0.0075
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 3085719.22,
+      "share": 0.0004
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -5776866.6,
+      "share": -0.0007
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": -10064594.56,
+    "not_competed_amount": 8424690770.04,
+    "competed_pct": -0.0012,
+    "not_competed_pct": 1.0012
+  }
+}

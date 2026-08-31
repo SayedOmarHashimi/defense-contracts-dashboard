@@ -1,0 +1,84 @@
+{
+  "name": "BAE Systems Information And Electronic Systems Integration Inc.",
+  "slug": "bae-systems-information-and-electronic-systems-integration-inc",
+  "ueis": [
+    "F9AVUZ8YBGQ6"
+  ],
+  "total_awarded": 4760044026.03,
+  "contract_count": 767,
+  "top_agency": "Department of the Air Force",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 749796155.34
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 699537903.46
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 689165911.82
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 644483791.23
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1099465235.82
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 877595028.36
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Air Force",
+      "amount": 2463892078.54,
+      "share": 0.5176
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 1240529163.2,
+      "share": 0.2606
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 795129900.3,
+      "share": 0.167
+    },
+    {
+      "agency": "Defense Microelectronics Activity",
+      "amount": 227964742.99,
+      "share": 0.0479
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 42301965.22,
+      "share": 0.0089
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 2466397.0,
+      "share": 0.0005
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": -326061.91,
+      "share": -0.0001
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -11914159.31,
+      "share": -0.0025
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 734427665.73,
+    "not_competed_amount": 4025616360.3,
+    "competed_pct": 0.1543,
+    "not_competed_pct": 0.8457
+  }
+}

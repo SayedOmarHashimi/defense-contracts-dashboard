@@ -1,0 +1,54 @@
+{
+  "name": "United Launch Services, LLC",
+  "slug": "united-launch-services-llc",
+  "ueis": [
+    "XHAMULHCL9N3"
+  ],
+  "total_awarded": 5908372381.67,
+  "contract_count": 94,
+  "top_agency": "Department of the Air Force",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1018626063.47
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 633296205.63
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1069165567.05
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1030138117.84
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1538694270.08
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 618452157.6
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Air Force",
+      "amount": 5942930046.23,
+      "share": 1.0058
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -34557664.56,
+      "share": -0.0058
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 4511724059.12,
+    "not_competed_amount": 1396648322.55,
+    "competed_pct": 0.7636,
+    "not_competed_pct": 0.2364
+  }
+}

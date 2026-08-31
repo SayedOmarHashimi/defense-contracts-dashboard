@@ -1,0 +1,79 @@
+{
+  "name": "General Atomics Aeronautical Systems, Inc.",
+  "slug": "general-atomics-aeronautical-systems-inc",
+  "ueis": [
+    "ZH4NVFG3Z526"
+  ],
+  "total_awarded": 11028918437.68,
+  "contract_count": 694,
+  "top_agency": "Department of the Air Force",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1768987586.22
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 1863366892.62
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1872549060.06
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1721696503.61
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 2244008884.68
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1558309510.49
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Air Force",
+      "amount": 6116609117.56,
+      "share": 0.5546
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 4073470749.8,
+      "share": 0.3693
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 779332063.73,
+      "share": 0.0707
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 139140979.08,
+      "share": 0.0126
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 115960982.54,
+      "share": 0.0105
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": -34450.13,
+      "share": -0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -195561004.9,
+      "share": -0.0177
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 440811873.23,
+    "not_competed_amount": 10588106564.45,
+    "competed_pct": 0.04,
+    "not_competed_pct": 0.96
+  }
+}

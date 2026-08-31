@@ -1,0 +1,74 @@
+{
+  "name": "Bell Textron Inc",
+  "slug": "bell-textron-inc",
+  "ueis": [
+    "N5QUZAYGPKM3"
+  ],
+  "total_awarded": 4868453045.51,
+  "contract_count": 9042,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 532887446.12
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 326612563.53
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 300709645.01
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 984435465.22
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1202471287.18
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1521336638.45
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 2970778628.27,
+      "share": 0.6102
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 1611508181.08,
+      "share": 0.331
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 452310723.18,
+      "share": 0.0929
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 3453177.53,
+      "share": 0.0007
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 2216298.52,
+      "share": 0.0005
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -171813963.07,
+      "share": -0.0353
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2628209154.01,
+    "not_competed_amount": 2240243891.5,
+    "competed_pct": 0.5398,
+    "not_competed_pct": 0.4602
+  }
+}

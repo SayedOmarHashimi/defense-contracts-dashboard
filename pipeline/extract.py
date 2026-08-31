@@ -15,8 +15,9 @@ import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-from client import post, paginate
+from client import USASpendingError, post, paginate
 from config import (
+    AGENCY_LIMIT,
     COMPETED_CODES,
     FETCH_N,
     FY_END,
@@ -24,6 +25,7 @@ from config import (
     MAX_WORKERS,
     NOT_COMPETED_CODES,
     base_filters,
+    fiscal_year_window,
 )
 
 RAW_DIR = Path(__file__).resolve().parent.parent / "data" / "raw"
@@ -54,33 +56,50 @@ def _by_uei(uei: str, **extra) -> dict:
     return base_filters(recipient_search_text=[uei], **extra)
 
 
-def _sum_over_time(filters: dict) -> float:
-    response = post("/search/spending_over_time/", {"group": "fiscal_year", "filters": filters})
-    return sum(row["aggregated_amount"] for row in response.get("results", []))
+def _over_time(uei: str, **extra) -> dict[int, float]:
+    """Obligations per fiscal year for one recipient.
+
+    The largest contractors (Lockheed, Boeing, RTX) aggregate over enough
+    transactions that the six-year query is dropped by the server. When that
+    happens, fall back to one query per fiscal year: six much lighter
+    aggregations that return the same totals.
+    """
+    try:
+        response = post(
+            "/search/spending_over_time/",
+            {"group": "fiscal_year", "filters": _by_uei(uei, **extra)},
+        )
+        return {
+            int(row["time_period"]["fiscal_year"]): row["aggregated_amount"]
+            for row in response.get("results", [])
+        }
+    except USASpendingError:
+        yearly: dict[int, float] = {}
+        for fy in range(FY_START, FY_END + 1):
+            filters = _by_uei(uei, **extra)
+            filters["time_period"] = fiscal_year_window(fy, fy)
+            response = post(
+                "/search/spending_over_time/", {"group": "fiscal_year", "filters": filters}
+            )
+            yearly[fy] = sum(r["aggregated_amount"] for r in response.get("results", []))
+        return yearly
 
 
 def fetch_contractor(recipient: dict) -> dict:
     """Fetch every per-contractor fact the detail page needs (5 API calls)."""
     uei = recipient["uei"]
 
-    over_time = post(
-        "/search/spending_over_time/",
-        {"group": "fiscal_year", "filters": _by_uei(uei)},
-    )
-    yearly = {
-        int(row["time_period"]["fiscal_year"]): row["aggregated_amount"]
-        for row in over_time.get("results", [])
-    }
+    yearly = _over_time(uei)
 
     subagencies = post(
         "/search/spending_by_category/awarding_subagency/",
-        {"filters": _by_uei(uei), "limit": 20},
+        {"filters": _by_uei(uei), "limit": AGENCY_LIMIT},
     ).get("results", [])
 
     counts = post("/search/spending_by_award_count/", {"filters": _by_uei(uei)}).get("results", {})
 
-    competed = _sum_over_time(_by_uei(uei, extent_competed_type_codes=COMPETED_CODES))
-    not_competed = _sum_over_time(_by_uei(uei, extent_competed_type_codes=NOT_COMPETED_CODES))
+    competed = sum(_over_time(uei, extent_competed_type_codes=COMPETED_CODES).values())
+    not_competed = sum(_over_time(uei, extent_competed_type_codes=NOT_COMPETED_CODES).values())
 
     return {
         **recipient,

@@ -1,0 +1,99 @@
+{
+  "name": "Accenture Federal Services LLC",
+  "slug": "accenture-federal-services-llc",
+  "ueis": [
+    "C47BNA8GM833"
+  ],
+  "total_awarded": 3523021882.48,
+  "contract_count": 333,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 344568159.42
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 325882778.51
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 496125675.72
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 534473755.86
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 817088082.77
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1004883430.2
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 1203616111.06,
+      "share": 0.3416
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 1127461798.77,
+      "share": 0.32
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 868266612.76,
+      "share": 0.2465
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 189594608.49,
+      "share": 0.0538
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 90006587.73,
+      "share": 0.0255
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 24300636.56,
+      "share": 0.0069
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 12309444.99,
+      "share": 0.0035
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 3108957.5,
+      "share": 0.0009
+    },
+    {
+      "agency": "Defense Human Resources Activity",
+      "amount": 2571065.09,
+      "share": 0.0007
+    },
+    {
+      "agency": "U.S. Cyber Command",
+      "amount": 2282477.76,
+      "share": 0.0006
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -496418.23,
+      "share": -0.0001
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3264829533.56,
+    "not_competed_amount": 258192348.92,
+    "competed_pct": 0.9267,
+    "not_competed_pct": 0.0733
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Bl Harbert International LLC",
+  "slug": "bl-harbert-international-llc",
+  "ueis": [
+    "XXNJCWMAKNH8"
+  ],
+  "total_awarded": 2712815676.15,
+  "contract_count": 50,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 91825458.89
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 331502350.89
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 616952174.88
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 318129562.8
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 743963192.35
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 610442936.34
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 1919182156.0,
+      "share": 0.7075
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 793633520.15,
+      "share": 0.2925
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2712815676.15,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

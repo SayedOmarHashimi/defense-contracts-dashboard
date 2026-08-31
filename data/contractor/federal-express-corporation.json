@@ -1,0 +1,49 @@
+{
+  "name": "Federal Express Corporation",
+  "slug": "federal-express-corporation",
+  "ueis": [
+    "KQWXKVLGRZ96"
+  ],
+  "total_awarded": 3330938334.52,
+  "contract_count": 2152,
+  "top_agency": "USTRANSCOM",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 607443215.54
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 564381182.14
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 572058650.51
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 875398214.61
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 715431708.44
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": -3774636.72
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "USTRANSCOM",
+      "amount": 3330938334.52,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3330938334.52,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Canadian Commercial Corporation",
+  "slug": "canadian-commercial-corporation",
+  "ueis": [
+    "FA38CTVQM319"
+  ],
+  "total_awarded": 5323575517.38,
+  "contract_count": 7317,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 700486646.27
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 625828943.95
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 635397976.89
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 910130461.64
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1054212261.77
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1397519226.86
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 3284882520.08,
+      "share": 0.617
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 862472139.38,
+      "share": 0.162
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 742768891.81,
+      "share": 0.1395
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 407440605.32,
+      "share": 0.0765
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 29018048.4,
+      "share": 0.0055
+    },
+    {
+      "agency": "Defense Media Activity",
+      "amount": 1054697.0,
+      "share": 0.0002
+    },
+    {
+      "agency": "USTRANSCOM",
+      "amount": 2500.0,
+      "share": 0.0
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 2500.0,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -4066384.6,
+      "share": -0.0008
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 1537883590.3,
+    "not_competed_amount": 3785691927.08,
+    "competed_pct": 0.2889,
+    "not_competed_pct": 0.7111
+  }
+}

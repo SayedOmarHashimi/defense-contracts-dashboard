@@ -1,0 +1,74 @@
+{
+  "name": "Sikorsky Aircraft Corporation",
+  "slug": "sikorsky-aircraft-corporation",
+  "ueis": [
+    "UTJWTSLMFNG4"
+  ],
+  "total_awarded": 26982972672.99,
+  "contract_count": 166071,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 4202004929.47
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 4665011542.46
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 3393050931.65
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 5230258127.53
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 4732322030.79
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 4760325111.09
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 13588890742.73,
+      "share": 0.5036
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 7149058714.74,
+      "share": 0.2649
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 4021797153.69,
+      "share": 0.149
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 2239016506.31,
+      "share": 0.083
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 8856511.23,
+      "share": 0.0003
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -24646955.71,
+      "share": -0.0009
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 5327432356.12,
+    "not_competed_amount": 21655540316.87,
+    "competed_pct": 0.1974,
+    "not_competed_pct": 0.8026
+  }
+}

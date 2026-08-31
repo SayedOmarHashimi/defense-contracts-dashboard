@@ -1,0 +1,96 @@
+{
+  "name": "Raytheon Company",
+  "slug": "raytheon-company",
+  "ueis": [
+    "HEBCLD22EJD1",
+    "LWF3QUSCDNG1",
+    "MZK8TCNF24G2",
+    "NBSLHP77ZJQ1",
+    "QF4VA87ST9F7",
+    "VTEWM5QSE598",
+    "XSV6AZJ6SDJ7",
+    "YD6LTFVUZNG1"
+  ],
+  "total_awarded": 93375053432.04,
+  "contract_count": 5509,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 15128935280.57
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 12101912745.75
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 12954609281.32
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 16376900985.14
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 15761805254.26
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 21050889885.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 34235067894.44,
+      "share": 0.3666
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 19328774893.38,
+      "share": 0.207
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 15952939003.77,
+      "share": 0.1708
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 14843911909.32,
+      "share": 0.159
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 4379689093.11,
+      "share": 0.0469
+    },
+    {
+      "agency": "Defense Microelectronics Activity",
+      "amount": 3221946859.97,
+      "share": 0.0345
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 841838226.19,
+      "share": 0.009
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 599813624.91,
+      "share": 0.0064
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -28928073.05,
+      "share": -0.0003
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 12225093275.73,
+    "not_competed_amount": 81149960156.31,
+    "competed_pct": 0.1309,
+    "not_competed_pct": 0.8691
+  }
+}

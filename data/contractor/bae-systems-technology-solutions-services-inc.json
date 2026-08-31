@@ -1,0 +1,74 @@
+{
+  "name": "BAE Systems Technology Solutions & Services Inc.",
+  "slug": "bae-systems-technology-solutions-services-inc",
+  "ueis": [
+    "LX3BSV6NNW58"
+  ],
+  "total_awarded": 5861267895.48,
+  "contract_count": 959,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 822125760.87
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 795107170.9
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 768990002.51
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1039380865.0
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1197037553.34
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1238626542.86
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 3118594311.28,
+      "share": 0.5321
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 2276089595.96,
+      "share": 0.3883
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 343332214.97,
+      "share": 0.0586
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 137062892.52,
+      "share": 0.0234
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": -1305801.81,
+      "share": -0.0002
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -12505317.44,
+      "share": -0.0021
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 5002610464.95,
+    "not_competed_amount": 858657430.53,
+    "competed_pct": 0.8535,
+    "not_competed_pct": 0.1465
+  }
+}

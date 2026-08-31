@@ -1,0 +1,84 @@
+{
+  "name": "Drs Network & Imaging Systems LLC",
+  "slug": "drs-network-imaging-systems-llc",
+  "ueis": [
+    "MC27B7LGBL34"
+  ],
+  "total_awarded": 3178133136.58,
+  "contract_count": 1468,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 509013528.21
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 318043969.5
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 333713917.2
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 667811362.24
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 646659527.78
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 702890831.65
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 1548737623.32,
+      "share": 0.4873
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 901870714.88,
+      "share": 0.2838
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 676250549.86,
+      "share": 0.2128
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 19234080.01,
+      "share": 0.0061
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 17638086.0,
+      "share": 0.0055
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 9628406.61,
+      "share": 0.003
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 4802372.11,
+      "share": 0.0015
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -28696.21,
+      "share": -0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 1847602969.75,
+    "not_competed_amount": 1330530166.83,
+    "competed_pct": 0.5813,
+    "not_competed_pct": 0.4187
+  }
+}

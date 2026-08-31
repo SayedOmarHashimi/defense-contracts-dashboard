@@ -1,0 +1,69 @@
+{
+  "name": "Space Exploration Technologies Corp.",
+  "slug": "space-exploration-technologies-corp",
+  "ueis": [
+    "C6M7C2FLKER5"
+  ],
+  "total_awarded": 5930196734.74,
+  "contract_count": 150,
+  "top_agency": "Department of the Air Force",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 287098558.54
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 563815241.95
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 759276108.26
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 856176742.13
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1810774185.41
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1653055898.45
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Air Force",
+      "amount": 5153444873.95,
+      "share": 0.869
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 480004253.23,
+      "share": 0.0809
+    },
+    {
+      "agency": "Immediate Office of the Secretary of Defense",
+      "amount": 296042159.08,
+      "share": 0.0499
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 420814.48,
+      "share": 0.0001
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 284634.0,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 5868835847.61,
+    "not_competed_amount": 61360887.13,
+    "competed_pct": 0.9897,
+    "not_competed_pct": 0.0103
+  }
+}

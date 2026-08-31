@@ -59,6 +59,15 @@ data/meta.json                 provenance for the /methodology page
 `contractor/<slug>.json` — the summary fields above plus `ueis`,
 `yearly_totals[]`, `agency_breakdown[]`, and `competition_mix`.
 
+## Data layer
+
+`lib/data.ts` reads the JSON above with `fs/promises` inside Server Components
+and exports a TypeScript interface per file shape. It imports `server-only`, so
+any accidental import from a Client Component fails the build rather than
+shipping the dataset to the browser. Every contractor page is prerendered via
+`generateStaticParams`, and `dynamicParams = false` makes an unknown slug a 404
+instead of an on-demand render.
+
 ## Scope and caveats
 
 - **Agency:** Department of Defense only, as the _awarding_ agency.

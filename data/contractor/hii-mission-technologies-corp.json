@@ -1,0 +1,79 @@
+{
+  "name": "Hii Mission Technologies Corp",
+  "slug": "hii-mission-technologies-corp",
+  "ueis": [
+    "GS7HBMNZEMK3"
+  ],
+  "total_awarded": 3475111208.57,
+  "contract_count": 186,
+  "top_agency": "Department of the Air Force",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 453481908.38
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 415568492.69
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 537955619.63
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 707642730.63
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 729148698.91
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 631313758.33
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Air Force",
+      "amount": 3422563782.11,
+      "share": 0.9849
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 31095412.66,
+      "share": 0.0089
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 20965803.52,
+      "share": 0.006
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 5238355.73,
+      "share": 0.0015
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": -13800.0,
+      "share": -0.0
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": -457222.29,
+      "share": -0.0001
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -4281123.16,
+      "share": -0.0012
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3474425356.7,
+    "not_competed_amount": 685851.87,
+    "competed_pct": 0.9998,
+    "not_competed_pct": 0.0002
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "S-Oil Corporation",
+  "slug": "s-oil-corporation",
+  "ueis": [
+    "ZGCENJD7ZG18"
+  ],
+  "total_awarded": 2868582401.6,
+  "contract_count": 153,
+  "top_agency": "Defense Logistics Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 300135986.33
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 340273367.63
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 413886357.98
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 554908021.52
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 635244249.86
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 624134418.28
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 2868582401.6,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2868582401.6,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

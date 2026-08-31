@@ -1,0 +1,114 @@
+{
+  "name": "Science Applications International Corporation",
+  "slug": "science-applications-international-corporation",
+  "ueis": [
+    "MMLKPW9JLX64"
+  ],
+  "total_awarded": 11694690179.52,
+  "contract_count": 4624,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1440414167.25
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 1717100007.63
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1969927951.71
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 2152612210.72
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 2249624392.61
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 2165011449.6
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 4835415134.53,
+      "share": 0.4135
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 3198771815.92,
+      "share": 0.2735
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 2894493800.59,
+      "share": 0.2475
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 224710070.54,
+      "share": 0.0192
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 192590257.14,
+      "share": 0.0165
+    },
+    {
+      "agency": "USTRANSCOM",
+      "amount": 122918328.18,
+      "share": 0.0105
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 79230790.74,
+      "share": 0.0068
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 62379695.3,
+      "share": 0.0053
+    },
+    {
+      "agency": "U.S. Cyber Command",
+      "amount": 48513474.66,
+      "share": 0.0041
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 42760226.42,
+      "share": 0.0037
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 5520824.64,
+      "share": 0.0005
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 2765244.29,
+      "share": 0.0002
+    },
+    {
+      "agency": "Defense Finance and Accounting Service",
+      "amount": 128351.29,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -15507834.72,
+      "share": -0.0013
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 11320873320.36,
+    "not_competed_amount": 373816859.16,
+    "competed_pct": 0.968,
+    "not_competed_pct": 0.032
+  }
+}

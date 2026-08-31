@@ -1,0 +1,49 @@
+{
+  "name": "Ministry Of Defense",
+  "slug": "ministry-of-defense",
+  "ueis": [
+    "C1KKFURZSEF5"
+  ],
+  "total_awarded": 4683564028.28,
+  "contract_count": 60,
+  "top_agency": "Department of the Air Force",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 1130173536.99
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 994144983.24
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 905871951.4
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 789873909.52
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 863499647.13
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Air Force",
+      "amount": 4683564028.28,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 0.0,
+    "not_competed_amount": 4683564028.28,
+    "competed_pct": 0.0,
+    "not_competed_pct": 1.0
+  }
+}

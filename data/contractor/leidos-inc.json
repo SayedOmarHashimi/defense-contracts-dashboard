@@ -1,0 +1,110 @@
+{
+  "name": "Leidos, Inc.",
+  "slug": "leidos-inc",
+  "ueis": [
+    "KTMAJCY6JXM3",
+    "UE9QJD4KK1L6"
+  ],
+  "total_awarded": 16229438008.93,
+  "contract_count": 12163,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1673195812.68
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 2407704549.11
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 2922058924.36
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 2830507358.32
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 3157025151.88
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 3238946212.58
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 5827359377.4,
+      "share": 0.3591
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 2881878151.92,
+      "share": 0.1776
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 2680513745.15,
+      "share": 0.1652
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 2543529474.21,
+      "share": 0.1567
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 1728130187.53,
+      "share": 0.1065
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 356933065.26,
+      "share": 0.022
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 137342452.87,
+      "share": 0.0085
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 69459524.02,
+      "share": 0.0043
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 13269891.0,
+      "share": 0.0008
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 3015301.32,
+      "share": 0.0002
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 22685.0,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Counterintelligence and Security Agency",
+      "amount": -3548.0,
+      "share": -0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -12012298.75,
+      "share": -0.0007
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 15536406960.57,
+    "not_competed_amount": 693031048.36,
+    "competed_pct": 0.9573,
+    "not_competed_pct": 0.0427
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Olin Winchester LLC",
+  "slug": "olin-winchester-llc",
+  "ueis": [
+    "HCFGYBJNH9S5"
+  ],
+  "total_awarded": 3375529966.78,
+  "contract_count": 20,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 237128696.95
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 333101165.75
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 383841498.57
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 508469864.92
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1038770405.22
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 874218335.37
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 3375529966.78,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3375529966.78,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "M1 Support Services, L.P.",
+  "slug": "m1-support-services-l-p",
+  "ueis": [
+    "PNAFHATW8BD7"
+  ],
+  "total_awarded": 5316006185.23,
+  "contract_count": 33,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 941046680.84
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 831306428.63
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 821164849.97
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 849116021.92
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 904329869.14
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 969042334.73
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 3274338561.84,
+      "share": 0.6159
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 2041702589.3,
+      "share": 0.3841
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -34965.91,
+      "share": -0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 5308068037.27,
+    "not_competed_amount": 7938147.96,
+    "competed_pct": 0.9985,
+    "not_competed_pct": 0.0015
+  }
+}

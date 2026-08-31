@@ -1,0 +1,89 @@
+{
+  "name": "Atlantic Diving Supply, Inc.",
+  "slug": "atlantic-diving-supply-inc",
+  "ueis": [
+    "GJMSFBCNMSK3"
+  ],
+  "total_awarded": 23820568275.18,
+  "contract_count": 350439,
+  "top_agency": "Defense Logistics Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 3091254532.7
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 2773641667.04
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 3036584117.16
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 4423508274.84
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 4698651369.71
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 5796928313.73
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 23321831847.15,
+      "share": 0.9791
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 273083727.48,
+      "share": 0.0115
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 141994101.54,
+      "share": 0.006
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 72914937.32,
+      "share": 0.0031
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 12305370.92,
+      "share": 0.0005
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 607139.88,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 62593.75,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 14273.6,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -2245716.46,
+      "share": -0.0001
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 22179329905.5,
+    "not_competed_amount": 1641238369.68,
+    "competed_pct": 0.9311,
+    "not_competed_pct": 0.0689
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Georgia Tech Applied Research Corp",
+  "slug": "georgia-tech-applied-research-corp",
+  "ueis": [
+    "L3G5SBQ2PLK5"
+  ],
+  "total_awarded": 3482949613.25,
+  "contract_count": 708,
+  "top_agency": "Department of the Air Force",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 588680238.9
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 579988993.2
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 651903982.35
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 674685014.61
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 512852999.27
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 474838384.92
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Air Force",
+      "amount": 1846808871.21,
+      "share": 0.5302
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 1260362483.12,
+      "share": 0.3619
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 135124026.19,
+      "share": 0.0388
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 117691042.29,
+      "share": 0.0338
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 90435227.61,
+      "share": 0.026
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 28515520.26,
+      "share": 0.0082
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 3490810.0,
+      "share": 0.001
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 521632.57,
+      "share": 0.0001
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 864529797.12,
+    "not_competed_amount": 2618419816.13,
+    "competed_pct": 0.2482,
+    "not_competed_pct": 0.7518
+  }
+}

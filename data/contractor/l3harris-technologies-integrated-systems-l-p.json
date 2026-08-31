@@ -1,0 +1,74 @@
+{
+  "name": "L3Harris Technologies Integrated Systems L.P.",
+  "slug": "l3harris-technologies-integrated-systems-l-p",
+  "ueis": [
+    "RDFKNPZNQ8E3"
+  ],
+  "total_awarded": 9147340735.21,
+  "contract_count": 703,
+  "top_agency": "Department of the Air Force",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1494624980.24
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 1474409940.12
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1570548355.29
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1478542629.37
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1536778167.68
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1592436662.51
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Air Force",
+      "amount": 8937349439.99,
+      "share": 0.977
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 225157594.32,
+      "share": 0.0246
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 1691311.0,
+      "share": 0.0002
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": -40097.55,
+      "share": -0.0
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": -3928492.88,
+      "share": -0.0004
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -12889019.67,
+      "share": -0.0014
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 1124667050.26,
+    "not_competed_amount": 8022673684.95,
+    "competed_pct": 0.123,
+    "not_competed_pct": 0.877
+  }
+}

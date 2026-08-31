@@ -1,0 +1,59 @@
+{
+  "name": "Pfizer Inc",
+  "slug": "pfizer-inc",
+  "ueis": [
+    "MHBQULRMEEJ5"
+  ],
+  "total_awarded": 31851045685.89,
+  "contract_count": 4156,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": -689494.56
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 13318201694.16
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 16669419908.68
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1865674054.58
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": -2662229.04
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1101752.07
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 31847403073.15,
+      "share": 0.9999
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 3773851.15,
+      "share": 0.0001
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -131238.41,
+      "share": -0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 12555160639.05,
+    "not_competed_amount": 19295885046.84,
+    "competed_pct": 0.3942,
+    "not_competed_pct": 0.6058
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "V2X Systems LLC",
+  "slug": "v2x-systems-llc",
+  "ueis": [
+    "RRFJZGASZJ41"
+  ],
+  "total_awarded": 9099217723.89,
+  "contract_count": 1423,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1329670076.58
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 1402722139.37
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1099828322.85
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1985837005.51
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1606507315.55
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1674652864.03
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 7190763375.27,
+      "share": 0.7903
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 1003491946.4,
+      "share": 0.1103
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 888263529.48,
+      "share": 0.0976
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 10048611.09,
+      "share": 0.0011
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 9805745.49,
+      "share": 0.0011
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -3155483.84,
+      "share": -0.0003
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 8789955850.97,
+    "not_competed_amount": 309261872.92,
+    "competed_pct": 0.966,
+    "not_competed_pct": 0.034
+  }
+}

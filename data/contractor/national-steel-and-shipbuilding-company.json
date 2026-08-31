@@ -1,0 +1,49 @@
+{
+  "name": "National Steel And Shipbuilding Company",
+  "slug": "national-steel-and-shipbuilding-company",
+  "ueis": [
+    "Q85KVUK3JBF5"
+  ],
+  "total_awarded": 7135751890.97,
+  "contract_count": 54,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1314315560.26
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 471174239.68
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 2238888587.11
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1156359451.57
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1404595303.18
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 550418749.17
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 7135751890.97,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 5056827565.48,
+    "not_competed_amount": 2078924325.49,
+    "competed_pct": 0.7087,
+    "not_competed_pct": 0.2913
+  }
+}

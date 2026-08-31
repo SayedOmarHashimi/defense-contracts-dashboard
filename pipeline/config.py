@@ -14,6 +14,11 @@ FY_START, FY_END = 2020, 2025
 # Number of contractors on the leaderboard.
 TOP_N = 100
 
+# Awarding sub-agency rows to request per contractor. DoD has ~30 reporting
+# sub-agencies; requesting well above that avoids silently truncating the
+# breakdown for diversified resellers.
+AGENCY_LIMIT = 100
+
 # UEI registrations to pull before merging. Several UEIs can belong to one
 # company, so the raw pull is oversized to still land ~TOP_N after merging.
 FETCH_N = 150
@@ -33,7 +38,7 @@ NOT_COMPETED_CODES = ["B", "C", "E", "G", "NDO"]
 
 # Politeness / resilience when talking to the public API.
 MAX_WORKERS = 3
-MAX_RETRIES = 5
+MAX_RETRIES = 6
 TIMEOUT_SECONDS = 120
 
 

@@ -1,0 +1,49 @@
+{
+  "name": "Bechtel Plant Machinery, Inc.",
+  "slug": "bechtel-plant-machinery-inc",
+  "ueis": [
+    "MTKMVNVK1MH6"
+  ],
+  "total_awarded": 11166992685.0,
+  "contract_count": 25,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1290836805.0
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 2000472774.0
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 2119405964.0
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1429547727.0
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 2181732373.0
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 2144997042.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 11166992685.0,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 0.0,
+    "not_competed_amount": 11166992685.0,
+    "competed_pct": 0.0,
+    "not_competed_pct": 1.0
+  }
+}

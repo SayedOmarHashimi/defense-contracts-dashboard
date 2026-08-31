@@ -1,0 +1,54 @@
+{
+  "name": "Humana Government Business Inc",
+  "slug": "humana-government-business-inc",
+  "ueis": [
+    "ZE6ZM6NKSV43"
+  ],
+  "total_awarded": 44129589667.03,
+  "contract_count": 9,
+  "top_agency": "Defense Health Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 6922421961.83
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 7144989965.72
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 7739712977.71
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 7779551423.4
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 8029206899.38
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 6513706438.99
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Health Agency",
+      "amount": 44111636706.53,
+      "share": 0.9996
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 17952960.5,
+      "share": 0.0004
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 44111225838.71,
+    "not_competed_amount": 18363828.32,
+    "competed_pct": 0.9996,
+    "not_competed_pct": 0.0004
+  }
+}

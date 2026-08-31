@@ -1,0 +1,49 @@
+{
+  "name": "Patriot Team",
+  "slug": "patriot-team",
+  "ueis": [
+    "XL2KACMKBJZ3"
+  ],
+  "total_awarded": 3988855901.01,
+  "contract_count": 2762,
+  "top_agency": "USTRANSCOM",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 726710252.49
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 582436111.37
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 854864162.03
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1003686928.69
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 858845068.22
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": -37686621.79
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "USTRANSCOM",
+      "amount": 3988855901.01,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3988855901.01,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

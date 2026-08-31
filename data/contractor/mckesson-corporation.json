@@ -1,0 +1,54 @@
+{
+  "name": "Mckesson Corporation",
+  "slug": "mckesson-corporation",
+  "ueis": [
+    "JTAPCFM4NSL4"
+  ],
+  "total_awarded": 9320298936.38,
+  "contract_count": 145788,
+  "top_agency": "Defense Logistics Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 2847742377.68
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 2966827977.0
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 2912482974.75
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 593231117.29
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": -9543.6
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 24033.26
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 9320280351.88,
+      "share": 1.0
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 18584.5,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 9320308479.98,
+    "not_competed_amount": -9543.6,
+    "competed_pct": 1.0,
+    "not_competed_pct": -0.0
+  }
+}

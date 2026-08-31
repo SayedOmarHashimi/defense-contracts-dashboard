@@ -1,0 +1,75 @@
+{
+  "name": "General Electric Company",
+  "slug": "general-electric-company",
+  "ueis": [
+    "E3HYKKLT5ZT1",
+    "J1T1FEN3PWX6"
+  ],
+  "total_awarded": 18344336172.86,
+  "contract_count": 7390,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 3982576683.15
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 2670935803.6
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 2369269159.61
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 3852780368.94
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 2557369430.22
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 2911404727.34
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 6220639115.37,
+      "share": 0.3391
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 4996647286.93,
+      "share": 0.2724
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 3847723038.28,
+      "share": 0.2097
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 3140249488.34,
+      "share": 0.1712
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 167623625.38,
+      "share": 0.0091
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -28546381.44,
+      "share": -0.0016
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2960532338.54,
+    "not_competed_amount": 15383803834.32,
+    "competed_pct": 0.1614,
+    "not_competed_pct": 0.8386
+  }
+}

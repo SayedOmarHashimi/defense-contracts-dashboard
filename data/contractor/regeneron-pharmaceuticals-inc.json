@@ -1,0 +1,49 @@
+{
+  "name": "Regeneron Pharmaceuticals Inc",
+  "slug": "regeneron-pharmaceuticals-inc",
+  "ueis": [
+    "N3F9MH7E6HD6"
+  ],
+  "total_awarded": 5565000000.0,
+  "contract_count": 1,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 5565000000.0
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 0.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 5565000000.0,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 0.0,
+    "not_competed_amount": 5565000000.0,
+    "competed_pct": 0.0,
+    "not_competed_pct": 1.0
+  }
+}

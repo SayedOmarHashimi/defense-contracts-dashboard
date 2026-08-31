@@ -1,0 +1,49 @@
+{
+  "name": "Amerisourcebergen Drug Corp",
+  "slug": "amerisourcebergen-drug-corp",
+  "ueis": [
+    "KABZK8W6PQT3"
+  ],
+  "total_awarded": 24062884168.63,
+  "contract_count": 2584939,
+  "top_agency": "Defense Logistics Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 2143908821.0
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 2025700203.94
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1979119996.51
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 4392827444.45
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 6079773729.21
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 7441553973.52
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 24062884168.63,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 24062884168.63,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

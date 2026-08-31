@@ -1,0 +1,74 @@
+{
+  "name": "L3Harris Global Communications, Inc.",
+  "slug": "l3harris-global-communications-inc",
+  "ueis": [
+    "LJNAJVPB3MW1"
+  ],
+  "total_awarded": 3994166551.11,
+  "contract_count": 1196,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 459976234.43
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 465809299.1
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 616276267.41
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 616017806.4
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1032401357.19
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 803685586.58
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 3964614346.36,
+      "share": 0.9926
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 22792260.46,
+      "share": 0.0057
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 6577284.29,
+      "share": 0.0016
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": 157851.0,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 15257.0,
+      "share": 0.0
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 9552.0,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 161309093.04,
+    "not_competed_amount": 3832857458.07,
+    "competed_pct": 0.0404,
+    "not_competed_pct": 0.9596
+  }
+}

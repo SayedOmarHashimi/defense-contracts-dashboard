@@ -1,0 +1,80 @@
+{
+  "name": "The Mitre Corporation",
+  "slug": "the-mitre-corporation",
+  "ueis": [
+    "DMHDNDCPWUD1",
+    "GAVABYGCURL7"
+  ],
+  "total_awarded": 10000757457.14,
+  "contract_count": 278,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1602340232.32
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 1607937231.74
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1734927858.88
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1905554781.0
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1829446238.59
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1320551114.61
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 7060727550.06,
+      "share": 0.706
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 2701985241.91,
+      "share": 0.2702
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 153353916.63,
+      "share": 0.0153
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 70264633.15,
+      "share": 0.007
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 8105938.0,
+      "share": 0.0008
+    },
+    {
+      "agency": "Defense Human Resources Activity",
+      "amount": 3515443.39,
+      "share": 0.0004
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 2804734.0,
+      "share": 0.0003
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 257822523.23,
+    "not_competed_amount": 9742934933.91,
+    "competed_pct": 0.0258,
+    "not_competed_pct": 0.9742
+  }
+}

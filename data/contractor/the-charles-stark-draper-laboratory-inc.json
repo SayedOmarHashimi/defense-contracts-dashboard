@@ -1,0 +1,89 @@
+{
+  "name": "The Charles Stark Draper Laboratory, Inc.",
+  "slug": "the-charles-stark-draper-laboratory-inc",
+  "ueis": [
+    "GTJHZE4M7YK1"
+  ],
+  "total_awarded": 3004303162.65,
+  "contract_count": 223,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 458330752.19
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 426371541.65
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 381091810.09
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 487848363.61
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 755947229.1
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 494713466.01
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 2772903657.28,
+      "share": 0.923
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 64390088.95,
+      "share": 0.0214
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 55184308.48,
+      "share": 0.0184
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 49181881.37,
+      "share": 0.0164
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 40671879.66,
+      "share": 0.0135
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 18192483.14,
+      "share": 0.0061
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 9550812.0,
+      "share": 0.0032
+    },
+    {
+      "agency": "Immediate Office of the Secretary of Defense",
+      "amount": 251703.0,
+      "share": 0.0001
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -6023651.23,
+      "share": -0.002
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 186812567.32,
+    "not_competed_amount": 2817490595.33,
+    "competed_pct": 0.0622,
+    "not_competed_pct": 0.9378
+  }
+}

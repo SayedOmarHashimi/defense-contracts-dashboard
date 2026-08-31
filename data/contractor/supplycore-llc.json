@@ -1,0 +1,69 @@
+{
+  "name": "Supplycore LLC",
+  "slug": "supplycore-llc",
+  "ueis": [
+    "HTYJC5P9ZMH5"
+  ],
+  "total_awarded": 2715620308.87,
+  "contract_count": 213037,
+  "top_agency": "Defense Logistics Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 238991529.0
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 252758829.09
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 342099981.21
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 509051360.56
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 576047401.62
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 796671207.39
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 2710785886.81,
+      "share": 0.9982
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 4054466.58,
+      "share": 0.0015
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 468584.16,
+      "share": 0.0002
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 311359.21,
+      "share": 0.0001
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": 12.11,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 1938515329.45,
+    "not_competed_amount": 777104979.42,
+    "competed_pct": 0.7138,
+    "not_competed_pct": 0.2862
+  }
+}

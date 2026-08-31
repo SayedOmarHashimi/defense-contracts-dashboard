@@ -1,0 +1,64 @@
+{
+  "name": "Torch Technologies Inc",
+  "slug": "torch-technologies-inc",
+  "ueis": [
+    "YA63J5PVEZE6"
+  ],
+  "total_awarded": 3546555058.79,
+  "contract_count": 538,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 523415171.87
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 466543669.76
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 580314208.9
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 667471682.17
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 625788632.57
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 683021693.52
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 2829237277.4,
+      "share": 0.7977
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 656279083.22,
+      "share": 0.185
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 61038198.17,
+      "share": 0.0172
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 500.0,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3546555058.79,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

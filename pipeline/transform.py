@@ -32,10 +32,45 @@ def slugify(name: str) -> str:
     return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", ascii_name.lower())).strip("-")
 
 
+# Legal-form suffixes only. Meaningful words like "Systems", "Technologies"
+# and "Group" are deliberately NOT stripped -- "General Dynamics Corp" and
+# "General Dynamics Land Systems" are different entities and must stay apart.
+LEGAL_SUFFIXES = {
+    "corporation", "corp", "incorporated", "inc", "company", "co", "llc",
+    "llp", "lp", "ltd", "limited", "plc", "gmbh", "ag", "nv", "bv", "sa",
+}
+
+# Tokens that should stay upper-case after title-casing.
+ACRONYMS = {
+    "RTX", "LLC", "LLP", "LP", "PLC", "USA", "US", "UK", "BAE", "SAIC", "KBR",
+    "VSE", "DXC", "IBM", "HP", "L3", "AAR", "CACI", "ADS", "AECOM", "AM",
+    "GE", "BP", "DLA", "II", "III", "IV", "NCI", "SOS", "TSI", "AAI",
+}
+
+
 def normalize_name(name: str) -> str:
-    """Key used to merge UEI registrations belonging to one company."""
+    """Key used to merge UEI registrations belonging to one company.
+
+    Drops a leading "the" and any trailing legal-form suffixes so that
+    "The Boeing Company", "Boeing Co" and "Boeing Corporation" collapse to
+    one contractor instead of appearing as separate leaderboard rows.
+    """
     cleaned = re.sub(r"[^a-z0-9 ]+", " ", name.lower())
-    return re.sub(r"\s+", " ", cleaned).strip()
+    tokens = cleaned.split()
+    if tokens and tokens[0] == "the":
+        tokens = tokens[1:]
+    while len(tokens) > 1 and tokens[-1] in LEGAL_SUFFIXES:
+        tokens.pop()
+    return " ".join(tokens)
+
+
+def prettify(name: str) -> str:
+    """Title-case an ALL-CAPS API name without mangling acronyms."""
+    words = []
+    for word in name.title().split():
+        bare = re.sub(r"[^A-Za-z0-9]", "", word).upper()
+        words.append(word.upper() if bare in ACRONYMS else word)
+    return " ".join(words)
 
 
 def merge(entities: list[dict]) -> dict:
@@ -61,7 +96,7 @@ def merge(entities: list[dict]) -> dict:
     ranked_agencies = sorted(agencies.items(), key=lambda kv: kv[1], reverse=True)
 
     return {
-        "name": primary["name"].title(),
+        "name": prettify(primary["name"]),
         "slug": slugify(primary["name"]),
         "ueis": sorted(e["uei"] for e in entities),
         "total_awarded": round(total, 2),

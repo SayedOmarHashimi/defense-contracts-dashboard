@@ -1,0 +1,74 @@
+{
+  "name": "Rockwell Collins, Inc.",
+  "slug": "rockwell-collins-inc",
+  "ueis": [
+    "J4Q3HP6NHK47"
+  ],
+  "total_awarded": 4785784761.65,
+  "contract_count": 3302,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 628882012.5
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 545908251.22
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 714658214.22
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 943277614.4
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1028562585.94
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 924496083.37
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 2700980547.98,
+      "share": 0.5644
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 1304148582.46,
+      "share": 0.2725
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 617208143.08,
+      "share": 0.129
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 144779348.85,
+      "share": 0.0303
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 10709705.0,
+      "share": 0.0022
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": 7958434.28,
+      "share": 0.0017
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 1517839309.33,
+    "not_competed_amount": 3267945452.32,
+    "competed_pct": 0.3172,
+    "not_competed_pct": 0.6828
+  }
+}

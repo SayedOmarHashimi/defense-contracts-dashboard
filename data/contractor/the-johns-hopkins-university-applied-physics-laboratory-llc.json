@@ -1,0 +1,114 @@
+{
+  "name": "The Johns Hopkins University Applied Physics Laboratory LLC",
+  "slug": "the-johns-hopkins-university-applied-physics-laboratory-llc",
+  "ueis": [
+    "C1HBCJ9RMBV3"
+  ],
+  "total_awarded": 8481486145.97,
+  "contract_count": 3023,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1173630060.62
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 1198764056.72
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1212209994.76
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1469500699.06
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1514764294.03
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1912617040.78
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 4183719711.14,
+      "share": 0.4933
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 1058246356.4,
+      "share": 0.1248
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 1025935164.28,
+      "share": 0.121
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 995268344.65,
+      "share": 0.1173
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 762040820.07,
+      "share": 0.0898
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 197245059.43,
+      "share": 0.0233
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 90500276.37,
+      "share": 0.0107
+    },
+    {
+      "agency": "U.S. Cyber Command",
+      "amount": 86116428.23,
+      "share": 0.0102
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 42836273.94,
+      "share": 0.0051
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 25229964.01,
+      "share": 0.003
+    },
+    {
+      "agency": "Immediate Office of the Secretary of Defense",
+      "amount": 23626098.86,
+      "share": 0.0028
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 250000.0,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": -25356.07,
+      "share": -0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -9502995.34,
+      "share": -0.0011
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 179896228.3,
+    "not_competed_amount": 8301589917.67,
+    "competed_pct": 0.0212,
+    "not_competed_pct": 0.9788
+  }
+}

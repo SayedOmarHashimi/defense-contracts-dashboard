@@ -1,0 +1,109 @@
+{
+  "name": "Lockheed Martin Corporation",
+  "slug": "lockheed-martin-corporation",
+  "ueis": [
+    "CQWLW9XRQTH5",
+    "CWM4UN76ZQW8",
+    "FYHNA5WC8XD7",
+    "G4KDGE4JFFK7",
+    "H11HD5VHGHN3",
+    "H7PNSVNN5827",
+    "HJP4JZG1FUL9",
+    "JKVWEPKJRR65",
+    "KDT2YLB34NT6",
+    "KMEVRAKJVBD3",
+    "LXKGXB75YKY6",
+    "MJENSFHZJP11",
+    "NGBVY5X32XZ5",
+    "NMHFLDYJJ4C5",
+    "SJDEB3MKJEW5",
+    "XFJMYSYFJEK4"
+  ],
+  "total_awarded": 317161041633.23,
+  "contract_count": 20031,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 69067173848.46
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 33904387742.97
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 41011865396.97
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 61874441936.85
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 43492898610.88
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 67810274097.1
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 169754884227.75,
+      "share": 0.5352
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 69167871928.08,
+      "share": 0.2181
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 52379423699.92,
+      "share": 0.1652
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 17597876223.74,
+      "share": 0.0555
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 5075153350.51,
+      "share": 0.016
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 1493669091.0,
+      "share": 0.0047
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 1166741934.62,
+      "share": 0.0037
+    },
+    {
+      "agency": "Defense Microelectronics Activity",
+      "amount": 520588268.84,
+      "share": 0.0016
+    },
+    {
+      "agency": "Immediate Office of the Secretary of Defense",
+      "amount": 198467579.0,
+      "share": 0.0006
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -193634670.23,
+      "share": -0.0006
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 33747686019.46,
+    "not_competed_amount": 283413355613.77,
+    "competed_pct": 0.1064,
+    "not_competed_pct": 0.8936
+  }
+}

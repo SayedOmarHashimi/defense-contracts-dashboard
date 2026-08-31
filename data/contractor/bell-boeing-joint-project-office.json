@@ -1,0 +1,59 @@
+{
+  "name": "Bell Boeing Joint Project Office",
+  "slug": "bell-boeing-joint-project-office",
+  "ueis": [
+    "JHFZTG8ZC9V2"
+  ],
+  "total_awarded": 9550235352.64,
+  "contract_count": 12469,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 2039585976.17
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 2470234540.62
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1887441737.21
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 942847167.58
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 865141876.77
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1344984054.29
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 7846051928.51,
+      "share": 0.8216
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 1712093218.74,
+      "share": 0.1793
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -7909794.61,
+      "share": -0.0008
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 27605835.8,
+    "not_competed_amount": 9522629516.84,
+    "competed_pct": 0.0029,
+    "not_competed_pct": 0.9971
+  }
+}

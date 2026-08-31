@@ -1,0 +1,49 @@
+{
+  "name": "Dragados/Hawaiian Dredging/Orion Jv",
+  "slug": "dragados-hawaiian-dredging-orion-jv",
+  "ueis": [
+    "E8AXVANBZBD4"
+  ],
+  "total_awarded": 2724412768.15,
+  "contract_count": 4,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 2450000.0
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 463600000.0
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 790689582.0
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1467673186.15
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 2724412768.15,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2724412768.15,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

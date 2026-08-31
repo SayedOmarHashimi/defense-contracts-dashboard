@@ -1,0 +1,114 @@
+{
+  "name": "Dell Marketing L.P.",
+  "slug": "dell-marketing-l-p",
+  "ueis": [
+    "HJLSY7RZV8X6"
+  ],
+  "total_awarded": 5846206752.24,
+  "contract_count": 3134,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 234099860.09
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 191845261.62
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 348899265.04
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1402975424.78
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1810295415.74
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1858091524.97
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 1946507954.18,
+      "share": 0.333
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 1643680206.89,
+      "share": 0.2812
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 1380274308.18,
+      "share": 0.2361
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 301198592.9,
+      "share": 0.0515
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 244527463.78,
+      "share": 0.0418
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 156526820.51,
+      "share": 0.0268
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 153541960.32,
+      "share": 0.0263
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 11707946.62,
+      "share": 0.002
+    },
+    {
+      "agency": "Defense Media Activity",
+      "amount": 6654842.85,
+      "share": 0.0011
+    },
+    {
+      "agency": "Defense Microelectronics Activity",
+      "amount": 1127666.39,
+      "share": 0.0002
+    },
+    {
+      "agency": "Defense Human Resources Activity",
+      "amount": 448080.83,
+      "share": 0.0001
+    },
+    {
+      "agency": "U.S. Cyber Command",
+      "amount": 33632.46,
+      "share": 0.0
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": -1584.95,
+      "share": -0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -21138.72,
+      "share": -0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 5844857742.49,
+    "not_competed_amount": 1349009.75,
+    "competed_pct": 0.9998,
+    "not_competed_pct": 0.0002
+  }
+}

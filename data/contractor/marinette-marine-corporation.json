@@ -1,0 +1,59 @@
+{
+  "name": "Marinette Marine Corporation",
+  "slug": "marinette-marine-corporation",
+  "ueis": [
+    "UZWBWJN3NLP3"
+  ],
+  "total_awarded": 3897031329.49,
+  "contract_count": 11,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 802165451.0
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 562389288.0
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 637112067.78
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 613173093.0
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1146389682.61
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 135801747.1
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 3846837870.49,
+      "share": 0.9871
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 50144274.0,
+      "share": 0.0129
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 49185.0,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3897031329.49,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

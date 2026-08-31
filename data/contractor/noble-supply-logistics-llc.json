@@ -1,0 +1,89 @@
+{
+  "name": "Noble Supply & Logistics, LLC",
+  "slug": "noble-supply-logistics-llc",
+  "ueis": [
+    "YLE5AAYNVPK6"
+  ],
+  "total_awarded": 4226350232.23,
+  "contract_count": 263667,
+  "top_agency": "Defense Logistics Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 163193869.24
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 232443653.74
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 728495715.17
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1002998773.02
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1183728179.34
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 915490041.72
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 4140519410.25,
+      "share": 0.9797
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 50193864.11,
+      "share": 0.0119
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 18031098.6,
+      "share": 0.0043
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 15135836.69,
+      "share": 0.0036
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 1127661.0,
+      "share": 0.0003
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 874625.6,
+      "share": 0.0002
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 428925.94,
+      "share": 0.0001
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 20621.36,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 18188.68,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3922664439.76,
+    "not_competed_amount": 303685792.47,
+    "competed_pct": 0.9281,
+    "not_competed_pct": 0.0719
+  }
+}

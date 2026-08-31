@@ -1,0 +1,18 @@
+{
+  "source": "USASpending.gov API v2",
+  "source_url": "https://api.usaspending.gov",
+  "generated_at": "2026-08-31T23:27:55+00:00",
+  "fiscal_years": {
+    "start": 2020,
+    "end": 2025
+  },
+  "awarding_agency": "Department of Defense",
+  "award_type_codes": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "contractor_count": 100,
+  "merged_uei_registrations": 145
+}

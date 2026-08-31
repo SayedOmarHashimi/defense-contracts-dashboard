@@ -1,0 +1,49 @@
+{
+  "name": "Defense Systems And Solutions",
+  "slug": "defense-systems-and-solutions",
+  "ueis": [
+    "NWKQVQED4C81"
+  ],
+  "total_awarded": 2743603957.14,
+  "contract_count": 591,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 477061973.13
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 322661276.84
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 268515719.92
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 455759620.97
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 546528051.38
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 673077314.9
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 2743603957.14,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2743603957.14,
+    "not_competed_amount": 0.0,
+    "competed_pct": 1.0,
+    "not_competed_pct": 0.0
+  }
+}

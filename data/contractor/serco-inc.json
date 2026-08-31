@@ -1,0 +1,89 @@
+{
+  "name": "Serco Inc",
+  "slug": "serco-inc",
+  "ueis": [
+    "DKJ1R5ABCN48"
+  ],
+  "total_awarded": 4043205474.66,
+  "contract_count": 1399,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 407895459.48
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 423742051.77
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 510546312.95
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 685491965.55
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1087917492.56
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 927612192.35
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 3014509366.29,
+      "share": 0.7456
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 591344594.97,
+      "share": 0.1463
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 341257422.61,
+      "share": 0.0844
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 62670624.35,
+      "share": 0.0155
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 18949837.61,
+      "share": 0.0047
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 10924288.0,
+      "share": 0.0027
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 4558389.4,
+      "share": 0.0011
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 2839017.9,
+      "share": 0.0007
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -3848066.47,
+      "share": -0.001
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3990580081.11,
+    "not_competed_amount": 52625393.55,
+    "competed_pct": 0.987,
+    "not_competed_pct": 0.013
+  }
+}

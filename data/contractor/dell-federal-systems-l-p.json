@@ -1,0 +1,129 @@
+{
+  "name": "Dell Federal Systems L.P",
+  "slug": "dell-federal-systems-l-p",
+  "ueis": [
+    "N1C5QLNPJLS4"
+  ],
+  "total_awarded": 2831285884.55,
+  "contract_count": 5011,
+  "top_agency": "Defense Information Systems Agency",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 703751277.0
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 666124568.6
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 669531068.47
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 269597235.09
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 312366880.86
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 209914854.53
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 1146710003.82,
+      "share": 0.405
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 796210842.48,
+      "share": 0.2812
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 628771207.22,
+      "share": 0.2221
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 132480588.03,
+      "share": 0.0468
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 102271542.24,
+      "share": 0.0361
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 17425397.04,
+      "share": 0.0062
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 2906554.18,
+      "share": 0.001
+    },
+    {
+      "agency": "Defense Human Resources Activity",
+      "amount": 1418988.57,
+      "share": 0.0005
+    },
+    {
+      "agency": "USTRANSCOM",
+      "amount": 853209.29,
+      "share": 0.0003
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 727918.91,
+      "share": 0.0003
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": 595503.81,
+      "share": 0.0002
+    },
+    {
+      "agency": "U.S. Cyber Command",
+      "amount": 558000.0,
+      "share": 0.0002
+    },
+    {
+      "agency": "Defense Commissary Agency",
+      "amount": 213302.4,
+      "share": 0.0001
+    },
+    {
+      "agency": "Department of Defense Education Activity",
+      "amount": 47700.0,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 42046.56,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Finance and Accounting Service",
+      "amount": 32637.2,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Microelectronics Activity",
+      "amount": 20442.8,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2689216304.94,
+    "not_competed_amount": 142069579.61,
+    "competed_pct": 0.9498,
+    "not_competed_pct": 0.0502
+  }
+}

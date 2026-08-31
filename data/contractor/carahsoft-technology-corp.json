@@ -1,0 +1,149 @@
+{
+  "name": "Carahsoft Technology Corp",
+  "slug": "carahsoft-technology-corp",
+  "ueis": [
+    "DT8KJHZXVJH5"
+  ],
+  "total_awarded": 4323802929.74,
+  "contract_count": 6042,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 563746060.83
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 550969641.44
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 546845046.5
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 679772650.49
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 923217864.22
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1059251666.26
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 986323594.19,
+      "share": 0.2281
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 986186724.92,
+      "share": 0.2281
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 787080345.55,
+      "share": 0.182
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 739383289.23,
+      "share": 0.171
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 430896635.87,
+      "share": 0.0997
+    },
+    {
+      "agency": "Defense Counterintelligence and Security Agency",
+      "amount": 162099270.32,
+      "share": 0.0375
+    },
+    {
+      "agency": "Defense Health Agency",
+      "amount": 41202355.87,
+      "share": 0.0095
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 41025533.75,
+      "share": 0.0095
+    },
+    {
+      "agency": "Department of Defense Education Activity",
+      "amount": 39099993.48,
+      "share": 0.009
+    },
+    {
+      "agency": "USTRANSCOM",
+      "amount": 30368275.53,
+      "share": 0.007
+    },
+    {
+      "agency": "Defense Finance and Accounting Service",
+      "amount": 20472019.37,
+      "share": 0.0047
+    },
+    {
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 14258521.76,
+      "share": 0.0033
+    },
+    {
+      "agency": "Defense Microelectronics Activity",
+      "amount": 14149285.29,
+      "share": 0.0033
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 13532303.23,
+      "share": 0.0031
+    },
+    {
+      "agency": "Defense Human Resources Activity",
+      "amount": 7221395.43,
+      "share": 0.0017
+    },
+    {
+      "agency": "Uniformed Services University of the Health Sciences",
+      "amount": 4693873.36,
+      "share": 0.0011
+    },
+    {
+      "agency": "Defense Media Activity",
+      "amount": 4676582.73,
+      "share": 0.0011
+    },
+    {
+      "agency": "Defense Commissary Agency",
+      "amount": 1477613.16,
+      "share": 0.0003
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 1101815.78,
+      "share": 0.0003
+    },
+    {
+      "agency": "Office of the Inspector General",
+      "amount": 64247.3,
+      "share": 0.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -1510746.38,
+      "share": -0.0003
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 3943377050.56,
+    "not_competed_amount": 380425879.18,
+    "competed_pct": 0.912,
+    "not_competed_pct": 0.088
+  }
+}

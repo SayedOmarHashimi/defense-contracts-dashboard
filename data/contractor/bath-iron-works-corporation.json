@@ -1,0 +1,54 @@
+{
+  "name": "Bath Iron Works Corporation",
+  "slug": "bath-iron-works-corporation",
+  "ueis": [
+    "FREEMCLKFXE3"
+  ],
+  "total_awarded": 10555184898.05,
+  "contract_count": 92,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2020,
+      "amount": 1677516666.1
+    },
+    {
+      "fiscal_year": 2021,
+      "amount": 1047821893.8
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 1254677330.81
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 2122566289.75
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 2082161580.7
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 2370441136.89
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 10554796271.0,
+      "share": 1.0
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 388627.05,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 9008078810.18,
+    "not_competed_amount": 1547106087.87,
+    "competed_pct": 0.8534,
+    "not_competed_pct": 0.1466
+  }
+}
