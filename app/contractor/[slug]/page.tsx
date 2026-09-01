@@ -20,9 +20,25 @@ export const dynamicParams = false;
 export async function generateMetadata({ params }: { params: { slug: string } }) {
   const contractor = await getContractor(params.slug);
   if (!contractor) return { title: 'Contractor not found' };
+  const description = `${formatCompactUsd(contractor.total_awarded)} in Department of Defense prime contract obligations to ${contractor.name}, FY2020-FY2025.`;
+
   return {
-    title: `${contractor.name} — Defense Contracts Dashboard`,
-    description: `${formatCompactUsd(contractor.total_awarded)} in Department of Defense prime contract obligations to ${contractor.name}.`,
+    // The root layout's title template appends the site name.
+    title: contractor.name,
+    description,
+    // Set explicitly so a shared contractor link previews that contractor
+    // rather than inheriting the site-wide card from the root layout.
+    openGraph: {
+      title: `${contractor.name} — Defense Contracts Dashboard`,
+      description,
+      url: `/contractor/${contractor.slug}`,
+      type: 'article',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${contractor.name} — Defense Contracts Dashboard`,
+      description,
+    },
   };
 }
 

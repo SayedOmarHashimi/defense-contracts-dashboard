@@ -1,0 +1,41 @@
+name: Refresh contract data
+
+on:
+  schedule:
+    # 11:00 UTC daily. USASpending publishes on a lag, so the exact hour is
+    # not significant; this just keeps the exports from going stale.
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    # The full pull is ~150 contractors x 5 aggregation queries against a
+    # public API, so it is slow by design rather than broken.
+    timeout-minutes: 120
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # The pipeline is standard library only, so there is nothing to install.
+      - name: Run ingestion pipeline
+        working-directory: pipeline
+        run: python run.py
+
+      - name: Commit refreshed exports
+        run: |
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "omarhashimi12@gmail.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "No change in the exports; nothing to commit."
+          else
+            git commit -m "Refresh contract data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

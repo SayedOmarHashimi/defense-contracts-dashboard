@@ -68,6 +68,25 @@ shipping the dataset to the browser. Every contractor page is prerendered via
 `generateStaticParams`, and `dynamicParams = false` makes an unknown slug a 404
 instead of an on-demand render.
 
+## Deployment
+
+Deployed to Vercel as a standard Next.js project. There is deliberately **no
+`vercel.json`**: nothing here departs from Vercel's defaults for Next.js, and
+an empty config file is a thing to maintain for no benefit.
+
+Set `NEXT_PUBLIC_SITE_URL` to the production origin so Open Graph tags
+resolve to absolute URLs. Without it the build falls back to Vercel's own
+deployment host, and then to `http://localhost:3000` for local builds.
+
+There are no secrets. The USASpending API needs no key, so no environment
+variable holds anything sensitive.
+
+`.github/workflows/refresh-data.yml` re-runs the pipeline daily, commits the
+exports when they change, and that commit triggers a redeploy. The job is
+allowed two hours: the pull is ~150 contractors x 5 aggregation queries
+against a public API, and the raw snapshot is not committed, so each run
+starts from scratch.
+
 ## Motion
 
 Motion is CSS-only and deliberately restrained, following Emil Kowalski's
