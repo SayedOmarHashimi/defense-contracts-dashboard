@@ -70,6 +70,16 @@ instead of an on-demand render.
 
 ## Deployment
 
+```bash
+npx vercel link          # link this directory to a Vercel project
+npx vercel pull          # fetch project settings into .vercel/
+npx vercel build         # reproduce the production build locally
+npx vercel deploy        # preview URL; add --prod to promote
+```
+
+`vercel build` needs `vercel pull` to have run first, which requires being
+logged in — the project settings are not in this repo.
+
 Deployed to Vercel as a standard Next.js project. There is deliberately **no
 `vercel.json`**: nothing here departs from Vercel's defaults for Next.js, and
 an empty config file is a thing to maintain for no benefit.
