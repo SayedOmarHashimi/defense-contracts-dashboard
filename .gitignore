@@ -35,3 +35,7 @@ data/raw/
 
 # third-party agent skills installed via `npx skills add`
 .agents/
+# Vercel CLI writes .env.local with a real VERCEL_OIDC_TOKEN.
+.env*
+# ...but the checked-in template must stay tracked.
+!.env.example
