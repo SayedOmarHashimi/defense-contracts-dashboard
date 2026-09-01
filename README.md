@@ -4,6 +4,9 @@ A public, statically-generated dashboard of U.S. Department of Defense prime
 contract awards, built from [USASpending.gov](https://www.usaspending.gov)
 open data. No authentication, no database, no API keys.
 
+**Live:** https://defense-contracts-dashboard.vercel.app
+&middot; [Methodology](https://defense-contracts-dashboard.vercel.app/methodology)
+
 ## Status
 
 | Stage | Scope                            | State       |
