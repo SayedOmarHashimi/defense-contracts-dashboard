@@ -92,11 +92,11 @@ starts from scratch.
 Motion is CSS-only and deliberately restrained, following Emil Kowalski's
 animation guidance:
 
-| Element | Motion | Duration |
-| ------- | ------ | -------- |
-| Route change | opacity fade (`app/template.tsx`) | 180ms |
-| Detail page sections | opacity + 8px rise, 40ms stagger | 260ms |
-| Leaderboard rows | background colour on hover | 120ms |
+| Element              | Motion                            | Duration |
+| -------------------- | --------------------------------- | -------- |
+| Route change         | opacity fade (`app/template.tsx`) | 180ms    |
+| Detail page sections | opacity + 8px rise, 40ms stagger  | 260ms    |
+| Leaderboard rows     | background colour on hover        | 120ms    |
 
 All of it uses `transform` and `opacity` only, on a strong ease-out
 (`cubic-bezier(0.23, 1, 0.32, 1)`). Hover is gated behind

@@ -45,7 +45,22 @@ ACRONYMS = {
     "RTX", "LLC", "LLP", "LP", "PLC", "USA", "US", "UK", "BAE", "SAIC", "KBR",
     "VSE", "DXC", "IBM", "HP", "L3", "AAR", "CACI", "ADS", "AECOM", "AM",
     "GE", "BP", "DLA", "II", "III", "IV", "NCI", "SOS", "TSI", "AAI",
+    "ASRC", "HII", "DRS", "OTS", "JV", "BL", "KK", "MITRE",
 }
+
+# Brands whose own styling is neither all-caps nor plain title case.
+MIXED_CASE = {
+    "amerisourcebergen": "AmerisourceBergen",
+    "mckesson": "McKesson",
+    "supplycore": "SupplyCore",
+    "modernatx": "ModernaTX",
+    "dyncorp": "DynCorp",
+    "l3harris": "L3Harris",
+}
+
+# str.title() capitalises every word, which is wrong for joining words in the
+# middle of a name: "Massachusetts Institute Of Technology".
+LOWERCASE_WORDS = {"of", "and", "the", "for", "in", "on", "to", "at", "by"}
 
 
 def normalize_name(name: str) -> str:
@@ -65,11 +80,18 @@ def normalize_name(name: str) -> str:
 
 
 def prettify(name: str) -> str:
-    """Title-case an ALL-CAPS API name without mangling acronyms."""
+    """Title-case an ALL-CAPS API name without mangling acronyms or brands."""
     words = []
-    for word in name.title().split():
-        bare = re.sub(r"[^A-Za-z0-9]", "", word).upper()
-        words.append(word.upper() if bare in ACRONYMS else word)
+    for index, word in enumerate(name.title().split()):
+        bare = re.sub(r"[^A-Za-z0-9]", "", word)
+        if bare.upper() in ACRONYMS:
+            words.append(word.upper())
+        elif bare.lower() in MIXED_CASE:
+            words.append(word.replace(bare, MIXED_CASE[bare.lower()]))
+        elif index > 0 and bare.lower() in LOWERCASE_WORDS:
+            words.append(word.lower())
+        else:
+            words.append(word)
     return " ".join(words)
 
 

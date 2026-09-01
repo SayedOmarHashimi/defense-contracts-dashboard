@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "name": "Amerisourcebergen Drug Corp",
+    "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 24062884168.63,
     "contract_count": 2584939,
@@ -193,7 +193,7 @@
   },
   {
     "id": 25,
-    "name": "The Mitre Corporation",
+    "name": "The MITRE Corporation",
     "slug": "the-mitre-corporation",
     "total_awarded": 10000757457.14,
     "contract_count": 278,
@@ -217,7 +217,7 @@
   },
   {
     "id": 28,
-    "name": "Mckesson Corporation",
+    "name": "McKesson Corporation",
     "slug": "mckesson-corporation",
     "total_awarded": 9320298936.38,
     "contract_count": 145788,
@@ -257,7 +257,7 @@
   },
   {
     "id": 33,
-    "name": "Modernatx, Inc.",
+    "name": "ModernaTX, Inc.",
     "slug": "modernatx-inc",
     "total_awarded": 8204906278.12,
     "contract_count": 2,
@@ -273,7 +273,7 @@
   },
   {
     "id": 35,
-    "name": "Massachusetts Institute Of Technology",
+    "name": "Massachusetts Institute of Technology",
     "slug": "massachusetts-institute-of-technology",
     "total_awarded": 7608367701.69,
     "contract_count": 34,
@@ -289,7 +289,7 @@
   },
   {
     "id": 37,
-    "name": "National Steel And Shipbuilding Company",
+    "name": "National Steel and Shipbuilding Company",
     "slug": "national-steel-and-shipbuilding-company",
     "total_awarded": 7135751890.97,
     "contract_count": 54,
@@ -369,7 +369,7 @@
   },
   {
     "id": 47,
-    "name": "Valero Marketing And Supply Co",
+    "name": "Valero Marketing and Supply Co",
     "slug": "valero-marketing-and-supply-co",
     "total_awarded": 5731417017.44,
     "contract_count": 920,
@@ -417,7 +417,7 @@
   },
   {
     "id": 53,
-    "name": "Raytheon/Lockheed Martin Javelin Jv",
+    "name": "Raytheon/Lockheed Martin Javelin JV",
     "slug": "raytheon-lockheed-martin-javelin-jv",
     "total_awarded": 5128721013.04,
     "contract_count": 43,
@@ -441,7 +441,7 @@
   },
   {
     "id": 56,
-    "name": "BAE Systems Information And Electronic Systems Integration Inc.",
+    "name": "BAE Systems Information and Electronic Systems Integration Inc.",
     "slug": "bae-systems-information-and-electronic-systems-integration-inc",
     "total_awarded": 4760044026.03,
     "contract_count": 767,
@@ -449,7 +449,7 @@
   },
   {
     "id": 57,
-    "name": "Ministry Of Defense",
+    "name": "Ministry of Defense",
     "slug": "ministry-of-defense",
     "total_awarded": 4683564028.28,
     "contract_count": 60,
@@ -465,7 +465,7 @@
   },
   {
     "id": 59,
-    "name": "Eli Lilly And Company",
+    "name": "Eli Lilly and Company",
     "slug": "eli-lilly-and-company",
     "total_awarded": 4666380000.0,
     "contract_count": 5,
@@ -489,7 +489,7 @@
   },
   {
     "id": 62,
-    "name": "BAE Systems Land And Armaments L.P.",
+    "name": "BAE Systems Land and Armaments L.P.",
     "slug": "bae-systems-land-and-armaments-l-p",
     "total_awarded": 4312868660.39,
     "contract_count": 58,
@@ -497,7 +497,7 @@
   },
   {
     "id": 63,
-    "name": "Dyncorp International LLC",
+    "name": "DynCorp International LLC",
     "slug": "dyncorp-international-llc",
     "total_awarded": 4301803622.6,
     "contract_count": 179,
@@ -553,7 +553,7 @@
   },
   {
     "id": 70,
-    "name": "Asrc Federal Facilities Logistics, LLC",
+    "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3888936710.89,
     "contract_count": 1870054,
@@ -601,7 +601,7 @@
   },
   {
     "id": 76,
-    "name": "Hii Mission Technologies Corp",
+    "name": "HII Mission Technologies Corp",
     "slug": "hii-mission-technologies-corp",
     "total_awarded": 3475111208.57,
     "contract_count": 186,
@@ -641,7 +641,7 @@
   },
   {
     "id": 81,
-    "name": "Drs Network & Imaging Systems LLC",
+    "name": "DRS Network & Imaging Systems LLC",
     "slug": "drs-network-imaging-systems-llc",
     "total_awarded": 3178133136.58,
     "contract_count": 1468,
@@ -745,7 +745,7 @@
   },
   {
     "id": 94,
-    "name": "Defense Systems And Solutions",
+    "name": "Defense Systems and Solutions",
     "slug": "defense-systems-and-solutions",
     "total_awarded": 2743603957.14,
     "contract_count": 591,
@@ -753,7 +753,7 @@
   },
   {
     "id": 95,
-    "name": "Dragados/Hawaiian Dredging/Orion Jv",
+    "name": "Dragados/Hawaiian Dredging/Orion JV",
     "slug": "dragados-hawaiian-dredging-orion-jv",
     "total_awarded": 2724412768.15,
     "contract_count": 4,
@@ -761,7 +761,7 @@
   },
   {
     "id": 96,
-    "name": "Supplycore LLC",
+    "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
     "total_awarded": 2715620308.87,
     "contract_count": 213037,
@@ -769,7 +769,7 @@
   },
   {
     "id": 97,
-    "name": "Bl Harbert International LLC",
+    "name": "BL Harbert International LLC",
     "slug": "bl-harbert-international-llc",
     "total_awarded": 2712815676.15,
     "contract_count": 50,
@@ -785,7 +785,7 @@
   },
   {
     "id": 99,
-    "name": "General Dynamics Ots (Wilkes Barre), LLC",
+    "name": "General Dynamics OTS (Wilkes Barre), LLC",
     "slug": "general-dynamics-ots-wilkes-barre-llc",
     "total_awarded": 2592802976.79,
     "contract_count": 133,
