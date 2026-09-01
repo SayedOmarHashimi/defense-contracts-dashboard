@@ -46,7 +46,7 @@ function SortButton({
     <button
       type="button"
       onClick={() => onSort(column)}
-      className="inline-flex items-center gap-1 font-semibold hover:underline"
+      className="inline-flex items-center gap-1 rounded-sm font-semibold hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
       aria-label={`Sort by ${label}`}
     >
       {label}
@@ -113,7 +113,7 @@ export default function Leaderboard({ contractors }: { contractors: ContractorSu
             value={query}
             onChange={(event) => setQuery(event.target.value)}
             placeholder="e.g. Boeing"
-            className="mt-1 w-full rounded border border-gray-300 px-3 py-2 text-sm focus:border-gray-900 focus:outline-none"
+            className="mt-1 w-full rounded border border-gray-300 px-3 py-2 text-sm transition-colors duration-150 focus:border-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-600"
           />
         </div>
         <div className="sm:w-72">
@@ -124,7 +124,7 @@ export default function Leaderboard({ contractors }: { contractors: ContractorSu
             id="agency"
             value={agency}
             onChange={(event) => setAgency(event.target.value)}
-            className="mt-1 w-full rounded border border-gray-300 bg-white px-3 py-2 text-sm focus:border-gray-900 focus:outline-none"
+            className="mt-1 w-full rounded border border-gray-300 bg-white px-3 py-2 text-sm transition-colors duration-150 focus:border-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-600"
           >
             <option value="all">All agencies</option>
             {agencies.map((name) => (
@@ -189,12 +189,12 @@ export default function Leaderboard({ contractors }: { contractors: ContractorSu
           </thead>
           <tbody>
             {rows.map((contractor) => (
-              <tr key={contractor.slug} className="border-b border-gray-200 hover:bg-gray-50">
+              <tr key={contractor.slug} className="row-interactive border-b border-gray-200">
                 <td className="py-2 pr-3 tabular-nums text-gray-500">{contractor.id}</td>
                 <td className="py-2 pr-3">
                   <Link
                     href={`/contractor/${contractor.slug}`}
-                    className="font-medium text-gray-900 underline underline-offset-2"
+                    className="rounded-sm font-medium text-gray-900 underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
                   >
                     {contractor.name}
                   </Link>

@@ -1,3 +1,90 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    /* Built-in CSS easings are too weak for UI; this is the strong ease-out. */
+    --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+    --duration-enter: 180ms;
+    --duration-reveal: 260ms;
+    --duration-hover: 120ms;
+  }
+}
+
+@layer components {
+  /*
+   * Route entrance. CSS rather than a JS library on purpose: it runs off the
+   * main thread, so it still plays smoothly while the page is loading and
+   * hydrating. Transform + opacity only.
+   */
+  .page-enter {
+    animation: page-enter var(--duration-enter) var(--ease-out) both;
+  }
+
+  /*
+   * Section reveal on the detail page. Delays are set per section rather than
+   * by :nth-child so that adding a section does not silently reshuffle them.
+   */
+  .reveal {
+    animation: reveal var(--duration-reveal) var(--ease-out) both;
+    animation-delay: var(--reveal-delay, 0ms);
+  }
+
+  .row-interactive {
+    /* Named property, never `all`. */
+    transition: background-color var(--duration-hover) ease;
+  }
+
+  /* Touch devices fire a false hover on tap that then sticks. */
+  @media (hover: hover) and (pointer: fine) {
+    .row-interactive:hover {
+      background-color: theme('colors.gray.50');
+    }
+  }
+}
+
+/* Opacity only: the detail page's sections carry the positional motion, and
+   compounding two transforms on nested elements reads as a double animation. */
+@keyframes page-enter {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-only {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/*
+ * Reduced motion means fewer and gentler, not none: the fades stay so content
+ * still does not teleport in, but every positional change is dropped and the
+ * stagger collapses so nothing is held back.
+ */
+@media (prefers-reduced-motion: reduce) {
+  .page-enter,
+  .reveal {
+    animation-name: fade-only;
+    animation-duration: var(--duration-hover);
+    animation-delay: 0ms;
+  }
+}

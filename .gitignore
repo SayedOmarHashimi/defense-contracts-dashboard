@@ -32,3 +32,6 @@ venv/
 
 # raw API snapshots are large and reproducible; exports are committed
 data/raw/
+
+# third-party agent skills installed via `npx skills add`
+.agents/

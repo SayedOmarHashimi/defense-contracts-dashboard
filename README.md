@@ -68,6 +68,32 @@ shipping the dataset to the browser. Every contractor page is prerendered via
 `generateStaticParams`, and `dynamicParams = false` makes an unknown slug a 404
 instead of an on-demand render.
 
+## Motion
+
+Motion is CSS-only and deliberately restrained, following Emil Kowalski's
+animation guidance:
+
+| Element | Motion | Duration |
+| ------- | ------ | -------- |
+| Route change | opacity fade (`app/template.tsx`) | 180ms |
+| Detail page sections | opacity + 8px rise, 40ms stagger | 260ms |
+| Leaderboard rows | background colour on hover | 120ms |
+
+All of it uses `transform` and `opacity` only, on a strong ease-out
+(`cubic-bezier(0.23, 1, 0.32, 1)`). Hover is gated behind
+`(hover: hover) and (pointer: fine)` so tapping on a touch device does not
+leave a stuck highlight, and every interactive element has a visible
+`:focus-visible` ring.
+
+No JavaScript animation library is used. All of this motion is
+predetermined, and CSS animations run off the main thread, so they keep
+playing smoothly while the page is still loading and hydrating. Table rows
+never move: they are data being read, so only their background changes.
+
+Under `prefers-reduced-motion: reduce` every animation falls back to a
+120ms opacity fade with the stagger removed - gentler and fewer, not none,
+so content still does not teleport into place.
+
 ## Scope and caveats
 
 - **Agency:** Department of Defense only, as the _awarding_ agency.

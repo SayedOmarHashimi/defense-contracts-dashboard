@@ -1,3 +1,5 @@
+import type { CSSProperties } from 'react';
+
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
@@ -32,7 +34,10 @@ export default async function ContractorPage({ params }: { params: { slug: strin
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-8 sm:px-6 sm:py-12">
-      <Link href="/" className="text-sm text-gray-600 underline underline-offset-2">
+      <Link
+        href="/"
+        className="rounded-sm text-sm text-gray-600 underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
+      >
         &larr; Back to leaderboard
       </Link>
 
@@ -44,7 +49,10 @@ export default async function ContractorPage({ params }: { params: { slug: strin
         </p>
       </header>
 
-      <section className="mt-6 grid gap-3 sm:grid-cols-3">
+      <section
+        className="reveal mt-6 grid gap-3 sm:grid-cols-3"
+        style={{ '--reveal-delay': '40ms' } as CSSProperties}
+      >
         <StatTile
           label="Total obligated"
           value={formatCompactUsd(contractor.total_awarded)}
@@ -64,7 +72,7 @@ export default async function ContractorPage({ params }: { params: { slug: strin
         />
       </section>
 
-      <section className="mt-10">
+      <section className="reveal mt-10" style={{ '--reveal-delay': '80ms' } as CSSProperties}>
         <h2 className="text-lg font-semibold">Obligations by fiscal year</h2>
         <p className="mt-1 text-sm text-gray-600">
           Dollars obligated in each fiscal year, not cash paid out. Large multi-year awards land
@@ -75,7 +83,7 @@ export default async function ContractorPage({ params }: { params: { slug: strin
         </div>
       </section>
 
-      <section className="mt-10">
+      <section className="reveal mt-10" style={{ '--reveal-delay': '120ms' } as CSSProperties}>
         <h2 className="text-lg font-semibold">Awarding sub-agencies</h2>
         <p className="mt-1 text-sm text-gray-600">
           Ranked by dollars obligated. Negative bars are net deobligations, where funds were
@@ -86,7 +94,7 @@ export default async function ContractorPage({ params }: { params: { slug: strin
         </div>
       </section>
 
-      <section className="mt-10">
+      <section className="reveal mt-10" style={{ '--reveal-delay': '160ms' } as CSSProperties}>
         <h2 className="text-lg font-semibold">Competition</h2>
         <p className="mt-1 text-sm text-gray-600">
           Share of obligated dollars awarded competitively, by FPDS extent-of-competition code.
