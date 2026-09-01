@@ -4,8 +4,8 @@
   "ueis": [
     "GJMSFBCNMSK3"
   ],
-  "total_awarded": 24142592849.38,
-  "contract_count": 376026,
+  "total_awarded": 24184532953.8,
+  "contract_count": 376385,
   "top_agency": "Defense Logistics Agency",
   "yearly_totals": [
     {
@@ -30,18 +30,18 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 3413279106.9
+      "amount": 3455219211.32
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Defense Logistics Agency",
-      "amount": 23641957745.45,
+      "amount": 23683855799.47,
       "share": 0.9793
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 270751376.14,
+      "amount": 270793426.54,
       "share": 0.0112
     },
     {
@@ -81,8 +81,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 23724333337.39,
-    "not_competed_amount": 418259511.99,
+    "competed_amount": 23766129835.72,
+    "not_competed_amount": 418403118.08,
     "competed_pct": 0.9827,
     "not_competed_pct": 0.0173
   }
