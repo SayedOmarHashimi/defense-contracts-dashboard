@@ -5,6 +5,7 @@ contract awards, built from [USASpending.gov](https://www.usaspending.gov)
 open data. No authentication, no database, no API keys.
 
 **Live:** https://defense-contracts-dashboard.vercel.app
+&middot; [Latest awards](https://defense-contracts-dashboard.vercel.app/latest)
 &middot; [Methodology](https://defense-contracts-dashboard.vercel.app/methodology)
 
 ## Status
@@ -18,6 +19,23 @@ open data. No authentication, no database, no API keys.
 | 4     | Contractor detail pages          | not started |
 | 5     | Animation / polish pass          | not started |
 | 6     | Deploy config + methodology page | not started |
+
+## Two data paths
+
+The site reads USASpending two ways, because the two questions cost very
+different amounts to answer.
+
+| Surface                       | How it is fetched                      | Freshness                                  |
+| ----------------------------- | -------------------------------------- | ------------------------------------------ |
+| Leaderboard, contractor pages | Python pipeline, ~750 queries, ~40 min | Rebuilt every 6 hours                      |
+| `/latest`                     | One query from `lib/usaspending.ts`    | Regenerated on demand, at most every 5 min |
+
+The aggregate is too expensive to run per request, so it stays a stored
+snapshot. The latest-awards feed is a single query, so it runs live.
+
+Neither can outrun the source: agencies report to FPDS on a delay, so
+USASpending is itself days behind the contracts it describes. `/latest`
+measures and displays that lag rather than hiding it.
 
 ## Data pipeline
 
@@ -94,8 +112,8 @@ deployment host, and then to `http://localhost:3000` for local builds.
 There are no secrets. The USASpending API needs no key, so no environment
 variable holds anything sensitive.
 
-`.github/workflows/refresh-data.yml` re-runs the pipeline daily, commits the
-exports when they change, and that commit triggers a redeploy. The job is
+`.github/workflows/refresh-data.yml` re-runs the pipeline every six hours,
+commits the exports when they change, and that commit triggers a redeploy. The job is
 allowed two hours: the pull is ~150 contractors x 5 aggregation queries
 against a public API, and the raw snapshot is not committed, so each run
 starts from scratch.

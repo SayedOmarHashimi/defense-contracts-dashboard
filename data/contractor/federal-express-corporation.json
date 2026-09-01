@@ -4,14 +4,10 @@
   "ueis": [
     "KQWXKVLGRZ96"
   ],
-  "total_awarded": 3330938334.52,
-  "contract_count": 2152,
+  "total_awarded": 2723495118.98,
+  "contract_count": 1720,
   "top_agency": "USTRANSCOM",
   "yearly_totals": [
-    {
-      "fiscal_year": 2020,
-      "amount": 607443215.54
-    },
     {
       "fiscal_year": 2021,
       "amount": 564381182.14
@@ -31,17 +27,21 @@
     {
       "fiscal_year": 2025,
       "amount": -3774636.72
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "USTRANSCOM",
-      "amount": 3330938334.52,
+      "amount": 2723495118.98,
       "share": 1.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 3330938334.52,
+    "competed_amount": 2723495118.98,
     "not_competed_amount": 0.0,
     "competed_pct": 1.0,
     "not_competed_pct": 0.0

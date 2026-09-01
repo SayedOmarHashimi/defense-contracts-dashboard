@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 import Leaderboard from '@/components/Leaderboard';
 import { getContractors, getMeta } from '@/lib/data';
 
@@ -23,6 +25,14 @@ export default async function HomePage() {
           . Source: {meta.source}.
         </p>
       </header>
+
+      <p className="mt-3 text-sm text-gray-600">
+        This table is a stored snapshot, rebuilt every few hours.{' '}
+        <Link className="underline underline-offset-2" href="/latest">
+          Latest awards
+        </Link>{' '}
+        queries USASpending live instead.
+      </p>
 
       <section className="mt-8">
         <Leaderboard contractors={contractors} />

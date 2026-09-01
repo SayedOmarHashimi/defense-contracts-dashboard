@@ -95,7 +95,17 @@ export default async function MethodologyPage() {
           </div>
           <div>
             <dt className="font-medium text-gray-900">Window</dt>
-            <dd>{years}. Federal fiscal years end 30 September.</dd>
+            <dd>
+              {years}, a rolling six years ending in the current fiscal year. Federal fiscal years
+              end 30 September.
+              {meta.partial_fiscal_year !== null && (
+                <>
+                  {' '}
+                  FY{meta.partial_fiscal_year} is still open, so its totals are partial and grow
+                  with each refresh.
+                </>
+              )}
+            </dd>
           </div>
           <div>
             <dt className="font-medium text-gray-900">Scale</dt>
@@ -108,11 +118,40 @@ export default async function MethodologyPage() {
       </section>
 
       <section className="mt-8">
+        <h2 className="text-lg font-semibold">Two data paths</h2>
+        <p className="mt-2 text-sm leading-relaxed text-gray-700">
+          The site reads USASpending in two different ways, because the two questions cost very
+          different amounts to answer.
+        </p>
+        <dl className="mt-3 space-y-3 text-sm leading-relaxed text-gray-700">
+          <div>
+            <dt className="font-medium text-gray-900">Leaderboard and contractor pages</dt>
+            <dd>
+              A six-year aggregate across a hundred contractors, roughly 750 API queries and some
+              forty minutes to assemble. Far too expensive to run per visit, so it is built on a
+              schedule and stored. This is a snapshot.
+            </dd>
+          </div>
+          <div>
+            <dt className="font-medium text-gray-900">Latest awards</dt>
+            <dd>
+              A single query for the most recently updated contract actions, cheap enough to run on
+              demand. That page is regenerated at most every few minutes and is not baked in at
+              build time.
+            </dd>
+          </div>
+        </dl>
+      </section>
+
+      <section className="mt-8">
         <h2 className="text-lg font-semibold">Refresh cadence</h2>
         <p className="mt-2 text-sm leading-relaxed text-gray-700">
-          A GitHub Actions workflow re-runs the pipeline daily. When the exports change it commits
-          them, which triggers a rebuild and redeploy. The site is fully statically generated, so
-          what you are reading was rendered at build time rather than fetched in your browser.
+          A GitHub Actions workflow re-runs the pipeline every six hours. When the exports change it
+          commits them, which triggers a rebuild and redeploy. The site is fully statically
+          generated, so what you are reading was rendered at build time rather than fetched in your
+          browser, and it changes only when that rebuild happens &mdash; this is a daily snapshot,
+          not a live feed. The window rolls forward on its own, so newly awarded contracts appear as
+          USASpending publishes them.
         </p>
       </section>
 
@@ -120,9 +159,11 @@ export default async function MethodologyPage() {
         <h2 className="text-lg font-semibold">What this does not tell you</h2>
         <ul className="mt-2 list-disc space-y-3 pl-5 text-sm leading-relaxed text-gray-700">
           <li>
-            <span className="font-medium text-gray-900">This is not real-time.</span> USASpending
-            publishes on a lag, recent months are incomplete, and earlier periods are restated as
-            agencies correct their filings. Totals here will drift.
+            <span className="font-medium text-gray-900">This is not real-time.</span> Agencies
+            report to FPDS on a delay, so USASpending itself runs days behind the contracts it
+            describes. No amount of refreshing on this end changes that; the latest-awards page
+            shows the measured lag so you can judge it. Recent months are incomplete, and earlier
+            periods are restated as agencies correct their filings, so totals here will drift.
           </li>
           <li>
             <span className="font-medium text-gray-900">

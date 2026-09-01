@@ -15,8 +15,20 @@ import { CHART, domainIncludingZero } from '@/lib/chartTheme';
 import { formatCompactUsd, formatExactUsd } from '@/lib/format';
 import type { YearlyTotal } from '@/lib/data';
 
-export default function YearlyObligationsChart({ data }: { data: YearlyTotal[] }) {
-  const rows = data.map((row) => ({ ...row, label: `FY${row.fiscal_year}` }));
+export default function YearlyObligationsChart({
+  data,
+  partialFiscalYear,
+}: {
+  data: YearlyTotal[];
+  partialFiscalYear: number | null;
+}) {
+  // The in-progress year is marked rather than hidden: an unlabelled short
+  // final bar reads as collapsed spending instead of an incomplete year.
+  const rows = data.map((row) => ({
+    ...row,
+    label: `FY${row.fiscal_year}${row.fiscal_year === partialFiscalYear ? '*' : ''}`,
+    partial: row.fiscal_year === partialFiscalYear,
+  }));
   const hasAnyObligation = rows.some((row) => row.amount !== 0);
   // Deobligations net out to a negative year for some contractors, so the
   // domain has to reach below zero rather than start at it.

@@ -1,47 +1,47 @@
 {
-  "name": "Great Lakes Dredge & Dock Co, LLC",
-  "slug": "great-lakes-dredge-dock-co-llc",
+  "name": "Thalle Construction Co Inc",
+  "slug": "thalle-construction-co-inc",
   "ueis": [
-    "M9LFLA6K8HE4"
+    "RMVJU76MCN81"
   ],
-  "total_awarded": 2784778347.33,
-  "contract_count": 136,
+  "total_awarded": 2935405661.99,
+  "contract_count": 9,
   "top_agency": "Department of the Army",
   "yearly_totals": [
     {
-      "fiscal_year": 2020,
-      "amount": 490481285.38
-    },
-    {
       "fiscal_year": 2021,
-      "amount": 505046115.72
+      "amount": 167255583.7
     },
     {
       "fiscal_year": 2022,
-      "amount": 288672882.59
+      "amount": 213328655.83
     },
     {
       "fiscal_year": 2023,
-      "amount": 527915650.57
+      "amount": 16082045.0
     },
     {
       "fiscal_year": 2024,
-      "amount": 636060524.27
+      "amount": 337267514.35
     },
     {
       "fiscal_year": 2025,
-      "amount": 336601888.8
+      "amount": 285409848.97
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 1916062014.14
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 2784778347.33,
+      "amount": 2935405661.99,
       "share": 1.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 2784778347.33,
+    "competed_amount": 2935405661.99,
     "not_competed_amount": 0.0,
     "competed_pct": 1.0,
     "not_competed_pct": 0.0

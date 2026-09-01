@@ -4,14 +4,10 @@
   "ueis": [
     "HAWKSQF848W7"
   ],
-  "total_awarded": 16356514796.37,
-  "contract_count": 2152,
+  "total_awarded": 15537691536.22,
+  "contract_count": 1975,
   "top_agency": "Department of the Army",
   "yearly_totals": [
-    {
-      "fiscal_year": 2020,
-      "amount": 2190728525.66
-    },
     {
       "fiscal_year": 2021,
       "amount": 2512169693.24
@@ -31,34 +27,38 @@
     {
       "fiscal_year": 2025,
       "amount": 1526659770.09
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 1371905265.51
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 15986228556.15,
-      "share": 0.9774
+      "amount": 15180900935.25,
+      "share": 0.977
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 313446577.45,
-      "share": 0.0192
+      "amount": 304259257.27,
+      "share": 0.0196
     },
     {
       "agency": "Department of the Navy",
-      "amount": 61822177.39,
-      "share": 0.0038
+      "amount": 55915332.84,
+      "share": 0.0036
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -4982514.62,
-      "share": -0.0003
+      "amount": -3383989.14,
+      "share": -0.0002
     }
   ],
   "competition_mix": {
-    "competed_amount": 2619616745.46,
-    "not_competed_amount": 13736898050.91,
-    "competed_pct": 0.1602,
-    "not_competed_pct": 0.8398
+    "competed_amount": 2686183418.27,
+    "not_competed_amount": 12851508117.95,
+    "competed_pct": 0.1729,
+    "not_competed_pct": 0.8271
   }
 }

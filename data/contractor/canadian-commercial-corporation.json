@@ -4,14 +4,10 @@
   "ueis": [
     "FA38CTVQM319"
   ],
-  "total_awarded": 5323575517.38,
-  "contract_count": 7317,
+  "total_awarded": 5371490793.04,
+  "contract_count": 7074,
   "top_agency": "Department of the Army",
   "yearly_totals": [
-    {
-      "fiscal_year": 2020,
-      "amount": 700486646.27
-    },
     {
       "fiscal_year": 2021,
       "amount": 625828943.95
@@ -31,43 +27,42 @@
     {
       "fiscal_year": 2025,
       "amount": 1397519226.86
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 748401921.93
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 3284882520.08,
-      "share": 0.617
+      "amount": 3421677859.96,
+      "share": 0.637
     },
     {
       "agency": "Department of the Navy",
-      "amount": 862472139.38,
-      "share": 0.162
+      "amount": 825995431.19,
+      "share": 0.1538
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 742768891.81,
-      "share": 0.1395
+      "amount": 685058309.36,
+      "share": 0.1275
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 407440605.32,
-      "share": 0.0765
+      "amount": 416195999.6,
+      "share": 0.0775
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 29018048.4,
-      "share": 0.0055
+      "share": 0.0054
     },
     {
       "agency": "Defense Media Activity",
-      "amount": 1054697.0,
+      "amount": 1138547.0,
       "share": 0.0002
-    },
-    {
-      "agency": "USTRANSCOM",
-      "amount": 2500.0,
-      "share": 0.0
     },
     {
       "agency": "U.S. Special Operations Command",
@@ -76,14 +71,14 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -4066384.6,
-      "share": -0.0008
+      "amount": -7595902.47,
+      "share": -0.0014
     }
   ],
   "competition_mix": {
-    "competed_amount": 1537883590.3,
-    "not_competed_amount": 3785691927.08,
-    "competed_pct": 0.2889,
-    "not_competed_pct": 0.7111
+    "competed_amount": 1421600796.95,
+    "not_competed_amount": 3949889996.09,
+    "competed_pct": 0.2647,
+    "not_competed_pct": 0.7353
   }
 }

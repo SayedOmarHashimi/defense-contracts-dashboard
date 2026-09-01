@@ -93,9 +93,19 @@ export default async function ContractorPage({ params }: { params: { slug: strin
         <p className="mt-1 text-sm text-gray-600">
           Dollars obligated in each fiscal year, not cash paid out. Large multi-year awards land
           entirely in the year they were obligated.
+          {meta.partial_fiscal_year !== null && (
+            <>
+              {' '}
+              FY{meta.partial_fiscal_year}* is still in progress, so its total is incomplete and
+              will keep rising until the fiscal year closes on 30 September.
+            </>
+          )}
         </p>
         <div className="mt-4">
-          <YearlyObligationsChart data={contractor.yearly_totals} />
+          <YearlyObligationsChart
+            data={contractor.yearly_totals}
+            partialFiscalYear={meta.partial_fiscal_year}
+          />
         </div>
       </section>
 

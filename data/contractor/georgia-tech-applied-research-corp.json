@@ -4,14 +4,10 @@
   "ueis": [
     "L3G5SBQ2PLK5"
   ],
-  "total_awarded": 3482949613.25,
-  "contract_count": 708,
+  "total_awarded": 3203477593.63,
+  "contract_count": 658,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
-    {
-      "fiscal_year": 2020,
-      "amount": 588680238.9
-    },
     {
       "fiscal_year": 2021,
       "amount": 579988993.2
@@ -31,54 +27,58 @@
     {
       "fiscal_year": 2025,
       "amount": 474838384.92
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 309208219.28
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1846808871.21,
-      "share": 0.5302
+      "amount": 1777232725.89,
+      "share": 0.5548
     },
     {
       "agency": "Department of the Army",
-      "amount": 1260362483.12,
-      "share": 0.3619
+      "amount": 1067671475.34,
+      "share": 0.3333
     },
     {
       "agency": "Department of the Navy",
-      "amount": 135124026.19,
-      "share": 0.0388
+      "amount": 135624412.42,
+      "share": 0.0423
     },
     {
       "agency": "Missile Defense Agency",
-      "amount": 117691042.29,
-      "share": 0.0338
+      "amount": 125100803.0,
+      "share": 0.0391
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 90435227.61,
-      "share": 0.026
+      "amount": 72301154.9,
+      "share": 0.0226
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 28515520.26,
-      "share": 0.0082
+      "amount": 21471272.26,
+      "share": 0.0067
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 3490810.0,
-      "share": 0.001
+      "share": 0.0011
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 521632.57,
-      "share": 0.0001
+      "amount": 584939.82,
+      "share": 0.0002
     }
   ],
   "competition_mix": {
-    "competed_amount": 864529797.12,
-    "not_competed_amount": 2618419816.13,
-    "competed_pct": 0.2482,
-    "not_competed_pct": 0.7518
+    "competed_amount": 803062667.21,
+    "not_competed_amount": 2400414926.42,
+    "competed_pct": 0.2507,
+    "not_competed_pct": 0.7493
   }
 }

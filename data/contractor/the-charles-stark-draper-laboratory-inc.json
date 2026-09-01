@@ -4,14 +4,10 @@
   "ueis": [
     "GTJHZE4M7YK1"
   ],
-  "total_awarded": 3004303162.65,
-  "contract_count": 223,
+  "total_awarded": 3099627887.24,
+  "contract_count": 210,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
-    {
-      "fiscal_year": 2020,
-      "amount": 458330752.19
-    },
     {
       "fiscal_year": 2021,
       "amount": 426371541.65
@@ -31,43 +27,47 @@
     {
       "fiscal_year": 2025,
       "amount": 494713466.01
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 553655476.78
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 2772903657.28,
-      "share": 0.923
+      "amount": 2899206007.86,
+      "share": 0.9353
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 64390088.95,
-      "share": 0.0214
+      "amount": 53770041.84,
+      "share": 0.0173
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 55184308.48,
-      "share": 0.0184
+      "amount": 48859470.48,
+      "share": 0.0158
     },
     {
       "agency": "Missile Defense Agency",
-      "amount": 49181881.37,
-      "share": 0.0164
+      "amount": 42852439.99,
+      "share": 0.0138
     },
     {
       "agency": "Department of the Army",
-      "amount": 40671879.66,
-      "share": 0.0135
+      "amount": 36687474.86,
+      "share": 0.0118
     },
     {
       "agency": "Defense Threat Reduction Agency",
-      "amount": 18192483.14,
-      "share": 0.0061
+      "amount": 14802365.85,
+      "share": 0.0048
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 9550812.0,
-      "share": 0.0032
+      "amount": 9462267.0,
+      "share": 0.0031
     },
     {
       "agency": "Immediate Office of the Secretary of Defense",
@@ -75,15 +75,20 @@
       "share": 0.0001
     },
     {
+      "agency": "Defense Microelectronics Activity",
+      "amount": 5000.0,
+      "share": 0.0
+    },
+    {
       "agency": "Defense Contract Management Agency",
-      "amount": -6023651.23,
+      "amount": -6268883.64,
       "share": -0.002
     }
   ],
   "competition_mix": {
-    "competed_amount": 186812567.32,
-    "not_competed_amount": 2817490595.33,
-    "competed_pct": 0.0622,
-    "not_competed_pct": 0.9378
+    "competed_amount": 156895627.62,
+    "not_competed_amount": 2942732259.62,
+    "competed_pct": 0.0506,
+    "not_competed_pct": 0.9494
   }
 }

@@ -4,14 +4,10 @@
   "ueis": [
     "FREEMCLKFXE3"
   ],
-  "total_awarded": 10555184898.05,
-  "contract_count": 92,
+  "total_awarded": 10976168408.93,
+  "contract_count": 84,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
-    {
-      "fiscal_year": 2020,
-      "amount": 1677516666.1
-    },
     {
       "fiscal_year": 2021,
       "amount": 1047821893.8
@@ -31,24 +27,33 @@
     {
       "fiscal_year": 2025,
       "amount": 2370441136.89
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 2098500176.98
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 10554796271.0,
+      "amount": 10975790725.74,
       "share": 1.0
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 388627.05,
+      "amount": 350688.19,
+      "share": 0.0
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 26995.0,
       "share": 0.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 9008078810.18,
-    "not_competed_amount": 1547106087.87,
-    "competed_pct": 0.8534,
-    "not_competed_pct": 0.1466
+    "competed_amount": 9460511096.64,
+    "not_competed_amount": 1515657312.29,
+    "competed_pct": 0.8619,
+    "not_competed_pct": 0.1381
   }
 }

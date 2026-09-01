@@ -1,0 +1,54 @@
+{
+  "name": "Vigor Marine LLC",
+  "slug": "vigor-marine-llc",
+  "ueis": [
+    "L7ZETMM4M9R3"
+  ],
+  "total_awarded": 2507296016.03,
+  "contract_count": 71,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2021,
+      "amount": 302360565.49
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 350998831.11
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 306439318.2
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 446578434.76
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 442587033.24
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 658331833.23
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 2462387544.4,
+      "share": 0.9821
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 44908471.63,
+      "share": 0.0179
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 1588018216.91,
+    "not_competed_amount": 919277799.12,
+    "competed_pct": 0.6334,
+    "not_competed_pct": 0.3666
+  }
+}

@@ -4,14 +4,10 @@
   "ueis": [
     "J7M9HPTGJ1S9"
   ],
-  "total_awarded": 3674962242.95,
+  "total_awarded": 8404556363.15,
   "contract_count": 2,
   "top_agency": "Defense Health Agency",
   "yearly_totals": [
-    {
-      "fiscal_year": 2020,
-      "amount": 0.0
-    },
     {
       "fiscal_year": 2021,
       "amount": -52052.05
@@ -31,12 +27,16 @@
     {
       "fiscal_year": 2025,
       "amount": 3540417158.48
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 4729594120.2
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Defense Health Agency",
-      "amount": 3675014295.0,
+      "amount": 8404608415.2,
       "share": 1.0
     },
     {
@@ -46,7 +46,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3674962242.95,
+    "competed_amount": 8404556363.15,
     "not_competed_amount": 0.0,
     "competed_pct": 1.0,
     "not_competed_pct": 0.0

@@ -1,11 +1,12 @@
 {
   "source": "USASpending.gov API v2",
   "source_url": "https://api.usaspending.gov",
-  "generated_at": "2026-09-01T00:17:55+00:00",
+  "generated_at": "2026-09-01T00:54:04+00:00",
   "fiscal_years": {
-    "start": 2020,
-    "end": 2025
+    "start": 2021,
+    "end": 2026
   },
+  "partial_fiscal_year": 2026,
   "awarding_agency": "Department of Defense",
   "award_type_codes": [
     "A",

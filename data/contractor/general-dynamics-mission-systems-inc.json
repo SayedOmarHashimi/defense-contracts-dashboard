@@ -2,82 +2,88 @@
   "name": "General Dynamics Mission Systems, Inc.",
   "slug": "general-dynamics-mission-systems-inc",
   "ueis": [
+    "LKMMNBMPUNH7",
     "MWDRZJ2ZVPV7"
   ],
-  "total_awarded": 2764465564.34,
-  "contract_count": 1394,
-  "top_agency": "Department of the Air Force",
+  "total_awarded": 5225054442.0,
+  "contract_count": 1468,
+  "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
-      "fiscal_year": 2020,
-      "amount": 349680170.6
-    },
-    {
       "fiscal_year": 2021,
-      "amount": 359043881.14
+      "amount": 738476850.16
     },
     {
       "fiscal_year": 2022,
-      "amount": 382199072.69
+      "amount": 717797107.08
     },
     {
       "fiscal_year": 2023,
-      "amount": 438600621.04
+      "amount": 795987096.94
     },
     {
       "fiscal_year": 2024,
-      "amount": 616954902.54
+      "amount": 1047341856.12
     },
     {
       "fiscal_year": 2025,
-      "amount": 617986916.33
+      "amount": 968894472.86
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 956557058.84
     }
   ],
   "agency_breakdown": [
     {
-      "agency": "Department of the Air Force",
-      "amount": 1637168231.07,
-      "share": 0.5922
+      "agency": "Department of the Navy",
+      "amount": 2791767345.66,
+      "share": 0.5343
     },
     {
-      "agency": "Department of the Navy",
-      "amount": 502236775.73,
-      "share": 0.1817
+      "agency": "Department of the Air Force",
+      "amount": 1921896275.98,
+      "share": 0.3678
     },
     {
       "agency": "Department of the Army",
-      "amount": 426511261.12,
-      "share": 0.1543
+      "amount": 312845557.08,
+      "share": 0.0599
     },
     {
       "agency": "Immediate Office of the Secretary of Defense",
       "amount": 92791324.02,
-      "share": 0.0336
+      "share": 0.0178
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 61876518.36,
-      "share": 0.0224
+      "amount": 40673237.6,
+      "share": 0.0078
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": 25707303.65,
+      "share": 0.0049
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 16720206.94,
-      "share": 0.006
+      "amount": 17820572.02,
+      "share": 0.0034
     },
     {
       "agency": "USTRANSCOM",
-      "amount": 15794466.31,
-      "share": 0.0057
+      "amount": 16432813.75,
+      "share": 0.0031
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 15601393.48,
-      "share": 0.0056
+      "amount": 4670624.24,
+      "share": 0.0009
     },
     {
       "agency": "U.S. Cyber Command",
       "amount": 254421.0,
-      "share": 0.0001
+      "share": 0.0
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -86,24 +92,19 @@
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 117705.0,
+      "amount": 41950.0,
       "share": 0.0
     },
     {
       "agency": "Defense Finance and Accounting Service",
       "amount": 31192.0,
       "share": 0.0
-    },
-    {
-      "agency": "Defense Contract Management Agency",
-      "amount": -4759755.69,
-      "share": -0.0017
     }
   ],
   "competition_mix": {
-    "competed_amount": 1737778793.42,
-    "not_competed_amount": 1026686770.92,
-    "competed_pct": 0.6286,
-    "not_competed_pct": 0.3714
+    "competed_amount": 1947292636.19,
+    "not_competed_amount": 3277761805.81,
+    "competed_pct": 0.3727,
+    "not_competed_pct": 0.6273
   }
 }

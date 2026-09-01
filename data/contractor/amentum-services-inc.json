@@ -4,14 +4,10 @@
   "ueis": [
     "QEMLRQA7PLG4"
   ],
-  "total_awarded": 13067742031.52,
-  "contract_count": 1279,
+  "total_awarded": 13708841194.23,
+  "contract_count": 1208,
   "top_agency": "Department of the Army",
   "yearly_totals": [
-    {
-      "fiscal_year": 2020,
-      "amount": 1148934311.28
-    },
     {
       "fiscal_year": 2021,
       "amount": 1158194140.1
@@ -31,48 +27,52 @@
     {
       "fiscal_year": 2025,
       "amount": 3070670716.66
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 1790033473.99
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 5315453955.71,
-      "share": 0.4068
-    },
-    {
-      "agency": "Department of the Navy",
-      "amount": 3384990828.69,
-      "share": 0.259
+      "amount": 5512279490.54,
+      "share": 0.4021
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 3332293071.21,
-      "share": 0.255
+      "amount": 3560955217.84,
+      "share": 0.2598
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 3406937565.24,
+      "share": 0.2485
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": 514534674.92,
-      "share": 0.0394
+      "amount": 682875442.96,
+      "share": 0.0498
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 278675257.77,
-      "share": 0.0213
+      "amount": 306310860.02,
+      "share": 0.0223
     },
     {
       "agency": "Defense Threat Reduction Agency",
-      "amount": 179126205.7,
-      "share": 0.0137
+      "amount": 178846410.79,
+      "share": 0.013
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 56377003.58,
-      "share": 0.0043
+      "amount": 50657359.38,
+      "share": 0.0037
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 5857926.94,
-      "share": 0.0004
+      "amount": 9545740.46,
+      "share": 0.0007
     },
     {
       "agency": "U.S. Special Operations Command",
@@ -81,9 +81,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 12615004240.98,
-    "not_competed_amount": 452737790.54,
-    "competed_pct": 0.9654,
-    "not_competed_pct": 0.0346
+    "competed_amount": 13307679021.0,
+    "not_competed_amount": 401162173.23,
+    "competed_pct": 0.9707,
+    "not_competed_pct": 0.0293
   }
 }

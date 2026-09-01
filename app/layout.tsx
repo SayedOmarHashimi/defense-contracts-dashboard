@@ -56,6 +56,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               Leaderboard
             </Link>
             <Link
+              href="/latest"
+              className="rounded-sm underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
+            >
+              Latest awards
+            </Link>
+            <Link
               href="/methodology"
               className="rounded-sm underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
             >

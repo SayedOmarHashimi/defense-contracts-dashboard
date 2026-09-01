@@ -9,10 +9,6 @@
   "top_agency": "Department of the Army",
   "yearly_totals": [
     {
-      "fiscal_year": 2020,
-      "amount": 0.0
-    },
-    {
       "fiscal_year": 2021,
       "amount": 1913730000.0
     },
@@ -30,6 +26,10 @@
     },
     {
       "fiscal_year": 2025,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2026,
       "amount": 0.0
     }
   ],

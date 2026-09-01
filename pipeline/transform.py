@@ -20,7 +20,7 @@ from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
-from config import AWARD_TYPE_CODES, FY_END, FY_START, TOP_N
+from config import AWARD_TYPE_CODES, CURRENT_FY_IS_PARTIAL, FY_END, FY_START, TOP_N
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -228,6 +228,9 @@ def main() -> None:
                 "source_url": "https://api.usaspending.gov",
                 "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
                 "fiscal_years": {"start": FY_START, "end": FY_END},
+                # FY_END is in progress, so its totals keep rising until the
+                # year closes. The UI labels it rather than hiding it.
+                "partial_fiscal_year": FY_END if CURRENT_FY_IS_PARTIAL else None,
                 "awarding_agency": "Department of Defense",
                 "award_type_codes": AWARD_TYPE_CODES,
                 "contractor_count": len(summaries),

@@ -2,9 +2,11 @@ name: Refresh contract data
 
 on:
   schedule:
-    # 11:00 UTC daily. USASpending publishes on a lag, so the exact hour is
-    # not significant; this just keeps the exports from going stale.
-    - cron: '0 11 * * *'
+    # Every six hours. This job rebuilds the six-year aggregate, which is the
+    # expensive half of the site (~750 API calls). The genuinely fresh half is
+    # the /latest feed, which queries USASpending per request and needs no
+    # workflow at all.
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:

@@ -57,6 +57,8 @@ export interface DatasetMeta {
   source_url: string;
   generated_at: string;
   fiscal_years: { start: number; end: number };
+  /** Fiscal year still in progress, whose totals are incomplete. Null if none. */
+  partial_fiscal_year: number | null;
   awarding_agency: string;
   award_type_codes: string[];
   contractor_count: number;
