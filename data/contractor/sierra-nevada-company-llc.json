@@ -5,7 +5,7 @@
     "DD2QET4D27T3",
     "N1PWVLN6F4U1"
   ],
-  "total_awarded": 11673852628.02,
+  "total_awarded": 11675017561.02,
   "contract_count": 864,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -31,19 +31,19 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 2231215578.39
+      "amount": 2232380511.39
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 9656110743.2,
+      "amount": 9657275676.2,
       "share": 0.8272
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 1107361509.84,
-      "share": 0.0949
+      "share": 0.0948
     },
     {
       "agency": "Department of the Navy",
@@ -83,8 +83,8 @@
   ],
   "competition_mix": {
     "competed_amount": 4275749420.49,
-    "not_competed_amount": 7398103207.53,
-    "competed_pct": 0.3663,
-    "not_competed_pct": 0.6337
+    "not_competed_amount": 7399268140.53,
+    "competed_pct": 0.3662,
+    "not_competed_pct": 0.6338
   }
 }

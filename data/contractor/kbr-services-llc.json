@@ -4,7 +4,7 @@
   "ueis": [
     "YSQMHRS4HSC5"
   ],
-  "total_awarded": 7502878666.72,
+  "total_awarded": 7535164557.78,
   "contract_count": 715,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -30,29 +30,29 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 502997094.6
+      "amount": 535282985.66
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 5458985840.96,
-      "share": 0.7276
+      "amount": 5476985840.96,
+      "share": 0.7269
     },
     {
       "agency": "Department of the Navy",
-      "amount": 1224102380.52,
-      "share": 0.1632
+      "amount": 1238388271.58,
+      "share": 0.1643
     },
     {
       "agency": "Department of the Air Force",
       "amount": 720135929.43,
-      "share": 0.096
+      "share": 0.0956
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 99654575.75,
-      "share": 0.0133
+      "share": 0.0132
     },
     {
       "agency": "Defense Contract Management Agency",
@@ -61,9 +61,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 7496656918.5,
-    "not_competed_amount": 6221748.22,
-    "competed_pct": 0.9992,
-    "not_competed_pct": 0.0008
+    "competed_amount": 7514656918.5,
+    "not_competed_amount": 20507639.28,
+    "competed_pct": 0.9973,
+    "not_competed_pct": 0.0027
   }
 }
