@@ -4,8 +4,8 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4524162407.37,
-  "contract_count": 5956,
+  "total_awarded": 4527746116.51,
+  "contract_count": 5965,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
     {
@@ -26,48 +26,48 @@
     },
     {
       "fiscal_year": 2025,
-      "amount": 1059251666.26
+      "amount": 1059259549.66
     },
     {
       "fiscal_year": 2026,
-      "amount": 763601790.96
+      "amount": 767177616.7
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1068807767.97,
+      "amount": 1069427891.19,
       "share": 0.2362
     },
     {
       "agency": "Department of the Army",
       "amount": 997424627.79,
-      "share": 0.2205
+      "share": 0.2203
     },
     {
       "agency": "Department of the Navy",
-      "amount": 866171462.24,
-      "share": 0.1915
+      "amount": 866294177.64,
+      "share": 0.1913
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 720683626.53,
-      "share": 0.1593
+      "amount": 723524497.05,
+      "share": 0.1598
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 387301056.41,
-      "share": 0.0856
+      "share": 0.0855
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 186752820.2,
-      "share": 0.0413
+      "share": 0.0412
     },
     {
       "agency": "Defense Health Agency",
       "amount": 73100931.49,
-      "share": 0.0162
+      "share": 0.0161
     },
     {
       "agency": "Department of Defense Education Activity",
@@ -141,8 +141,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 4013195362.37,
-    "not_competed_amount": 510967045.0,
+    "competed_amount": 4016704809.43,
+    "not_competed_amount": 511041307.08,
     "competed_pct": 0.8871,
     "not_competed_pct": 0.1129
   }

@@ -4,8 +4,8 @@
   "ueis": [
     "C1HBCJ9RMBV3"
   ],
-  "total_awarded": 8527377324.92,
-  "contract_count": 2981,
+  "total_awarded": 8540173408.43,
+  "contract_count": 2982,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
@@ -30,49 +30,49 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1219521239.57
+      "amount": 1232317323.08
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 4086038120.95,
-      "share": 0.4792
+      "amount": 4097783356.73,
+      "share": 0.4798
     },
     {
       "agency": "Department of the Air Force",
       "amount": 1136127046.33,
-      "share": 0.1332
+      "share": 0.133
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 1077107768.23,
-      "share": 0.1263
+      "share": 0.1261
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 903862423.44,
-      "share": 0.106
+      "share": 0.1058
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 816766501.3,
-      "share": 0.0958
+      "share": 0.0956
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 179712384.14,
-      "share": 0.0211
+      "share": 0.021
     },
     {
       "agency": "U.S. Cyber Command",
-      "amount": 119403337.16,
-      "share": 0.014
+      "amount": 120490529.09,
+      "share": 0.0141
     },
     {
       "agency": "Immediate Office of the Secretary of Defense",
       "amount": 76405641.24,
-      "share": 0.009
+      "share": 0.0089
     },
     {
       "agency": "Department of the Army",
@@ -101,13 +101,13 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -9863845.77,
+      "amount": -9900189.97,
       "share": -0.0012
     }
   ],
   "competition_mix": {
     "competed_amount": 175166050.56,
-    "not_competed_amount": 8352211274.36,
+    "not_competed_amount": 8365007357.87,
     "competed_pct": 0.0205,
     "not_competed_pct": 0.9795
   }
