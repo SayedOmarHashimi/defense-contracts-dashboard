@@ -4,7 +4,7 @@
   "ueis": [
     "N3PBJAVNKF61"
   ],
-  "total_awarded": 6963986963.45,
+  "total_awarded": 6963084755.89,
   "contract_count": 493,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,19 +30,19 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1269128315.1
+      "amount": 1268226107.54
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2643797215.32,
-      "share": 0.3796
+      "amount": 2645575615.06,
+      "share": 0.3799
     },
     {
       "agency": "Department of the Navy",
-      "amount": 2482680392.6,
-      "share": 0.3565
+      "amount": 2479999785.3,
+      "share": 0.3562
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
@@ -116,7 +116,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6245933276.1,
+    "competed_amount": 6245031068.54,
     "not_competed_amount": 718053687.35,
     "competed_pct": 0.8969,
     "not_competed_pct": 0.1031

@@ -4,8 +4,8 @@
   "ueis": [
     "J4Q3HP6NHK47"
   ],
-  "total_awarded": 4529111339.22,
-  "contract_count": 3018,
+  "total_awarded": 4529713850.22,
+  "contract_count": 3019,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
@@ -30,19 +30,19 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 372208590.07
+      "amount": 372811101.07
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 2477605907.69,
-      "share": 0.547
+      "amount": 2478208418.69,
+      "share": 0.5471
     },
     {
       "agency": "Department of the Army",
       "amount": 1284386556.08,
-      "share": 0.2836
+      "share": 0.2835
     },
     {
       "agency": "Department of the Air Force",
@@ -67,8 +67,8 @@
   ],
   "competition_mix": {
     "competed_amount": 1343736132.97,
-    "not_competed_amount": 3185375206.25,
-    "competed_pct": 0.2967,
-    "not_competed_pct": 0.7033
+    "not_competed_amount": 3185977717.25,
+    "competed_pct": 0.2966,
+    "not_competed_pct": 0.7034
   }
 }
