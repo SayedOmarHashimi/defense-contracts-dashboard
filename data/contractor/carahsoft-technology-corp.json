@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4529121636.65,
+  "total_awarded": 4529892695.49,
   "contract_count": 5971,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,7 +30,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 768553136.84
+      "amount": 769324195.68
     }
   ],
   "agency_breakdown": [
@@ -42,7 +42,7 @@
     {
       "agency": "Department of the Army",
       "amount": 998007937.09,
-      "share": 0.2204
+      "share": 0.2203
     },
     {
       "agency": "Department of the Navy",
@@ -71,8 +71,8 @@
     },
     {
       "agency": "Department of Defense Education Activity",
-      "amount": 38390887.91,
-      "share": 0.0085
+      "amount": 39161946.75,
+      "share": 0.0086
     },
     {
       "agency": "Washington Headquarters Services",
@@ -142,8 +142,8 @@
   ],
   "competition_mix": {
     "competed_amount": 4018080329.57,
-    "not_competed_amount": 511041307.08,
-    "competed_pct": 0.8872,
-    "not_competed_pct": 0.1128
+    "not_competed_amount": 511812365.92,
+    "competed_pct": 0.887,
+    "not_competed_pct": 0.113
   }
 }
