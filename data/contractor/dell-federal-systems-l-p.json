@@ -4,7 +4,7 @@
   "ueis": [
     "N1C5QLNPJLS4"
   ],
-  "total_awarded": 2532372371.29,
+  "total_awarded": 2562297834.38,
   "contract_count": 4331,
   "top_agency": "Defense Information Systems Agency",
   "yearly_totals": [
@@ -30,44 +30,44 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 404837763.74
+      "amount": 434763226.83
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 807986488.39,
-      "share": 0.3191
+      "amount": 810626265.96,
+      "share": 0.3164
     },
     {
       "agency": "Department of the Army",
-      "amount": 705599808.17,
-      "share": 0.2786
+      "amount": 705784177.8,
+      "share": 0.2754
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 538226805.62,
-      "share": 0.2125
+      "amount": 551096300.41,
+      "share": 0.2151
     },
     {
       "agency": "Department of the Navy",
-      "amount": 365489001.15,
-      "share": 0.1443
+      "amount": 379720822.25,
+      "share": 0.1482
     },
     {
       "agency": "Defense Health Agency",
       "amount": 66488035.71,
-      "share": 0.0263
+      "share": 0.0259
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 26281451.86,
-      "share": 0.0104
+      "share": 0.0103
     },
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 16883112.55,
-      "share": 0.0067
+      "share": 0.0066
     },
     {
       "agency": "Washington Headquarters Services",
@@ -111,9 +111,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2403377935.19,
-    "not_competed_amount": 128994436.1,
-    "competed_pct": 0.9491,
-    "not_competed_pct": 0.0509
+    "competed_amount": 2420453749.18,
+    "not_competed_amount": 141844085.2,
+    "competed_pct": 0.9446,
+    "not_competed_pct": 0.0554
   }
 }
