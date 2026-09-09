@@ -4,7 +4,7 @@
   "ueis": [
     "CKV2L9GZKJK3"
   ],
-  "total_awarded": 3116843044.56,
+  "total_awarded": 3120768206.47,
   "contract_count": 382,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,39 +30,39 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 363843169.89
+      "amount": 367768331.8
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1022822986.42,
-      "share": 0.3282
+      "amount": 1023106663.18,
+      "share": 0.3278
     },
     {
       "agency": "Department of the Navy",
-      "amount": 853693535.14,
-      "share": 0.2739
+      "amount": 857335020.29,
+      "share": 0.2747
     },
     {
       "agency": "Department of the Army",
       "amount": 492649637.5,
-      "share": 0.1581
+      "share": 0.1579
     },
     {
       "agency": "Defense Health Agency",
       "amount": 388823613.48,
-      "share": 0.1247
+      "share": 0.1246
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 242559758.3,
-      "share": 0.0778
+      "share": 0.0777
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 97476043.94,
-      "share": 0.0313
+      "share": 0.0312
     },
     {
       "agency": "Defense Logistics Agency",
@@ -126,9 +126,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2861299019.56,
-    "not_competed_amount": 255544025.0,
-    "competed_pct": 0.918,
-    "not_competed_pct": 0.082
+    "competed_amount": 2861582696.32,
+    "not_competed_amount": 259185510.15,
+    "competed_pct": 0.9169,
+    "not_competed_pct": 0.0831
   }
 }

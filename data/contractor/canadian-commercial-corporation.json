@@ -4,7 +4,7 @@
   "ueis": [
     "FA38CTVQM319"
   ],
-  "total_awarded": 5424343318.68,
+  "total_awarded": 5425567242.14,
   "contract_count": 7102,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -30,29 +30,29 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 801254447.57
+      "amount": 802478371.03
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
       "amount": 3464802529.96,
-      "share": 0.6388
+      "share": 0.6386
     },
     {
       "agency": "Department of the Navy",
-      "amount": 825987181.19,
-      "share": 0.1523
+      "amount": 826873453.36,
+      "share": 0.1524
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 694752076.0,
+      "amount": 694756687.74,
       "share": 0.1281
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 416238338.6,
-      "share": 0.0767
+      "amount": 416571378.15,
+      "share": 0.0768
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
@@ -76,9 +76,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 1426179481.6,
-    "not_competed_amount": 3998163837.08,
-    "competed_pct": 0.2629,
-    "not_competed_pct": 0.7371
+    "competed_amount": 1427327463.65,
+    "not_competed_amount": 3998239778.49,
+    "competed_pct": 0.2631,
+    "not_competed_pct": 0.7369
   }
 }

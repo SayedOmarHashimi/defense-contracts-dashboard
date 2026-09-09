@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4531878199.57,
+  "total_awarded": 4536053857.36,
   "contract_count": 5982,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,34 +30,34 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 771309699.76
+      "amount": 775485357.55
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1070124426.09,
-      "share": 0.2361
+      "amount": 1070281762.61,
+      "share": 0.2359
     },
     {
       "agency": "Department of the Army",
-      "amount": 998299443.29,
-      "share": 0.2203
+      "amount": 998519268.7,
+      "share": 0.2201
     },
     {
       "agency": "Department of the Navy",
-      "amount": 866695389.25,
+      "amount": 867186689.98,
       "share": 0.1912
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 723524497.05,
-      "share": 0.1597
+      "amount": 726042372.67,
+      "share": 0.1601
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 387301056.41,
-      "share": 0.0855
+      "share": 0.0854
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
@@ -76,8 +76,8 @@
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 36916676.9,
-      "share": 0.0081
+      "amount": 36972360.5,
+      "share": 0.0082
     },
     {
       "agency": "U.S. Special Operations Command",
@@ -110,13 +110,13 @@
       "share": 0.003
     },
     {
-      "agency": "Uniformed Services University of the Health Sciences",
-      "amount": 4693873.36,
-      "share": 0.001
+      "agency": "Defense Media Activity",
+      "amount": 5178920.2,
+      "share": 0.0011
     },
     {
-      "agency": "Defense Media Activity",
-      "amount": 4445284.29,
+      "agency": "Uniformed Services University of the Health Sciences",
+      "amount": 4693873.36,
       "share": 0.001
     },
     {
@@ -141,9 +141,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 4019855777.65,
-    "not_competed_amount": 512022421.92,
-    "competed_pct": 0.887,
-    "not_competed_pct": 0.113
+    "competed_amount": 4023750219.6,
+    "not_competed_amount": 512303637.76,
+    "competed_pct": 0.8871,
+    "not_competed_pct": 0.1129
   }
 }

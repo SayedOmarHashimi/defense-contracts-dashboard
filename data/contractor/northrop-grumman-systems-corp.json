@@ -13,7 +13,7 @@
     "PK8PM2GNVMP8",
     "VSBAFMDKTWL4"
   ],
-  "total_awarded": 55506266871.83,
+  "total_awarded": 55541183760.59,
   "contract_count": 3545,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -39,24 +39,24 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 7449056106.94
+      "amount": 7483972995.7
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 29920966530.15,
-      "share": 0.5391
+      "amount": 29955883418.91,
+      "share": 0.5393
     },
     {
       "agency": "Department of the Navy",
       "amount": 15379699227.41,
-      "share": 0.2771
+      "share": 0.2769
     },
     {
       "agency": "Department of the Army",
       "amount": 5733557290.31,
-      "share": 0.1033
+      "share": 0.1032
     },
     {
       "agency": "Missile Defense Agency",
@@ -110,8 +110,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 12165725027.81,
-    "not_competed_amount": 43340541844.02,
+    "competed_amount": 12174264162.7,
+    "not_competed_amount": 43366919597.89,
     "competed_pct": 0.2192,
     "not_competed_pct": 0.7808
   }
