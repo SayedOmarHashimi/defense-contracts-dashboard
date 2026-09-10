@@ -4,7 +4,7 @@
   "ueis": [
     "C1HBCJ9RMBV3"
   ],
-  "total_awarded": 8593124294.62,
+  "total_awarded": 8595899480.71,
   "contract_count": 2989,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -30,13 +30,13 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1285268209.27
+      "amount": 1288043395.36
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 4124695247.92,
+      "amount": 4126364948.91,
       "share": 0.48
     },
     {
@@ -46,8 +46,8 @@
     },
     {
       "agency": "Missile Defense Agency",
-      "amount": 1077107768.23,
-      "share": 0.1253
+      "amount": 1077631718.23,
+      "share": 0.1254
     },
     {
       "agency": "Washington Headquarters Services",
@@ -56,7 +56,7 @@
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 839255496.3,
+      "amount": 839917928.3,
       "share": 0.0977
     },
     {
@@ -101,13 +101,13 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -9900189.97,
+      "amount": -9981086.87,
       "share": -0.0012
     }
   ],
   "competition_mix": {
     "competed_amount": 175166050.56,
-    "not_competed_amount": 8417958244.06,
+    "not_competed_amount": 8420733430.15,
     "competed_pct": 0.0204,
     "not_competed_pct": 0.9796
   }
