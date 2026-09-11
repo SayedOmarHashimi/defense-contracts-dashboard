@@ -4,7 +4,7 @@
   "ueis": [
     "RMVJU76MCN81"
   ],
-  "total_awarded": 2935405661.99,
+  "total_awarded": 2935553661.99,
   "contract_count": 9,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -30,18 +30,18 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1916062014.14
+      "amount": 1916210014.14
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 2935405661.99,
+      "amount": 2935553661.99,
       "share": 1.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 2935405661.99,
+    "competed_amount": 2935553661.99,
     "not_competed_amount": 0.0,
     "competed_pct": 1.0,
     "not_competed_pct": 0.0

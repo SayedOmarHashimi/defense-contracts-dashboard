@@ -4,7 +4,7 @@
   "ueis": [
     "N1C5QLNPJLS4"
   ],
-  "total_awarded": 2800644815.63,
+  "total_awarded": 2833433549.96,
   "contract_count": 4371,
   "top_agency": "Defense Information Systems Agency",
   "yearly_totals": [
@@ -30,39 +30,39 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 673110208.08
+      "amount": 705898942.41
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 1032154594.78,
-      "share": 0.3685
+      "amount": 1040315888.95,
+      "share": 0.3672
     },
     {
       "agency": "Department of the Army",
-      "amount": 721758697.74,
-      "share": 0.2577
+      "amount": 722059842.54,
+      "share": 0.2548
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 551574556.21,
-      "share": 0.1969
+      "amount": 554620857.46,
+      "share": 0.1957
     },
     {
       "agency": "Department of the Navy",
-      "amount": 380086698.94,
-      "share": 0.1357
+      "amount": 400264972.85,
+      "share": 0.1413
     },
     {
       "agency": "Defense Health Agency",
       "amount": 66488035.71,
-      "share": 0.0237
+      "share": 0.0235
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 26281451.86,
-      "share": 0.0094
+      "share": 0.0093
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -78,6 +78,11 @@
       "agency": "Defense Human Resources Activity",
       "amount": 1418988.57,
       "share": 0.0005
+    },
+    {
+      "agency": "Defense Media Activity",
+      "amount": 1101720.2,
+      "share": 0.0004
     },
     {
       "agency": "USTRANSCOM",
@@ -111,9 +116,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2658743060.55,
-    "not_competed_amount": 141901755.08,
-    "competed_pct": 0.9493,
-    "not_competed_pct": 0.0507
+    "competed_amount": 2688503463.38,
+    "not_competed_amount": 144930086.58,
+    "competed_pct": 0.9489,
+    "not_competed_pct": 0.0511
   }
 }
