@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4538686429.02,
+  "total_awarded": 4540621144.3,
   "contract_count": 5994,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,34 +30,34 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 778117929.21
+      "amount": 780052644.49
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1069383701.42,
-      "share": 0.2356
+      "amount": 1069418747.77,
+      "share": 0.2355
     },
     {
       "agency": "Department of the Army",
-      "amount": 1001187314.28,
-      "share": 0.2206
+      "amount": 1002187313.77,
+      "share": 0.2207
     },
     {
       "agency": "Department of the Navy",
-      "amount": 867704975.75,
-      "share": 0.1912
+      "amount": 868570855.75,
+      "share": 0.1913
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 726223068.07,
-      "share": 0.16
+      "share": 0.1599
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 387464662.51,
-      "share": 0.0854
+      "share": 0.0853
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
@@ -125,13 +125,13 @@
       "share": 0.0005
     },
     {
-      "agency": "Missile Defense Agency",
-      "amount": 1102315.78,
+      "agency": "Defense Commissary Agency",
+      "amount": 1105843.72,
       "share": 0.0002
     },
     {
-      "agency": "Defense Commissary Agency",
-      "amount": 1072054.28,
+      "agency": "Missile Defense Agency",
+      "amount": 1102315.78,
       "share": 0.0002
     },
     {
@@ -141,7 +141,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 4026165724.32,
+    "competed_amount": 4028100439.6,
     "not_competed_amount": 512520704.7,
     "competed_pct": 0.8871,
     "not_competed_pct": 0.1129

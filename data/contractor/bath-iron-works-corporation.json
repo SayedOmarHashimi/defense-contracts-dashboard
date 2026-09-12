@@ -4,7 +4,7 @@
   "ueis": [
     "FREEMCLKFXE3"
   ],
-  "total_awarded": 10990347648.18,
+  "total_awarded": 10991974013.18,
   "contract_count": 84,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -30,13 +30,13 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 2112679416.23
+      "amount": 2114305781.23
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 10989969964.99,
+      "amount": 10991596329.99,
       "share": 1.0
     },
     {
@@ -51,9 +51,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 9454019750.89,
-    "not_competed_amount": 1536327897.29,
-    "competed_pct": 0.8602,
-    "not_competed_pct": 0.1398
+    "competed_amount": 9454369339.89,
+    "not_competed_amount": 1537604673.29,
+    "competed_pct": 0.8601,
+    "not_competed_pct": 0.1399
   }
 }

@@ -4,7 +4,7 @@
   "ueis": [
     "CKV2L9GZKJK3"
   ],
-  "total_awarded": 3121760678.07,
+  "total_awarded": 3122033991.62,
   "contract_count": 382,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,7 +30,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 368760803.4
+      "amount": 369034116.95
     }
   ],
   "agency_breakdown": [
@@ -51,7 +51,7 @@
     },
     {
       "agency": "Defense Health Agency",
-      "amount": 388823613.48,
+      "amount": 389096927.03,
       "share": 0.1246
     },
     {
@@ -126,7 +126,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2862575167.92,
+    "competed_amount": 2862848481.47,
     "not_competed_amount": 259185510.15,
     "competed_pct": 0.917,
     "not_competed_pct": 0.083

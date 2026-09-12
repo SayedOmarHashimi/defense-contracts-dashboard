@@ -5,7 +5,7 @@
     "DMHDNDCPWUD1",
     "GAVABYGCURL7"
   ],
-  "total_awarded": 9305016333.99,
+  "total_awarded": 9304963333.99,
   "contract_count": 261,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -31,13 +31,13 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 906599109.17
+      "amount": 906546109.17
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 6480583579.4,
+      "amount": 6480530579.4,
       "share": 0.6965
     },
     {
@@ -68,7 +68,7 @@
   ],
   "competition_mix": {
     "competed_amount": 212061710.84,
-    "not_competed_amount": 9092954623.15,
+    "not_competed_amount": 9092901623.15,
     "competed_pct": 0.0228,
     "not_competed_pct": 0.9772
   }

@@ -4,7 +4,7 @@
   "ueis": [
     "N3PBJAVNKF61"
   ],
-  "total_awarded": 7044704115.25,
+  "total_awarded": 7055610134.49,
   "contract_count": 493,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,24 +30,24 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1349845466.9
+      "amount": 1360751486.14
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2672793949.75,
-      "share": 0.3794
+      "amount": 2673863949.75,
+      "share": 0.379
     },
     {
       "agency": "Department of the Navy",
-      "amount": 2485829601.66,
-      "share": 0.3529
+      "amount": 2486333601.66,
+      "share": 0.3524
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 765171544.17,
-      "share": 0.1086
+      "share": 0.1084
     },
     {
       "agency": "Department of the Army",
@@ -57,12 +57,12 @@
     {
       "agency": "Defense Information Systems Agency",
       "amount": 238606656.31,
-      "share": 0.0339
+      "share": 0.0338
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 213868575.3,
-      "share": 0.0304
+      "share": 0.0303
     },
     {
       "agency": "USTRANSCOM",
@@ -71,8 +71,8 @@
     },
     {
       "agency": "Defense Finance and Accounting Service",
-      "amount": 76001244.91,
-      "share": 0.0108
+      "amount": 85333264.15,
+      "share": 0.0121
     },
     {
       "agency": "Defense Logistics Agency",
@@ -116,9 +116,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6326650427.9,
+    "competed_amount": 6337556447.14,
     "not_competed_amount": 718053687.35,
-    "competed_pct": 0.8981,
-    "not_competed_pct": 0.1019
+    "competed_pct": 0.8982,
+    "not_competed_pct": 0.1018
   }
 }
