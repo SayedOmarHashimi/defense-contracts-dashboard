@@ -76,15 +76,15 @@
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 27548771440.02,
-    "contract_count": 2575685,
+    "contract_count": 2575764,
     "top_agency": "Defense Logistics Agency"
   },
   {
     "id": 11,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 25612407875.88,
-    "contract_count": 142227,
+    "total_awarded": 25612407875.87,
+    "contract_count": 142230,
     "top_agency": "Department of the Navy"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
     "total_awarded": 24636778274.25,
-    "contract_count": 379427,
+    "contract_count": 379443,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -484,7 +484,7 @@
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
     "total_awarded": 4540621144.3,
-    "contract_count": 5994,
+    "contract_count": 5995,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -500,7 +500,7 @@
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
     "total_awarded": 4377422606.59,
-    "contract_count": 305994,
+    "contract_count": 306002,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -540,7 +540,7 @@
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3832571809.57,
-    "contract_count": 1848997,
+    "contract_count": 1849073,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -772,7 +772,7 @@
     "name": "Cardinal Health 200, LLC",
     "slug": "cardinal-health-200-llc",
     "total_awarded": 2537085165.29,
-    "contract_count": 1637622,
+    "contract_count": 1637641,
     "top_agency": "Defense Logistics Agency"
   },
   {
