@@ -75,7 +75,7 @@
     "id": 10,
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
-    "total_awarded": 27556931446.43,
+    "total_awarded": 27557896442.14,
     "contract_count": 2575823,
     "top_agency": "Defense Logistics Agency"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 25612409302.81,
+    "total_awarded": 25612413184.76,
     "contract_count": 142234,
     "top_agency": "Department of the Navy"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 24636802826.1,
+    "total_awarded": 24636851827.22,
     "contract_count": 379465,
     "top_agency": "Defense Logistics Agency"
   },
@@ -283,7 +283,7 @@
     "id": 36,
     "name": "KBR Services, LLC",
     "slug": "kbr-services-llc",
-    "total_awarded": 7580449614.67,
+    "total_awarded": 7580492139.75,
     "contract_count": 721,
     "top_agency": "Department of the Army"
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "name": "Okinawa Idemitsu K.K.",
     "slug": "okinawa-idemitsu-k-k",
-    "total_awarded": 7490888052.68,
+    "total_awarded": 7490887808.75,
     "contract_count": 1265,
     "top_agency": "Defense Logistics Agency"
   },
@@ -499,7 +499,7 @@
     "id": 63,
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
-    "total_awarded": 4377424490.18,
+    "total_awarded": 4377733913.8,
     "contract_count": 306040,
     "top_agency": "Defense Logistics Agency"
   },
@@ -539,7 +539,7 @@
     "id": 68,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3832699629.73,
+    "total_awarded": 3832861000.12,
     "contract_count": 1849229,
     "top_agency": "Defense Logistics Agency"
   },
@@ -683,7 +683,7 @@
     "id": 86,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2992496202.63,
+    "total_awarded": 2992533387.84,
     "contract_count": 161210,
     "top_agency": "Defense Logistics Agency"
   },
@@ -771,7 +771,7 @@
     "id": 97,
     "name": "Cardinal Health 200, LLC",
     "slug": "cardinal-health-200-llc",
-    "total_awarded": 2537101366.12,
+    "total_awarded": 2537130004.24,
     "contract_count": 1637655,
     "top_agency": "Defense Logistics Agency"
   },
