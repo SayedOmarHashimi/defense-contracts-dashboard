@@ -13,7 +13,7 @@
     "PK8PM2GNVMP8",
     "VSBAFMDKTWL4"
   ],
-  "total_awarded": 55599740937.74,
+  "total_awarded": 55601441202.85,
   "contract_count": 3547,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -39,13 +39,13 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 7542530172.85
+      "amount": 7544230437.96
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 29999891391.46,
+      "amount": 30001971800.98,
       "share": 0.5396
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "agency": "Department of the Army",
-      "amount": 5746851991.26,
+      "amount": 5746471846.85,
       "share": 0.1034
     },
     {
@@ -110,8 +110,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 12192707226.65,
-    "not_competed_amount": 43407033711.09,
+    "competed_amount": 12194807226.65,
+    "not_competed_amount": 43406633976.2,
     "competed_pct": 0.2193,
     "not_competed_pct": 0.7807
   }
