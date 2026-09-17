@@ -4,7 +4,7 @@
   "ueis": [
     "ZH4NVFG3Z526"
   ],
-  "total_awarded": 10357476664.0,
+  "total_awarded": 10649342249.61,
   "contract_count": 687,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,34 +30,34 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1097545812.54
+      "amount": 1389411398.15
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 5947381392.28,
-      "share": 0.5742
+      "amount": 6206036177.89,
+      "share": 0.5828
     },
     {
       "agency": "Department of the Army",
-      "amount": 3588947844.47,
-      "share": 0.3465
+      "amount": 3622158644.47,
+      "share": 0.3401
     },
     {
       "agency": "Department of the Navy",
       "amount": 748718778.01,
-      "share": 0.0723
+      "share": 0.0703
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 146770561.08,
-      "share": 0.0142
+      "share": 0.0138
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 111426112.43,
-      "share": 0.0108
+      "share": 0.0105
     },
     {
       "agency": "Missile Defense Agency",
@@ -67,13 +67,13 @@
     {
       "agency": "Defense Contract Management Agency",
       "amount": -185742048.15,
-      "share": -0.0179
+      "share": -0.0174
     }
   ],
   "competition_mix": {
     "competed_amount": 520590008.29,
-    "not_competed_amount": 9836886655.71,
-    "competed_pct": 0.0503,
-    "not_competed_pct": 0.9497
+    "not_competed_amount": 10128752241.32,
+    "competed_pct": 0.0489,
+    "not_competed_pct": 0.9511
   }
 }
