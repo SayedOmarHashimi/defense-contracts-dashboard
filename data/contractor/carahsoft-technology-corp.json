@@ -4,8 +4,8 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4553415243.33,
-  "contract_count": 6014,
+  "total_awarded": 4555632855.34,
+  "contract_count": 6019,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
     {
@@ -30,34 +30,34 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 792846743.52
+      "amount": 795064355.53
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1072449306.74,
+      "amount": 1072818240.98,
       "share": 0.2355
     },
     {
       "agency": "Department of the Army",
       "amount": 1008119132.17,
-      "share": 0.2214
+      "share": 0.2213
     },
     {
       "agency": "Department of the Navy",
-      "amount": 870388590.31,
-      "share": 0.1912
+      "amount": 870419126.6,
+      "share": 0.1911
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 727722225.81,
-      "share": 0.1598
+      "amount": 727723565.67,
+      "share": 0.1597
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 387877503.78,
-      "share": 0.0852
+      "share": 0.0851
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
@@ -66,8 +66,8 @@
     },
     {
       "agency": "Defense Health Agency",
-      "amount": 73892525.5,
-      "share": 0.0162
+      "amount": 74038327.12,
+      "share": 0.0163
     },
     {
       "agency": "Department of Defense Education Activity",
@@ -95,13 +95,13 @@
       "share": 0.0054
     },
     {
-      "agency": "Defense Human Resources Activity",
-      "amount": 14529470.83,
-      "share": 0.0032
+      "agency": "Defense Threat Reduction Agency",
+      "amount": 16029051.23,
+      "share": 0.0035
     },
     {
-      "agency": "Defense Threat Reduction Agency",
-      "amount": 14358051.23,
+      "agency": "Defense Human Resources Activity",
+      "amount": 14529470.83,
       "share": 0.0032
     },
     {
@@ -141,9 +141,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 4035401295.82,
-    "not_competed_amount": 518013947.51,
-    "competed_pct": 0.8862,
-    "not_competed_pct": 0.1138
+    "competed_amount": 4037566344.53,
+    "not_competed_amount": 518066510.81,
+    "competed_pct": 0.8863,
+    "not_competed_pct": 0.1137
   }
 }

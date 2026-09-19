@@ -4,8 +4,8 @@
   "ueis": [
     "LJNAJVPB3MW1"
   ],
-  "total_awarded": 4003105052.54,
-  "contract_count": 1218,
+  "total_awarded": 4003532115.65,
+  "contract_count": 1219,
   "top_agency": "Department of the Army",
   "yearly_totals": [
     {
@@ -30,13 +30,13 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 468914735.86
+      "amount": 469341798.97
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 3973177631.84,
+      "amount": 3973604694.95,
       "share": 0.9925
     },
     {

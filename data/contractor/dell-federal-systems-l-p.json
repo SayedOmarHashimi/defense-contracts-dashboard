@@ -4,8 +4,8 @@
   "ueis": [
     "N1C5QLNPJLS4"
   ],
-  "total_awarded": 3109068760.77,
-  "contract_count": 4391,
+  "total_awarded": 3220367689.81,
+  "contract_count": 4399,
   "top_agency": "Defense Information Systems Agency",
   "yearly_totals": [
     {
@@ -30,44 +30,44 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 981534153.22
+      "amount": 1092833082.26
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 1081329906.24,
-      "share": 0.3478
+      "amount": 1088611716.11,
+      "share": 0.338
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 763785974.69,
-      "share": 0.2457
+      "amount": 764206565.72,
+      "share": 0.2373
     },
     {
       "agency": "Department of the Army",
       "amount": 724509852.52,
-      "share": 0.233
+      "share": 0.225
     },
     {
       "agency": "Department of the Navy",
-      "amount": 425395838.38,
-      "share": 0.1368
+      "amount": 432467657.88,
+      "share": 0.1343
     },
     {
       "agency": "Defense Health Agency",
-      "amount": 64366158.57,
-      "share": 0.0207
+      "amount": 155649129.21,
+      "share": 0.0483
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 26278529.78,
-      "share": 0.0085
+      "share": 0.0082
     },
     {
       "agency": "Defense Threat Reduction Agency",
-      "amount": 16883112.55,
-      "share": 0.0054
+      "amount": 22124850.55,
+      "share": 0.0069
     },
     {
       "agency": "Washington Headquarters Services",
@@ -77,12 +77,12 @@
     {
       "agency": "Defense Human Resources Activity",
       "amount": 1418988.57,
-      "share": 0.0005
+      "share": 0.0004
     },
     {
       "agency": "Defense Media Activity",
       "amount": 1101720.2,
-      "share": 0.0004
+      "share": 0.0003
     },
     {
       "agency": "USTRANSCOM",
@@ -116,9 +116,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2964138674.19,
+    "competed_amount": 3075437603.23,
     "not_competed_amount": 144930086.58,
-    "competed_pct": 0.9534,
-    "not_competed_pct": 0.0466
+    "competed_pct": 0.955,
+    "not_competed_pct": 0.045
   }
 }
