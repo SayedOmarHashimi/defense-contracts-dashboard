@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 289377171753.84,
+    "total_awarded": 289377153877.84,
     "contract_count": 20776,
     "top_agency": "Department of the Navy"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "The Boeing Company",
     "slug": "the-boeing-company",
-    "total_awarded": 118154320342.77,
+    "total_awarded": 118155036496.77,
     "contract_count": 24289,
     "top_agency": "Department of the Air Force"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
-    "total_awarded": 27697782582.72,
+    "total_awarded": 27708749265.48,
     "contract_count": 2585877,
     "top_agency": "Defense Logistics Agency"
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "name": "Amentum Services, Inc.",
     "slug": "amentum-services-inc",
-    "total_awarded": 13843109779.19,
+    "total_awarded": 13843109708.93,
     "contract_count": 1212,
     "top_agency": "Department of the Army"
   },
@@ -411,7 +411,7 @@
     "id": 52,
     "name": "General Dynamics Mission Systems, Inc.",
     "slug": "general-dynamics-mission-systems-inc",
-    "total_awarded": 5335916400.74,
+    "total_awarded": 5335918915.74,
     "contract_count": 1473,
     "top_agency": "Department of the Navy"
   },
@@ -491,8 +491,8 @@
     "id": 62,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4555632855.34,
-    "contract_count": 6019,
+    "total_awarded": 4555679990.63,
+    "contract_count": 6020,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3849267967.58,
+    "total_awarded": 3849717196.33,
     "contract_count": 1853935,
     "top_agency": "Defense Logistics Agency"
   },
@@ -771,7 +771,7 @@
     "id": 97,
     "name": "Cardinal Health 200, LLC",
     "slug": "cardinal-health-200-llc",
-    "total_awarded": 2543339493.63,
+    "total_awarded": 2543341727.97,
     "contract_count": 1642156,
     "top_agency": "Defense Logistics Agency"
   },
