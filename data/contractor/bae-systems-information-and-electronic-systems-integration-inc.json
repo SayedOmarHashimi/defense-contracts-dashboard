@@ -4,7 +4,7 @@
   "ueis": [
     "F9AVUZ8YBGQ6"
   ],
-  "total_awarded": 4795916890.58,
+  "total_awarded": 4804466199.58,
   "contract_count": 754,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,29 +30,29 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 785669019.89
+      "amount": 794218328.89
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2581397965.41,
-      "share": 0.5382
+      "amount": 2589947274.41,
+      "share": 0.5391
     },
     {
       "agency": "Department of the Navy",
       "amount": 1246081723.46,
-      "share": 0.2598
+      "share": 0.2594
     },
     {
       "agency": "Department of the Army",
       "amount": 732321414.49,
-      "share": 0.1527
+      "share": 0.1524
     },
     {
       "agency": "Defense Microelectronics Activity",
       "amount": 225479149.38,
-      "share": 0.047
+      "share": 0.0469
     },
     {
       "agency": "Defense Logistics Agency",
@@ -77,8 +77,8 @@
   ],
   "competition_mix": {
     "competed_amount": 590256072.07,
-    "not_competed_amount": 4205660818.51,
-    "competed_pct": 0.1231,
-    "not_competed_pct": 0.8769
+    "not_competed_amount": 4214210127.51,
+    "competed_pct": 0.1229,
+    "not_competed_pct": 0.8771
   }
 }

@@ -4,7 +4,7 @@
   "ueis": [
     "MMLKPW9JLX64"
   ],
-  "total_awarded": 11645743378.5,
+  "total_awarded": 11663807108.27,
   "contract_count": 4231,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -30,24 +30,24 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1391467366.23
+      "amount": 1409531096.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 4720790705.37,
-      "share": 0.4054
+      "amount": 4730974711.15,
+      "share": 0.4056
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 3470037685.76,
-      "share": 0.298
+      "amount": 3472307427.34,
+      "share": 0.2977
     },
     {
       "agency": "Department of the Army",
-      "amount": 2601140998.38,
-      "share": 0.2234
+      "amount": 2606750980.79,
+      "share": 0.2235
     },
     {
       "agency": "Defense Information Systems Agency",
@@ -57,7 +57,7 @@
     {
       "agency": "Washington Headquarters Services",
       "amount": 232514447.6,
-      "share": 0.02
+      "share": 0.0199
     },
     {
       "agency": "USTRANSCOM",
@@ -106,9 +106,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 11283780351.53,
+    "competed_amount": 11301844081.3,
     "not_competed_amount": 361963026.97,
-    "competed_pct": 0.9689,
-    "not_competed_pct": 0.0311
+    "competed_pct": 0.969,
+    "not_competed_pct": 0.031
   }
 }
