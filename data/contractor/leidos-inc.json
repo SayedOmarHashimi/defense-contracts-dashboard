@@ -5,7 +5,7 @@
     "KTMAJCY6JXM3",
     "UE9QJD4KK1L6"
   ],
-  "total_awarded": 16740854412.86,
+  "total_awarded": 16755325657.21,
   "contract_count": 12659,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -31,44 +31,44 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 2184612216.61
+      "amount": 2199083460.96
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 6210093873.12,
-      "share": 0.371
+      "amount": 6214121245.82,
+      "share": 0.3709
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 3369637836.01,
-      "share": 0.2013
+      "amount": 3378296037.25,
+      "share": 0.2016
     },
     {
       "agency": "Department of the Army",
-      "amount": 2559678263.29,
-      "share": 0.1529
+      "amount": 2558203466.87,
+      "share": 0.1527
     },
     {
       "agency": "Defense Health Agency",
       "amount": 2213744358.88,
-      "share": 0.1322
+      "share": 0.1321
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 1929515469.73,
+      "amount": 1931582764.56,
       "share": 0.1153
     },
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 337514820.55,
-      "share": 0.0202
+      "share": 0.0201
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 64375111.52,
-      "share": 0.0038
+      "amount": 65568283.52,
+      "share": 0.0039
     },
     {
       "agency": "U.S. Special Operations Command",
@@ -102,7 +102,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 16250437429.6,
+    "competed_amount": 16264908673.95,
     "not_competed_amount": 490416983.26,
     "competed_pct": 0.9707,
     "not_competed_pct": 0.0293

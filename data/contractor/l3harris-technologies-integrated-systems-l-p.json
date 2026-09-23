@@ -4,7 +4,7 @@
   "ueis": [
     "RDFKNPZNQ8E3"
   ],
-  "total_awarded": 8864314464.69,
+  "total_awarded": 8887941498.69,
   "contract_count": 635,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,19 +30,19 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1211598709.72
+      "amount": 1235225743.72
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 8686670792.25,
+      "amount": 8710297826.25,
       "share": 0.98
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 184145047.01,
-      "share": 0.0208
+      "share": 0.0207
     },
     {
       "agency": "Department of the Navy",
@@ -72,8 +72,8 @@
   ],
   "competition_mix": {
     "competed_amount": 1394944309.04,
-    "not_competed_amount": 7469370155.65,
-    "competed_pct": 0.1574,
-    "not_competed_pct": 0.8426
+    "not_competed_amount": 7492997189.65,
+    "competed_pct": 0.1569,
+    "not_competed_pct": 0.8431
   }
 }
