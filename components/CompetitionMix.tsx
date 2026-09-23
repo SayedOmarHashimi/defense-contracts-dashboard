@@ -32,7 +32,10 @@ export default function CompetitionMix({ data }: { data: CompetitionMixData }) {
   return (
     <div>
       {plottable && (
-        <div className="flex h-3 w-full gap-[2px] overflow-hidden" aria-hidden="true">
+        <div
+          className="flex h-[18px] w-full gap-[3px] overflow-hidden rounded-pill"
+          aria-hidden="true"
+        >
           {segments.map((segment) => (
             <div
               key={segment.label}
@@ -40,34 +43,36 @@ export default function CompetitionMix({ data }: { data: CompetitionMixData }) {
                 backgroundColor: segment.color,
                 width: `${(segment.fraction ?? 0) * 100}%`,
               }}
-              className="first:rounded-l last:rounded-r"
             />
           ))}
         </div>
       )}
 
-      <dl className="mt-4 grid gap-4 sm:grid-cols-2">
+      <dl className="mt-[18px] grid grid-cols-[repeat(auto-fit,minmax(240px,1fr))] gap-3">
         {segments.map((segment) => (
-          <div key={segment.label}>
-            <dt className="flex items-center gap-2 text-sm font-medium text-gray-700">
+          <div
+            key={segment.label}
+            className="flex flex-col gap-0.5 rounded-card bg-surface px-[22px] py-[18px]"
+          >
+            <dt className="flex items-center gap-2 text-sm font-semibold text-neutral-800">
               <span
                 aria-hidden="true"
-                className="inline-block h-2.5 w-2.5 rounded-sm"
+                className="inline-block h-3 w-3 rounded-full"
                 style={{ backgroundColor: segment.color }}
               />
               {segment.label}
             </dt>
-            <dd className="mt-1 text-2xl font-semibold tabular-nums text-gray-900">
+            <dd className="mt-1 font-heading text-[30px] leading-[1.15]">
               {plottable ? formatPercent(segment.fraction) : '—'}
             </dd>
-            <dd className="text-sm tabular-nums text-gray-600">{formatExactUsd(segment.amount)}</dd>
-            <dd className="mt-1 text-xs text-gray-500">{segment.hint}</dd>
+            <dd className="text-sm text-neutral-800">{formatExactUsd(segment.amount)}</dd>
+            <dd className="mt-1 text-xs text-neutral-700">{segment.hint}</dd>
           </div>
         ))}
       </dl>
 
       {!plottable && (
-        <p className="mt-3 text-xs text-gray-500">
+        <p className="mt-3 text-xs text-neutral-700">
           Net deobligations make a percentage split meaningless here; amounts are shown instead.
         </p>
       )}

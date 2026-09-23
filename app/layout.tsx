@@ -1,10 +1,15 @@
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
+import { Caprasimo, Figtree } from 'next/font/google';
 import Link from 'next/link';
 
 import './globals.css';
 
-const inter = Inter({ subsets: ['latin'] });
+const heading = Caprasimo({ subsets: ['latin'], weight: '400', variable: '--font-heading' });
+const body = Figtree({
+  subsets: ['latin'],
+  weight: ['400', '600', '700'],
+  variable: '--font-body',
+});
 
 const SITE_NAME = 'Defense Contracts Dashboard';
 const DESCRIPTION =
@@ -44,39 +49,30 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
-      <body className={`${inter.className} bg-white text-gray-900`}>
+    <html lang="en" className={`${heading.variable} ${body.variable}`}>
+      <body className="bg-bg font-body text-ink">
         {children}
-        <footer className="mx-auto max-w-5xl px-4 py-10 text-xs text-gray-500 sm:px-6">
-          <nav className="flex gap-4">
-            <Link
-              href="/"
-              className="rounded-sm underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
-            >
+        <footer className="mx-auto max-w-[1024px] px-6 pb-10 pt-14 text-[13px] text-neutral-700">
+          <nav className="flex flex-wrap gap-2">
+            <Link href="/" className="btn-pill">
               Leaderboard
             </Link>
-            <Link
-              href="/latest"
-              className="rounded-sm underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
-            >
+            <Link href="/latest" className="btn-pill">
               Latest awards
             </Link>
-            <Link
-              href="/methodology"
-              className="rounded-sm underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
-            >
+            <Link href="/methodology" className="btn-pill">
               Methodology
             </Link>
             <a
-              className="rounded-sm underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
+              className="btn-pill"
               href="https://www.usaspending.gov"
               target="_blank"
               rel="noreferrer"
             >
-              Source data
+              Source data &#8599;
             </a>
           </nav>
-          <p className="mt-3">
+          <p className="mt-3.5">
             Obligations, not outlays. Source data is U.S. Government public domain.
           </p>
         </footer>

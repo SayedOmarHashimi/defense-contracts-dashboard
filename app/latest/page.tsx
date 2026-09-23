@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
+import StatTile from '@/components/StatTile';
 import { formatCount, formatExactUsd } from '@/lib/format';
 import { LATEST_REVALIDATE_SECONDS, getLatestAwards } from '@/lib/usaspending';
 
@@ -35,25 +36,24 @@ export default async function LatestPage() {
   const { awards, fetchedAt, sourceLagDays, error } = await getLatestAwards(30);
 
   return (
-    <main className="mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-12">
-      <Link
-        href="/"
-        className="rounded-sm text-sm text-gray-600 underline underline-offset-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-1"
-      >
+    <main className="mx-auto max-w-[1024px] px-6 pt-12">
+      <Link href="/" className="text-sm text-neutral-800 underline">
         &larr; Back to leaderboard
       </Link>
 
-      <h1 className="mt-4 text-2xl font-bold tracking-tight sm:text-3xl">Latest awards</h1>
-      <p className="mt-2 max-w-3xl text-sm leading-relaxed text-gray-600">
+      <h1 className="mt-[18px] text-[40px] [text-wrap:balance]">Latest awards</h1>
+      <p className="mt-2.5 max-w-[48rem] text-[15px] leading-[1.6] text-neutral-800 [text-wrap:pretty]">
         The most recently updated {formatCount(awards.length)} Department of Defense prime contract
         actions, queried from USASpending.gov when you loaded this page rather than baked in at
         build time.
       </p>
 
-      <dl className="mt-6 grid gap-3 sm:grid-cols-3">
-        <div className="rounded border border-gray-200 p-4">
-          <dt className="text-sm text-gray-600">Checked</dt>
-          <dd className="mt-1 text-sm font-medium tabular-nums text-gray-900">
+      <dl className="mt-7 grid grid-cols-[repeat(auto-fit,minmax(220px,1fr))] gap-3">
+        <StatTile
+          description
+          size="text"
+          label="Checked"
+          value={
             <time dateTime={fetchedAt}>
               {new Date(fetchedAt).toLocaleString('en-US', {
                 dateStyle: 'medium',
@@ -62,79 +62,70 @@ export default async function LatestPage() {
               })}{' '}
               UTC
             </time>
-          </dd>
-          <dd className="mt-1 text-xs text-gray-500">
-            Refreshes at most every {Math.round(LATEST_REVALIDATE_SECONDS / 60)} minutes
-          </dd>
-        </div>
-        <div className="rounded border border-gray-200 p-4">
-          <dt className="text-sm text-gray-600">Source lag</dt>
-          <dd className="mt-1 text-2xl font-semibold tabular-nums text-gray-900">
-            {sourceLagDays === null ? '—' : `${sourceLagDays}d`}
-          </dd>
-          <dd className="mt-1 text-xs text-gray-500">
-            Age of the freshest record USASpending has published
-          </dd>
-        </div>
-        <div className="rounded border border-gray-200 p-4">
-          <dt className="text-sm text-gray-600">Scope</dt>
-          <dd className="mt-1 text-sm font-medium text-gray-900">DoD prime contracts</dd>
-          <dd className="mt-1 text-xs text-gray-500">Last 45 days of activity</dd>
-        </div>
+          }
+          detail={`Refreshes at most every ${Math.round(LATEST_REVALIDATE_SECONDS / 60)} minutes`}
+        />
+        <StatTile
+          description
+          tone="terracotta"
+          label="Source lag"
+          value={sourceLagDays === null ? '—' : `${sourceLagDays}d`}
+          detail="Age of the freshest record USASpending has published"
+        />
+        <StatTile
+          description
+          size="text"
+          label="Scope"
+          value="DoD prime contracts"
+          detail="Last 45 days of activity"
+        />
       </dl>
 
       {error && (
-        <p className="mt-6 rounded border border-gray-300 bg-gray-50 p-4 text-sm text-gray-700">
+        <p className="mt-6 rounded-lg bg-neutral-200 px-[22px] py-[18px] text-sm leading-[1.6] text-neutral-900">
           USASpending did not respond just now ({error}). This page queries the API directly, so it
-          shows nothing rather than something stale. The{' '}
-          <Link className="underline" href="/">
-            leaderboard
-          </Link>{' '}
-          is unaffected — it is built from a stored snapshot.
+          shows nothing rather than something stale. The <Link href="/">leaderboard</Link> is
+          unaffected — it is built from a stored snapshot.
         </p>
       )}
 
       {!error && awards.length === 0 && (
-        <p className="mt-6 text-sm text-gray-600">No contract actions in the last 45 days.</p>
+        <p className="mt-6 text-sm text-neutral-800">No contract actions in the last 45 days.</p>
       )}
 
       {awards.length > 0 && (
-        <div className="mt-6 overflow-x-auto">
-          <table className="w-full min-w-[44rem] border-collapse text-sm">
+        <div className="mt-6 overflow-x-auto rounded-lg bg-neutral-100 px-4 pb-3 pt-2">
+          <table className="data-table min-w-[44rem]">
             <thead>
-              <tr className="border-b border-gray-300 text-left">
-                <th scope="col" className="py-2 pr-3 font-semibold">
-                  Updated
-                </th>
-                <th scope="col" className="py-2 pr-3 font-semibold">
-                  Recipient
-                </th>
-                <th scope="col" className="py-2 pr-3 text-right font-semibold">
+              <tr>
+                <th scope="col">Updated</th>
+                <th scope="col">Recipient</th>
+                <th scope="col" className="!text-right">
                   Amount
                 </th>
-                <th scope="col" className="py-2 font-semibold">
-                  Awarding sub-agency
-                </th>
+                <th scope="col">Awarding sub-agency</th>
               </tr>
             </thead>
             <tbody>
               {awards.map((award) => (
-                <tr key={award.id} className="row-interactive border-b border-gray-200 align-top">
-                  <td className="whitespace-nowrap py-2 pr-3 tabular-nums text-gray-600">
+                <tr key={award.id} className="row-interactive align-top">
+                  <td className="whitespace-nowrap text-neutral-700">
                     {relativeDay(award.lastModified)}
                   </td>
-                  <td className="py-2 pr-3">
-                    <span className="font-medium text-gray-900">{award.recipient}</span>
+                  <td>
+                    <span className="block font-semibold">{award.recipient}</span>
                     {award.description && (
-                      <span className="mt-0.5 block max-w-md truncate text-xs text-gray-500">
+                      <span className="mt-0.5 block max-w-[28rem] truncate text-xs text-neutral-700">
                         {award.description}
                       </span>
                     )}
                   </td>
-                  <td className="py-2 pr-3 text-right tabular-nums">
+                  <td
+                    className={`text-right font-semibold ${award.amount < 0 ? 'text-accent-700' : 'text-ink'}`}
+                  >
                     {formatExactUsd(award.amount)}
                   </td>
-                  <td className="py-2 text-gray-700">{award.subAgency ?? '—'}</td>
+                  <td className="text-neutral-800">{award.subAgency ?? '—'}</td>
                 </tr>
               ))}
             </tbody>
@@ -142,7 +133,7 @@ export default async function LatestPage() {
         </div>
       )}
 
-      <p className="mt-8 max-w-3xl text-xs leading-relaxed text-gray-500">
+      <p className="mt-8 max-w-[48rem] text-xs leading-[1.6] text-neutral-700">
         &ldquo;Updated&rdquo; is when USASpending last modified the record, which is the closest
         available proxy for when an action was published. It is not when the contract was signed:
         agencies report to FPDS on a delay, so even a live query cannot show an award made today.
