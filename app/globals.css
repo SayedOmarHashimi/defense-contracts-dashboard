@@ -9,6 +9,101 @@
     --duration-enter: 180ms;
     --duration-reveal: 260ms;
     --duration-hover: 120ms;
+
+    /* Organic design-system tokens, mirrored in tailwind.config.ts. The font
+       variables (--font-heading, --font-body) come from next/font in
+       app/layout.tsx rather than from here. */
+    --color-bg: #f5ead8;
+    --color-surface: #ebddc5;
+    --color-text: #201e1d;
+    --color-accent: #c67139;
+    --color-accent-2: #7a8a5e;
+    --color-divider: color-mix(in srgb, #201e1d 16%, transparent);
+
+    /* Tonal ramps — generated in OKLCH on one shared lightness scale, so the
+       same step of any role matches the others in visual value. */
+    --color-neutral-100: #f9f4ed;
+    --color-neutral-200: #eee7db;
+    --color-neutral-300: #dcd3c4;
+    --color-neutral-400: #c0b6a5;
+    --color-neutral-500: #a19786;
+    --color-neutral-600: #82796a;
+    --color-neutral-700: #645c50;
+    --color-neutral-800: #474238;
+    --color-neutral-900: #2e2b25;
+
+    --color-accent-100: #fff2eb;
+    --color-accent-200: #ffe1d0;
+    --color-accent-300: #ffc6a5;
+    --color-accent-400: #f6a06b;
+    --color-accent-500: #d67f48;
+    --color-accent-600: #b2622d;
+    --color-accent-700: #8c491a;
+    --color-accent-800: #643312;
+    --color-accent-900: #402310;
+
+    --color-accent-2-100: #f0fae1;
+    --color-accent-2-200: #e1eecc;
+    --color-accent-2-300: #ccdbb2;
+    --color-accent-2-400: #aebf92;
+    --color-accent-2-500: #8fa073;
+    --color-accent-2-600: #728157;
+    --color-accent-2-700: #56633f;
+    --color-accent-2-800: #3d472b;
+    --color-accent-2-900: #272e1b;
+
+    --font-heading-weight: 400;
+
+    --space-1: 4.4px;
+    --space-2: 8.8px;
+    --space-3: 13.2px;
+    --space-4: 17.6px;
+    --space-6: 26.4px;
+    --space-8: 35.2px;
+
+    --radius-sm: 8px;
+    --radius-md: 16px;
+    --radius-lg: 28px;
+
+    /* Elevation — derived from the ground: soft ink-tinted shadows on a
+       light theme, a hairline edge + ambient darkness on a dark one. */
+    --shadow-sm: 0 1px 2px color-mix(in srgb, #2e2b25 14%, transparent);
+    --shadow-md: 0 3px 10px color-mix(in srgb, #2e2b25 16%, transparent);
+    --shadow-lg: 0 12px 32px color-mix(in srgb, #2e2b25 22%, transparent);
+  }
+
+  body {
+    font-size: 15px;
+    line-height: 1.55;
+    font-variant-numeric: tabular-nums;
+  }
+
+  h1,
+  h2 {
+    font-family: var(--font-heading), system-ui, sans-serif;
+    font-weight: var(--font-heading-weight);
+    letter-spacing: -0.015em;
+    line-height: 1.12;
+  }
+
+  a {
+    color: var(--color-accent-700);
+    text-underline-offset: 3px;
+  }
+  a:hover {
+    color: var(--color-accent-600);
+  }
+
+  :focus {
+    outline: none;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--color-accent) 30%, transparent);
   }
 }
 
@@ -39,8 +134,106 @@
   /* Touch devices fire a false hover on tap that then sticks. */
   @media (hover: hover) and (pointer: fine) {
     .row-interactive:hover {
-      background-color: theme('colors.gray.50');
+      background-color: color-mix(in srgb, #201e1d 4%, transparent);
     }
+  }
+
+  /* Pill text field and select from the design system's .input. */
+  .field-input {
+    width: 100%;
+    min-height: 42px;
+    padding: 6px 14px;
+    font-size: 14px;
+    color: var(--color-text);
+    caret-color: var(--color-accent);
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-divider);
+    border-radius: 999px;
+    transition: border-color var(--duration-hover) ease;
+  }
+  .field-input:hover {
+    border-color: color-mix(in srgb, var(--color-text) 45%, transparent);
+  }
+  .field-input:focus-visible {
+    border-color: var(--color-accent);
+    outline-offset: 0;
+  }
+  select.field-input {
+    appearance: none;
+    cursor: pointer;
+    padding-right: 36px;
+    /* Two half-filled squares make the chevron without an icon asset. */
+    background-image:
+      linear-gradient(45deg, transparent 50%, var(--color-neutral-700) 50%),
+      linear-gradient(135deg, var(--color-neutral-700) 50%, transparent 50%);
+    background-position:
+      calc(100% - 20px) 50%,
+      calc(100% - 15px) 50%;
+    background-size: 5px 5px;
+    background-repeat: no-repeat;
+  }
+
+  /* Tables sit inside a neutral-100 data panel. */
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  .data-table th {
+    padding: 14px 8px 12px;
+    text-align: left;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--color-text) 60%, transparent);
+    border-bottom: 1px solid var(--color-divider);
+  }
+  .data-table td {
+    padding: 10px 8px;
+    border-bottom: 1px solid color-mix(in srgb, var(--color-text) 8%, transparent);
+  }
+
+  /* Secondary pill button from the design system's .btn .btn-secondary. */
+  .btn-pill {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 6px 14px;
+    font-family: var(--font-heading), system-ui, sans-serif;
+    font-weight: var(--font-heading-weight);
+    font-size: 13px;
+    line-height: 1.2;
+    color: var(--color-text);
+    text-decoration: none;
+    background-color: transparent;
+    border: 1px solid var(--color-divider);
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background-color var(--duration-hover) ease;
+  }
+  .btn-pill:hover {
+    background-color: color-mix(in srgb, var(--color-text) 7%, transparent);
+  }
+  .btn-pill:active {
+    background-color: color-mix(in srgb, var(--color-text) 14%, transparent);
+  }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 10px;
+    font-size: 11px;
+    letter-spacing: 0.02em;
+    border-radius: 999px;
+  }
+  .tag-accent {
+    background-color: var(--color-accent-100);
+    color: var(--color-accent-800);
+  }
+  .tag-accent-2 {
+    background-color: var(--color-accent-2-100);
+    color: var(--color-accent-2-800);
   }
 }
 

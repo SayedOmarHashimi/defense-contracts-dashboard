@@ -8,12 +8,12 @@ export default async function HomePage() {
   const totalAwarded = contractors.reduce((sum, c) => sum + c.total_awarded, 0);
 
   return (
-    <main className="mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-12">
-      <header>
-        <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
+    <main className="mx-auto max-w-[1024px] px-6 pt-12">
+      <header className="flex flex-col gap-3">
+        <h1 className="max-w-[18ch] text-[40px] [text-wrap:balance]">
           Defense Contracts Dashboard
         </h1>
-        <p className="mt-2 max-w-2xl text-sm text-gray-600 sm:text-base">
+        <p className="max-w-[42rem] text-base leading-[1.6] text-neutral-800 [text-wrap:pretty]">
           The {meta.contractor_count} largest {meta.awarding_agency} prime contractors by dollars
           obligated, FY{meta.fiscal_years.start}&ndash;FY{meta.fiscal_years.end}, totalling{' '}
           {new Intl.NumberFormat('en-US', {
@@ -26,15 +26,15 @@ export default async function HomePage() {
         </p>
       </header>
 
-      <p className="mt-3 text-sm text-gray-600">
-        This table is a stored snapshot, rebuilt every few hours.{' '}
-        <Link className="underline underline-offset-2" href="/latest">
-          Latest awards
-        </Link>{' '}
-        queries USASpending live instead.
+      <p className="mt-3.5 flex flex-wrap items-center gap-2 text-sm text-neutral-700">
+        <span className="tag tag-accent-2">Snapshot</span>
+        <span>
+          This table is a stored snapshot, rebuilt every few hours.{' '}
+          <Link href="/latest">Latest awards</Link> queries USASpending live instead.
+        </span>
       </p>
 
-      <section className="mt-8">
+      <section className="mt-9">
         <Leaderboard contractors={contractors} />
       </section>
     </main>
