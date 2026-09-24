@@ -4,7 +4,7 @@
   "ueis": [
     "JCBMLGPE6Z71"
   ],
-  "total_awarded": 14632439099.57,
+  "total_awarded": 14642633474.54,
   "contract_count": 1658,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,34 +30,34 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1747675159.07
+      "amount": 1757869534.04
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 5603266871.06,
+      "amount": 5607048821.81,
       "share": 0.3829
     },
     {
       "agency": "Department of the Navy",
-      "amount": 5287772461.58,
-      "share": 0.3614
+      "amount": 5287853959.28,
+      "share": 0.3611
     },
     {
       "agency": "Department of the Army",
-      "amount": 1460941189.39,
+      "amount": 1461235613.81,
       "share": 0.0998
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 595568556.03,
-      "share": 0.0407
+      "amount": 597929828.84,
+      "share": 0.0408
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 561520143.21,
-      "share": 0.0384
+      "amount": 565460049.44,
+      "share": 0.0386
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -116,12 +116,12 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -36851391.97,
+      "amount": -37116068.91,
       "share": -0.0025
     }
   ],
   "competition_mix": {
-    "competed_amount": 14037900122.99,
+    "competed_amount": 14048094497.96,
     "not_competed_amount": 594538976.58,
     "competed_pct": 0.9594,
     "not_competed_pct": 0.0406
