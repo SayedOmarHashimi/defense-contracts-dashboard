@@ -1,7 +1,7 @@
 {
   "source": "USASpending.gov API v2",
   "source_url": "https://api.usaspending.gov",
-  "generated_at": "2026-09-25T04:30:00+00:00",
+  "generated_at": "2026-09-25T16:59:31+00:00",
   "fiscal_years": {
     "start": 2021,
     "end": 2026

@@ -4,7 +4,7 @@
   "ueis": [
     "GTJHZE4M7YK1"
   ],
-  "total_awarded": 3138165933.94,
+  "total_awarded": 3139165933.94,
   "contract_count": 208,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -30,14 +30,14 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 592193523.48
+      "amount": 593193523.48
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
       "amount": 2937971013.5,
-      "share": 0.9362
+      "share": 0.9359
     },
     {
       "agency": "Department of the Air Force",
@@ -56,8 +56,8 @@
     },
     {
       "agency": "Department of the Army",
-      "amount": 36687474.86,
-      "share": 0.0117
+      "amount": 37687474.86,
+      "share": 0.012
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -86,9 +86,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 157183668.68,
+    "competed_amount": 158183668.68,
     "not_competed_amount": 2980982265.26,
-    "competed_pct": 0.0501,
-    "not_competed_pct": 0.9499
+    "competed_pct": 0.0504,
+    "not_competed_pct": 0.9496
   }
 }
