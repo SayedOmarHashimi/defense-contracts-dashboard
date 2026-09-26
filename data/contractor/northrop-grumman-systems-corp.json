@@ -13,7 +13,7 @@
     "PK8PM2GNVMP8",
     "VSBAFMDKTWL4"
   ],
-  "total_awarded": 56516238577.9,
+  "total_awarded": 56532573818.84,
   "contract_count": 3523,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -35,28 +35,28 @@
     },
     {
       "fiscal_year": 2025,
-      "amount": 8221496311.21
+      "amount": 8212656621.95
     },
     {
       "fiscal_year": 2026,
-      "amount": 8459027813.01
+      "amount": 8484202743.21
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 30028700684.34,
-      "share": 0.5313
+      "amount": 30041201223.44,
+      "share": 0.5314
     },
     {
       "agency": "Department of the Navy",
-      "amount": 15727667102.15,
+      "amount": 15733467102.15,
       "share": 0.2783
     },
     {
       "agency": "Department of the Army",
       "amount": 5746471846.85,
-      "share": 0.1017
+      "share": 0.1016
     },
     {
       "agency": "Missile Defense Agency",
@@ -69,13 +69,13 @@
       "share": 0.0159
     },
     {
-      "agency": "Defense Advanced Research Projects Agency",
-      "amount": 281671560.88,
-      "share": 0.005
+      "agency": "Defense Information Systems Agency",
+      "amount": 288545322.03,
+      "share": 0.0051
     },
     {
-      "agency": "Defense Information Systems Agency",
-      "amount": 281670930.93,
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 281671560.88,
       "share": 0.005
     },
     {
@@ -105,14 +105,14 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -282560389.1,
-      "share": -0.005
+      "amount": -291400078.36,
+      "share": -0.0052
     }
   ],
   "competition_mix": {
-    "competed_amount": 12540623872.21,
-    "not_competed_amount": 43975614705.69,
-    "competed_pct": 0.2219,
-    "not_competed_pct": 0.7781
+    "competed_amount": 12551593910.49,
+    "not_competed_amount": 43980979908.35,
+    "competed_pct": 0.222,
+    "not_competed_pct": 0.778
   }
 }

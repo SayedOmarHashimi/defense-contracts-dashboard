@@ -4,7 +4,7 @@
   "ueis": [
     "JCBMLGPE6Z71"
   ],
-  "total_awarded": 14643135102.43,
+  "total_awarded": 14651624747.33,
   "contract_count": 1658,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,23 +30,23 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1758371161.93
+      "amount": 1766860806.83
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 5607548821.81,
-      "share": 0.3829
+      "amount": 5608579286.95,
+      "share": 0.3828
     },
     {
       "agency": "Department of the Navy",
-      "amount": 5288800367.81,
-      "share": 0.3612
+      "amount": 5295240767.85,
+      "share": 0.3614
     },
     {
       "agency": "Department of the Army",
-      "amount": 1461235613.81,
+      "amount": 1462254393.53,
       "share": 0.0998
     },
     {
@@ -72,7 +72,7 @@
     {
       "agency": "Defense Health Agency",
       "amount": 153039942.55,
-      "share": 0.0105
+      "share": 0.0104
     },
     {
       "agency": "U.S. Cyber Command",
@@ -121,8 +121,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 14048596125.85,
-    "not_competed_amount": 594538976.58,
+    "competed_amount": 14056066991.03,
+    "not_competed_amount": 595557756.3,
     "competed_pct": 0.9594,
     "not_competed_pct": 0.0406
   }

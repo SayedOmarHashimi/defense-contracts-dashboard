@@ -4,7 +4,7 @@
   "ueis": [
     "N3PBJAVNKF61"
   ],
-  "total_awarded": 7142897456.15,
+  "total_awarded": 7148435581.93,
   "contract_count": 493,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,29 +30,29 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1448038807.8
+      "amount": 1453576933.58
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2694658145.27,
-      "share": 0.3773
+      "amount": 2695624481.27,
+      "share": 0.3771
     },
     {
       "agency": "Department of the Navy",
-      "amount": 2540532474.48,
-      "share": 0.3557
+      "amount": 2545067014.12,
+      "share": 0.356
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 765171544.17,
-      "share": 0.1071
+      "share": 0.107
     },
     {
       "agency": "Department of the Army",
       "amount": 289006748.08,
-      "share": 0.0405
+      "share": 0.0404
     },
     {
       "agency": "Defense Information Systems Agency",
@@ -62,12 +62,12 @@
     {
       "agency": "U.S. Special Operations Command",
       "amount": 213953675.3,
-      "share": 0.03
+      "share": 0.0299
     },
     {
       "agency": "USTRANSCOM",
       "amount": 143943439.18,
-      "share": 0.0202
+      "share": 0.0201
     },
     {
       "agency": "Defense Finance and Accounting Service",
@@ -91,8 +91,8 @@
     },
     {
       "agency": "Defense Threat Reduction Agency",
-      "amount": 15334420.11,
-      "share": 0.0021
+      "amount": 15371670.25,
+      "share": 0.0022
     },
     {
       "agency": "Defense Health Agency",
@@ -116,9 +116,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6403059015.76,
-    "not_competed_amount": 739838440.39,
-    "competed_pct": 0.8964,
-    "not_competed_pct": 0.1036
+    "competed_amount": 6404450651.76,
+    "not_competed_amount": 743984930.17,
+    "competed_pct": 0.8959,
+    "not_competed_pct": 0.1041
   }
 }

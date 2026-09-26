@@ -1,0 +1,69 @@
+{
+  "name": "Kongsberg Defence & Aerospace As",
+  "slug": "kongsberg-defence-aerospace-as",
+  "ueis": [
+    "V24HYE4YVGH6"
+  ],
+  "total_awarded": 2514806991.8,
+  "contract_count": 836,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2021,
+      "amount": 134387755.58
+    },
+    {
+      "fiscal_year": 2022,
+      "amount": 94819259.46
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 262474508.19
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 208244983.81
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 846753912.91
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 968126571.85
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 1057905578.14,
+      "share": 0.4207
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 738566926.0,
+      "share": 0.2937
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 699917945.19,
+      "share": 0.2783
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 18936029.71,
+      "share": 0.0075
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": -519487.24,
+      "share": -0.0002
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 408541769.59,
+    "not_competed_amount": 2106265222.21,
+    "competed_pct": 0.1625,
+    "not_competed_pct": 0.8375
+  }
+}
