@@ -4,7 +4,7 @@
   "ueis": [
     "HAWKSQF848W7"
   ],
-  "total_awarded": 15916012642.26,
+  "total_awarded": 15917962379.26,
   "contract_count": 1813,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -30,13 +30,13 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1750226371.55
+      "amount": 1752176108.55
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 15555197137.52,
+      "amount": 15557146874.52,
       "share": 0.9773
     },
     {
@@ -56,9 +56,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2705321710.54,
+    "competed_amount": 2707271447.54,
     "not_competed_amount": 13210690931.72,
-    "competed_pct": 0.17,
-    "not_competed_pct": 0.83
+    "competed_pct": 0.1701,
+    "not_competed_pct": 0.8299
   }
 }
