@@ -4,7 +4,7 @@
   "ueis": [
     "N3PBJAVNKF61"
   ],
-  "total_awarded": 7148435581.93,
+  "total_awarded": 7153918128.49,
   "contract_count": 494,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,19 +30,19 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1453576933.58
+      "amount": 1459059480.14
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2695624481.27,
-      "share": 0.3771
+      "amount": 2699992515.22,
+      "share": 0.3774
     },
     {
       "agency": "Department of the Navy",
-      "amount": 2545067014.12,
-      "share": 0.356
+      "amount": 2545576514.12,
+      "share": 0.3558
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
@@ -51,7 +51,7 @@
     },
     {
       "agency": "Department of the Army",
-      "amount": 289006748.08,
+      "amount": 289160498.08,
       "share": 0.0404
     },
     {
@@ -66,8 +66,8 @@
     },
     {
       "agency": "USTRANSCOM",
-      "amount": 143943439.18,
-      "share": 0.0201
+      "amount": 144419412.5,
+      "share": 0.0202
     },
     {
       "agency": "Defense Finance and Accounting Service",
@@ -92,7 +92,7 @@
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 15371670.25,
-      "share": 0.0022
+      "share": 0.0021
     },
     {
       "agency": "Defense Health Agency",
@@ -111,14 +111,14 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -7647163.83,
+      "amount": -7671874.54,
       "share": -0.0011
     }
   ],
   "competition_mix": {
-    "competed_amount": 6404450651.76,
-    "not_competed_amount": 743984930.17,
-    "competed_pct": 0.8959,
-    "not_competed_pct": 0.1041
+    "competed_amount": 6409779448.32,
+    "not_competed_amount": 744138680.17,
+    "competed_pct": 0.896,
+    "not_competed_pct": 0.104
   }
 }
