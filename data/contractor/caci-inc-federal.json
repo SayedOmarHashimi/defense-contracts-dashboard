@@ -4,7 +4,7 @@
   "ueis": [
     "N3PBJAVNKF61"
   ],
-  "total_awarded": 7153918128.49,
+  "total_awarded": 7181227470.93,
   "contract_count": 495,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -30,44 +30,49 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1459059480.14
+      "amount": 1486368822.58
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2699992515.22,
-      "share": 0.3774
+      "amount": 2713985637.58,
+      "share": 0.3779
     },
     {
       "agency": "Department of the Navy",
-      "amount": 2545576514.12,
-      "share": 0.3558
+      "amount": 2546004354.12,
+      "share": 0.3545
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 765171544.17,
-      "share": 0.107
+      "share": 0.1066
     },
     {
       "agency": "Department of the Army",
       "amount": 289160498.08,
-      "share": 0.0404
+      "share": 0.0403
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 238606656.31,
-      "share": 0.0334
+      "share": 0.0332
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 213953675.3,
-      "share": 0.0299
+      "share": 0.0298
     },
     {
       "agency": "USTRANSCOM",
       "amount": 144419412.5,
-      "share": 0.0202
+      "share": 0.0201
+    },
+    {
+      "agency": "Defense Logistics Agency",
+      "amount": 88650156.62,
+      "share": 0.0123
     },
     {
       "agency": "Defense Finance and Accounting Service",
@@ -75,19 +80,14 @@
       "share": 0.0119
     },
     {
-      "agency": "Defense Logistics Agency",
-      "amount": 75761776.54,
-      "share": 0.0106
-    },
-    {
       "agency": "Washington Headquarters Services",
       "amount": 64936643.57,
-      "share": 0.0091
+      "share": 0.009
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 15394685.0,
-      "share": 0.0022
+      "share": 0.0021
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -116,9 +116,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6409779448.32,
+    "competed_amount": 6437088790.76,
     "not_competed_amount": 744138680.17,
-    "competed_pct": 0.896,
-    "not_competed_pct": 0.104
+    "competed_pct": 0.8964,
+    "not_competed_pct": 0.1036
   }
 }
