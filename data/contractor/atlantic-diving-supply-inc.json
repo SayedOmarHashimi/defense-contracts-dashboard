@@ -4,14 +4,10 @@
   "ueis": [
     "GJMSFBCNMSK3"
   ],
-  "total_awarded": 25129869740.45,
-  "contract_count": 383439,
+  "total_awarded": 22356228073.41,
+  "contract_count": 362729,
   "top_agency": "Defense Logistics Agency",
   "yearly_totals": [
-    {
-      "fiscal_year": 2021,
-      "amount": 2773641667.04
-    },
     {
       "fiscal_year": 2022,
       "amount": 3036584117.16
@@ -31,32 +27,36 @@
     {
       "fiscal_year": 2026,
       "amount": 4400555997.97
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Defense Logistics Agency",
-      "amount": 24536588954.05,
-      "share": 0.9764
+      "amount": 21831038482.37,
+      "share": 0.9765
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 341465789.0,
-      "share": 0.0136
+      "amount": 297482372.64,
+      "share": 0.0133
     },
     {
       "agency": "Department of the Army",
-      "amount": 154615381.69,
-      "share": 0.0062
+      "amount": 144286195.68,
+      "share": 0.0065
     },
     {
       "agency": "Department of the Navy",
-      "amount": 85836621.83,
-      "share": 0.0034
+      "amount": 74318926.44,
+      "share": 0.0033
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 10544001.34,
+      "amount": 8265937.9,
       "share": 0.0004
     },
     {
@@ -73,17 +73,12 @@
       "agency": "Defense Information Systems Agency",
       "amount": 62593.75,
       "share": 0.0
-    },
-    {
-      "agency": "Defense Contract Management Agency",
-      "amount": -17165.84,
-      "share": -0.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 24710242555.53,
-    "not_competed_amount": 419627184.92,
-    "competed_pct": 0.9833,
-    "not_competed_pct": 0.0167
+    "competed_amount": 22211875873.68,
+    "not_competed_amount": 144352199.73,
+    "competed_pct": 0.9935,
+    "not_competed_pct": 0.0065
   }
 }

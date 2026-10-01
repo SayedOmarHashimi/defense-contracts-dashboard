@@ -4,14 +4,10 @@
   "ueis": [
     "NMBCAG1JBKL7"
   ],
-  "total_awarded": 3387919230.93,
-  "contract_count": 319,
+  "total_awarded": 2802222849.74,
+  "contract_count": 289,
   "top_agency": "Missile Defense Agency",
   "yearly_totals": [
-    {
-      "fiscal_year": 2021,
-      "amount": 585696381.19
-    },
     {
       "fiscal_year": 2022,
       "amount": 493742201.28
@@ -31,69 +27,73 @@
     {
       "fiscal_year": 2026,
       "amount": 381856559.33
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Missile Defense Agency",
-      "amount": 1447457976.43,
-      "share": 0.4272
-    },
-    {
-      "agency": "Department of the Army",
-      "amount": 809429524.12,
-      "share": 0.2389
+      "amount": 1162044280.11,
+      "share": 0.4147
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 715066987.36,
-      "share": 0.2111
+      "amount": 663663755.18,
+      "share": 0.2368
+    },
+    {
+      "agency": "Department of the Army",
+      "amount": 593375816.92,
+      "share": 0.2118
     },
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 135727285.81,
-      "share": 0.0401
+      "share": 0.0484
     },
     {
       "agency": "U.S. Cyber Command",
       "amount": 122479468.62,
-      "share": 0.0362
+      "share": 0.0437
     },
     {
       "agency": "Department of the Navy",
-      "amount": 109290155.54,
-      "share": 0.0323
-    },
-    {
-      "agency": "Defense Information Systems Agency",
-      "amount": 23448650.31,
-      "share": 0.0069
+      "amount": 82531135.02,
+      "share": 0.0295
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 18908870.2,
-      "share": 0.0056
+      "share": 0.0067
+    },
+    {
+      "agency": "Defense Information Systems Agency",
+      "amount": 18404196.85,
+      "share": 0.0066
     },
     {
       "agency": "Defense Health Agency",
       "amount": 5144548.99,
-      "share": 0.0015
+      "share": 0.0018
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 1614961.04,
-      "share": 0.0005
+      "amount": 323671.74,
+      "share": 0.0001
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -649197.49,
-      "share": -0.0002
+      "amount": -380179.7,
+      "share": -0.0001
     }
   ],
   "competition_mix": {
-    "competed_amount": 3159043970.76,
-    "not_competed_amount": 228875260.17,
-    "competed_pct": 0.9324,
-    "not_competed_pct": 0.0676
+    "competed_amount": 2591045305.9,
+    "not_competed_amount": 211177543.84,
+    "competed_pct": 0.9246,
+    "not_competed_pct": 0.0754
   }
 }

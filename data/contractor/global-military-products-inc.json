@@ -1,0 +1,64 @@
+{
+  "name": "Global Military Products Inc",
+  "slug": "global-military-products-inc",
+  "ueis": [
+    "L168LBGMAA13"
+  ],
+  "total_awarded": 2340811767.76,
+  "contract_count": 57,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2022,
+      "amount": 323474531.82
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 964039730.3
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 514026114.47
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 557401636.27
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": -18130245.1
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 2338823020.57,
+      "share": 0.9992
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 1640928.87,
+      "share": 0.0007
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 327318.46,
+      "share": 0.0001
+    },
+    {
+      "agency": "Washington Headquarters Services",
+      "amount": 20499.86,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2222108709.7,
+    "not_competed_amount": 118703058.06,
+    "competed_pct": 0.9493,
+    "not_competed_pct": 0.0507
+  }
+}

@@ -4,14 +4,10 @@
   "ueis": [
     "NVC1EFKKYB93"
   ],
-  "total_awarded": 6409064416.1,
-  "contract_count": 695,
+  "total_awarded": 5507384252.28,
+  "contract_count": 515,
   "top_agency": "Defense Contract Management Agency",
   "yearly_totals": [
-    {
-      "fiscal_year": 2021,
-      "amount": 901680163.82
-    },
     {
       "fiscal_year": 2022,
       "amount": 1011475024.02
@@ -31,38 +27,42 @@
     {
       "fiscal_year": 2026,
       "amount": 1133834450.48
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Defense Contract Management Agency",
-      "amount": 2512729574.79,
-      "share": 0.3921
+      "amount": 2191633847.39,
+      "share": 0.3979
     },
     {
       "agency": "Department of the Navy",
-      "amount": 2219954959.06,
-      "share": 0.3464
+      "amount": 2033791716.55,
+      "share": 0.3693
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 1469500765.97,
-      "share": 0.2293
+      "amount": 1077796066.82,
+      "share": 0.1957
     },
     {
       "agency": "Department of the Army",
       "amount": 192715305.82,
-      "share": 0.0301
+      "share": 0.035
     },
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 11368826.07,
-      "share": 0.0018
+      "share": 0.0021
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 2789484.39,
-      "share": 0.0004
+      "amount": 72989.63,
+      "share": 0.0
     },
     {
       "agency": "Defense Microelectronics Activity",
@@ -76,9 +76,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6204061055.57,
-    "not_competed_amount": 205003360.53,
-    "competed_pct": 0.968,
-    "not_competed_pct": 0.032
+    "competed_amount": 5320945590.1,
+    "not_competed_amount": 186438662.18,
+    "competed_pct": 0.9661,
+    "not_competed_pct": 0.0339
   }
 }

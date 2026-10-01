@@ -8,90 +8,79 @@
     "M25AW7P5S7K7",
     "M6BRZ1FHEZQ1",
     "MF2LE5RK6L84",
-    "SML4NN2CT556",
     "UEGFHX6R6KJ1",
     "WZWRLY4G3PL8"
   ],
-  "total_awarded": 118626188038.62,
-  "contract_count": 24258,
+  "total_awarded": 97461475193.66,
+  "contract_count": 20161,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
     {
-      "fiscal_year": 2021,
-      "amount": 19157855537.98
-    },
-    {
       "fiscal_year": 2022,
-      "amount": 13172422279.98
+      "amount": 12532831227.25
     },
     {
       "fiscal_year": 2023,
-      "amount": 20180976094.13
+      "amount": 19780848224.98
     },
     {
       "fiscal_year": 2024,
-      "amount": 21180427564.68
+      "amount": 20752695142.64
     },
     {
       "fiscal_year": 2025,
-      "amount": 19639163614.95
+      "amount": 19334648538.69
     },
     {
       "fiscal_year": 2026,
-      "amount": 25295342946.9
+      "amount": 25060452060.1
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 72565158049.7,
-      "share": 0.6117
+      "amount": 62529161728.48,
+      "share": 0.6416
     },
     {
       "agency": "Department of the Navy",
-      "amount": 24930968827.48,
-      "share": 0.2102
+      "amount": 19723618153.4,
+      "share": 0.2024
     },
     {
       "agency": "Department of the Army",
-      "amount": 11539387938.51,
-      "share": 0.0973
+      "amount": 10248861774.35,
+      "share": 0.1052
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 3716574668.3,
-      "share": 0.0313
-    },
-    {
-      "agency": "Missile Defense Agency",
-      "amount": 3469236592.31,
-      "share": 0.0292
+      "amount": 3120157104.89,
+      "share": 0.032
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 2657782208.28,
-      "share": 0.0224
+      "amount": 2024692074.39,
+      "share": 0.0208
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 154600373.4,
-      "share": 0.0013
-    },
-    {
-      "agency": "Defense Advanced Research Projects Agency",
-      "amount": 9909966.16,
-      "share": 0.0001
+      "amount": 132361793.4,
+      "share": 0.0014
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -417430585.52,
-      "share": -0.0035
+      "amount": -317377435.25,
+      "share": -0.0033
     }
   ],
   "competition_mix": {
-    "competed_amount": 25506406401.09,
-    "not_competed_amount": 93119781637.53,
-    "competed_pct": 0.215,
-    "not_competed_pct": 0.785
+    "competed_amount": 17650170311.58,
+    "not_competed_amount": 79811304882.08,
+    "competed_pct": 0.1811,
+    "not_competed_pct": 0.8189
   }
 }

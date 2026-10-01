@@ -4,14 +4,10 @@
   "ueis": [
     "MMLKPW9JLX64"
   ],
-  "total_awarded": 11695629218.01,
-  "contract_count": 4224,
+  "total_awarded": 9978529210.38,
+  "contract_count": 3564,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
-    {
-      "fiscal_year": 2021,
-      "amount": 1717100007.63
-    },
     {
       "fiscal_year": 2022,
       "amount": 1969927951.71
@@ -31,68 +27,72 @@
     {
       "fiscal_year": 2026,
       "amount": 1441354323.87
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 4744214532.01,
-      "share": 0.4056
+      "amount": 4046234830.47,
+      "share": 0.4055
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 3480995820.52,
-      "share": 0.2976
+      "amount": 3144853945.17,
+      "share": 0.3152
     },
     {
       "agency": "Department of the Army",
-      "amount": 2616538792.81,
-      "share": 0.2237
+      "amount": 2082675742.12,
+      "share": 0.2087
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 236913517.45,
-      "share": 0.0203
+      "amount": 207373455.72,
+      "share": 0.0208
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 232814447.6,
-      "share": 0.0199
+      "amount": 178050745.47,
+      "share": 0.0178
     },
     {
       "agency": "USTRANSCOM",
-      "amount": 161737864.07,
-      "share": 0.0138
+      "amount": 153635255.8,
+      "share": 0.0154
     },
     {
       "agency": "Defense Threat Reduction Agency",
-      "amount": 93124630.57,
-      "share": 0.008
+      "amount": 58360951.87,
+      "share": 0.0058
     },
     {
       "agency": "U.S. Cyber Command",
       "amount": 48513474.66,
-      "share": 0.0041
-    },
-    {
-      "agency": "Defense Logistics Agency",
-      "amount": 47245536.72,
-      "share": 0.004
+      "share": 0.0049
     },
     {
       "agency": "Missile Defense Agency",
-      "amount": 41914248.3,
+      "amount": 35738435.82,
       "share": 0.0036
     },
     {
-      "agency": "U.S. Special Operations Command",
-      "amount": 4387541.78,
-      "share": 0.0004
+      "agency": "Defense Logistics Agency",
+      "amount": 32450450.1,
+      "share": 0.0033
     },
     {
       "agency": "Defense Health Agency",
       "amount": 2765244.29,
-      "share": 0.0002
+      "share": 0.0003
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 2743967.53,
+      "share": 0.0003
     },
     {
       "agency": "Defense Finance and Accounting Service",
@@ -101,14 +101,14 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -15692904.68,
-      "share": -0.0013
+      "amount": -15023760.55,
+      "share": -0.0015
     }
   ],
   "competition_mix": {
-    "competed_amount": 11333666191.04,
-    "not_competed_amount": 361963026.97,
-    "competed_pct": 0.9691,
-    "not_competed_pct": 0.0309
+    "competed_amount": 9649111028.05,
+    "not_competed_amount": 329418182.33,
+    "competed_pct": 0.967,
+    "not_competed_pct": 0.033
   }
 }

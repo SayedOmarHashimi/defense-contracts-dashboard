@@ -4,14 +4,10 @@
   "ueis": [
     "C47BNA8GM833"
   ],
-  "total_awarded": 3752276967.55,
-  "contract_count": 316,
+  "total_awarded": 3426394189.04,
+  "contract_count": 296,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
-    {
-      "fiscal_year": 2021,
-      "amount": 325882778.51
-    },
     {
       "fiscal_year": 2022,
       "amount": 496125675.72
@@ -31,58 +27,62 @@
     {
       "fiscal_year": 2026,
       "amount": 573823244.49
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1315374437.14,
-      "share": 0.3506
+      "amount": 1233820011.11,
+      "share": 0.3601
     },
     {
       "agency": "Department of the Army",
-      "amount": 1240949494.43,
-      "share": 0.3307
+      "amount": 1177667218.94,
+      "share": 0.3437
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 891140444.54,
-      "share": 0.2375
-    },
-    {
-      "agency": "Department of the Navy",
-      "amount": 135581977.23,
-      "share": 0.0361
+      "amount": 779635402.83,
+      "share": 0.2275
     },
     {
       "agency": "Defense Health Agency",
-      "amount": 126984580.96,
-      "share": 0.0338
+      "amount": 126117019.15,
+      "share": 0.0368
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 77855284.91,
+      "share": 0.0227
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 24300636.56,
-      "share": 0.0065
+      "amount": 15300636.56,
+      "share": 0.0045
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 12169264.1,
+      "amount": 11009569.71,
       "share": 0.0032
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 3108957.5,
-      "share": 0.0008
+      "share": 0.0009
     },
     {
       "agency": "U.S. Cyber Command",
       "amount": 1591509.7,
-      "share": 0.0004
+      "share": 0.0005
     },
     {
       "agency": "Defense Human Resources Activity",
-      "amount": 1571583.62,
-      "share": 0.0004
+      "amount": 784496.86,
+      "share": 0.0002
     },
     {
       "agency": "Missile Defense Agency",
@@ -96,9 +96,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3414542764.53,
-    "not_competed_amount": 337734203.02,
-    "competed_pct": 0.91,
-    "not_competed_pct": 0.09
+    "competed_amount": 3118937858.63,
+    "not_competed_amount": 307456330.41,
+    "competed_pct": 0.9103,
+    "not_competed_pct": 0.0897
   }
 }

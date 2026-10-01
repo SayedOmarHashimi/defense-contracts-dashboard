@@ -5,14 +5,10 @@
     "C3NLZNSMU254",
     "WMXDDH6HJNA5"
   ],
-  "total_awarded": 43115830028.37,
-  "contract_count": 362,
+  "total_awarded": 37456911412.38,
+  "contract_count": 320,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
-    {
-      "fiscal_year": 2021,
-      "amount": 5658918615.99
-    },
     {
       "fiscal_year": 2022,
       "amount": 4613313436.38
@@ -32,29 +28,28 @@
     {
       "fiscal_year": 2026,
       "amount": 7427897187.96
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 43114476569.94,
+      "amount": 37456088707.36,
       "share": 1.0
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 1386096.02,
+      "amount": 822705.02,
       "share": 0.0
-    },
-    {
-      "agency": "Defense Contract Management Agency",
-      "amount": -32637.59,
-      "share": -0.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 14183459677.35,
-    "not_competed_amount": 28932370351.02,
-    "competed_pct": 0.329,
-    "not_competed_pct": 0.671
+    "competed_amount": 13206282117.88,
+    "not_competed_amount": 24250629294.5,
+    "competed_pct": 0.3526,
+    "not_competed_pct": 0.6474
   }
 }

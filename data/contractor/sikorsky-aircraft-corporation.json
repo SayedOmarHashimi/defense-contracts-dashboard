@@ -4,14 +4,10 @@
   "ueis": [
     "UTJWTSLMFNG4"
   ],
-  "total_awarded": 25713642983.14,
-  "contract_count": 142540,
+  "total_awarded": 21048631440.68,
+  "contract_count": 113127,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
-    {
-      "fiscal_year": 2021,
-      "amount": 4665011542.46
-    },
     {
       "fiscal_year": 2022,
       "amount": 3393050931.65
@@ -31,44 +27,48 @@
     {
       "fiscal_year": 2026,
       "amount": 2932675239.63
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
     }
   ],
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 14112132398.32,
-      "share": 0.5488
+      "amount": 11498336397.08,
+      "share": 0.5463
     },
     {
       "agency": "Department of the Army",
-      "amount": 6372220714.88,
-      "share": 0.2478
+      "amount": 5282115371.3,
+      "share": 0.2509
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 3366259622.37,
-      "share": 0.1309
+      "amount": 2655333049.35,
+      "share": 0.1262
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 1869983297.22,
-      "share": 0.0727
+      "amount": 1623582117.11,
+      "share": 0.0771
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 14851839.03,
-      "share": 0.0006
+      "amount": 11089841.73,
+      "share": 0.0005
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -21804888.68,
-      "share": -0.0008
+      "amount": -21825335.89,
+      "share": -0.001
     }
   ],
   "competition_mix": {
-    "competed_amount": 4015209099.71,
-    "not_competed_amount": 21698433883.43,
-    "competed_pct": 0.1562,
-    "not_competed_pct": 0.8438
+    "competed_amount": 2783500489.04,
+    "not_competed_amount": 18265130951.64,
+    "competed_pct": 0.1322,
+    "not_competed_pct": 0.8678
   }
 }
