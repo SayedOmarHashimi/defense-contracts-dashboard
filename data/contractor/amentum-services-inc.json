@@ -4,7 +4,7 @@
   "ueis": [
     "QEMLRQA7PLG4"
   ],
-  "total_awarded": 12781201852.49,
+  "total_awarded": 12805728434.71,
   "contract_count": 1034,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 2020588272.35
+      "amount": 2045114854.57
     },
     {
       "fiscal_year": 2027,
@@ -36,23 +36,23 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 4905168090.99,
-      "share": 0.3838
+      "amount": 4924340980.86,
+      "share": 0.3845
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 3428968548.89,
-      "share": 0.2683
+      "amount": 3429109358.93,
+      "share": 0.2678
     },
     {
       "agency": "Department of the Navy",
-      "amount": 3209628364.82,
-      "share": 0.2511
+      "amount": 3213341247.13,
+      "share": 0.2509
     },
     {
       "agency": "Defense Contract Management Agency",
       "amount": 699808155.03,
-      "share": 0.0548
+      "share": 0.0546
     },
     {
       "agency": "Defense Logistics Agency",
@@ -71,8 +71,8 @@
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 9545740.46,
-      "share": 0.0007
+      "amount": 11045740.46,
+      "share": 0.0009
     },
     {
       "agency": "U.S. Special Operations Command",
@@ -81,7 +81,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 12376928622.42,
+    "competed_amount": 12401455204.64,
     "not_competed_amount": 404273230.07,
     "competed_pct": 0.9684,
     "not_competed_pct": 0.0316

@@ -4,7 +4,7 @@
   "ueis": [
     "L693MQDFLKD1"
   ],
-  "total_awarded": 3586149169.77,
+  "total_awarded": 3586890698.92,
   "contract_count": 245,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 551239913.35
+      "amount": 551981442.5
     },
     {
       "fiscal_year": 2027,
@@ -36,18 +36,18 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2825923324.14,
-      "share": 0.788
+      "amount": 2826708412.21,
+      "share": 0.7881
     },
     {
       "agency": "Department of the Navy",
-      "amount": 643426205.29,
+      "amount": 643382646.37,
       "share": 0.1794
     },
     {
       "agency": "Department of the Army",
       "amount": 106347177.55,
-      "share": 0.0297
+      "share": 0.0296
     },
     {
       "agency": "Missile Defense Agency",
@@ -71,7 +71,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3494654956.92,
+    "competed_amount": 3495396486.07,
     "not_competed_amount": 91494212.85,
     "competed_pct": 0.9745,
     "not_competed_pct": 0.0255

@@ -4,7 +4,7 @@
   "ueis": [
     "NVC1EFKKYB93"
   ],
-  "total_awarded": 5507384252.28,
+  "total_awarded": 5510708378.29,
   "contract_count": 515,
   "top_agency": "Defense Contract Management Agency",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1133834450.48
+      "amount": 1137158576.49
     },
     {
       "fiscal_year": 2027,
@@ -36,18 +36,18 @@
   "agency_breakdown": [
     {
       "agency": "Defense Contract Management Agency",
-      "amount": 2191633847.39,
-      "share": 0.3979
+      "amount": 2194618390.05,
+      "share": 0.3982
     },
     {
       "agency": "Department of the Navy",
       "amount": 2033791716.55,
-      "share": 0.3693
+      "share": 0.3691
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 1077796066.82,
-      "share": 0.1957
+      "amount": 1078135650.17,
+      "share": 0.1956
     },
     {
       "agency": "Department of the Army",
@@ -76,9 +76,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 5320945590.1,
+    "competed_amount": 5324269716.11,
     "not_competed_amount": 186438662.18,
-    "competed_pct": 0.9661,
-    "not_competed_pct": 0.0339
+    "competed_pct": 0.9662,
+    "not_competed_pct": 0.0338
   }
 }

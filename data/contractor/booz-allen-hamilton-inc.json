@@ -4,7 +4,7 @@
   "ueis": [
     "JCBMLGPE6Z71"
   ],
-  "total_awarded": 12497172848.56,
+  "total_awarded": 12522996268.97,
   "contract_count": 1418,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -22,11 +22,11 @@
     },
     {
       "fiscal_year": 2025,
-      "amount": 3037477241.46
+      "amount": 3041925534.6
     },
     {
       "fiscal_year": 2026,
-      "amount": 1789701724.22
+      "amount": 1811076851.49
     },
     {
       "fiscal_year": 2027,
@@ -36,33 +36,33 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 4917802514.38,
-      "share": 0.3935
+      "amount": 4926243931.26,
+      "share": 0.3934
     },
     {
       "agency": "Department of the Navy",
-      "amount": 4461844479.93,
-      "share": 0.357
+      "amount": 4463031977.16,
+      "share": 0.3564
     },
     {
       "agency": "Department of the Army",
-      "amount": 1217644019.61,
+      "amount": 1220168479.37,
       "share": 0.0974
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 527313941.94,
-      "share": 0.0422
+      "share": 0.0421
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 468395630.67,
-      "share": 0.0375
+      "share": 0.0374
     },
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 332276170.1,
-      "share": 0.0266
+      "share": 0.0265
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
@@ -91,13 +91,13 @@
     },
     {
       "agency": "USTRANSCOM",
-      "amount": 10056095.26,
-      "share": 0.0008
+      "amount": 23726141.8,
+      "share": 0.0019
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 6880659.2,
-      "share": 0.0006
+      "share": 0.0005
     },
     {
       "agency": "U.S. Special Operations Command",
@@ -121,9 +121,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 11946281401.22,
+    "competed_amount": 11972104821.63,
     "not_competed_amount": 550891447.34,
-    "competed_pct": 0.9559,
-    "not_competed_pct": 0.0441
+    "competed_pct": 0.956,
+    "not_competed_pct": 0.044
   }
 }

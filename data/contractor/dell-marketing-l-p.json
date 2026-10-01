@@ -4,7 +4,7 @@
   "ueis": [
     "HJLSY7RZV8X6"
   ],
-  "total_awarded": 6238441769.72,
+  "total_awarded": 6238441769.42,
   "contract_count": 2229,
   "top_agency": "Defense Information Systems Agency",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 818180139.19
+      "amount": 818180138.89
     },
     {
       "fiscal_year": 2027,
@@ -36,7 +36,7 @@
   "agency_breakdown": [
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 1969293372.7,
+      "amount": 1969293372.4,
       "share": 0.3157
     },
     {
@@ -106,7 +106,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6238214794.7,
+    "competed_amount": 6238214794.4,
     "not_competed_amount": 226975.02,
     "competed_pct": 1.0,
     "not_competed_pct": 0.0
