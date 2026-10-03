@@ -49,7 +49,7 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 130563653988.51,
+      "amount": 130559767355.51,
       "share": 0.5117
     },
     {
@@ -100,8 +100,8 @@
   ],
   "competition_mix": {
     "competed_amount": 26650424457.86,
-    "not_competed_amount": 227399182191.64,
-    "competed_pct": 0.1049,
-    "not_competed_pct": 0.8951
+    "not_competed_amount": 228501311460.89,
+    "competed_pct": 0.1044,
+    "not_competed_pct": 0.8956
   }
 }
