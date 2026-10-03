@@ -4,7 +4,7 @@
   "ueis": [
     "NMBCAG1JBKL7"
   ],
-  "total_awarded": 2807556086.18,
+  "total_awarded": 2810262913.18,
   "contract_count": 289,
   "top_agency": "Missile Defense Agency",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 387189795.77
+      "amount": 389896622.77
     },
     {
       "fiscal_year": 2027,
@@ -37,17 +37,17 @@
     {
       "agency": "Missile Defense Agency",
       "amount": 1162044280.11,
-      "share": 0.4139
+      "share": 0.4135
     },
     {
       "agency": "Department of the Air Force",
       "amount": 659933755.18,
-      "share": 0.2351
+      "share": 0.2348
     },
     {
       "agency": "Department of the Army",
-      "amount": 602439053.36,
-      "share": 0.2146
+      "amount": 605145880.36,
+      "share": 0.2153
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -72,7 +72,7 @@
     {
       "agency": "Defense Information Systems Agency",
       "amount": 18404196.85,
-      "share": 0.0066
+      "share": 0.0065
     },
     {
       "agency": "Defense Health Agency",
@@ -91,9 +91,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2596378542.34,
+    "competed_amount": 2599085369.34,
     "not_competed_amount": 211177543.84,
-    "competed_pct": 0.9248,
-    "not_competed_pct": 0.0752
+    "competed_pct": 0.9249,
+    "not_competed_pct": 0.0751
   }
 }
