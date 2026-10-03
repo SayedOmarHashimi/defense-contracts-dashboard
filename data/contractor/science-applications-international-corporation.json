@@ -4,8 +4,8 @@
   "ueis": [
     "MMLKPW9JLX64"
   ],
-  "total_awarded": 9992412220.6,
-  "contract_count": 3564,
+  "total_awarded": 9992433039.19,
+  "contract_count": 3565,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1455237334.09
+      "amount": 1455258152.68
     },
     {
       "fiscal_year": 2027,
@@ -56,7 +56,7 @@
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 178050745.47,
+      "amount": 178071564.06,
       "share": 0.0178
     },
     {
@@ -106,7 +106,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 9661212108.06,
+    "competed_amount": 9661232926.65,
     "not_competed_amount": 331200112.54,
     "competed_pct": 0.9669,
     "not_competed_pct": 0.0331
