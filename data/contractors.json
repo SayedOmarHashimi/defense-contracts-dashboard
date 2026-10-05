@@ -68,7 +68,7 @@
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 25986617760.1,
-    "contract_count": 2252901,
+    "contract_count": 2253277,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
     "total_awarded": 22397276662.26,
-    "contract_count": 362976,
+    "contract_count": 363005,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
     "total_awarded": 21052402834.62,
-    "contract_count": 113161,
+    "contract_count": 113166,
     "top_agency": "Department of the Navy"
   },
   {
@@ -332,7 +332,7 @@
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
     "total_awarded": 5824933615.39,
-    "contract_count": 18016,
+    "contract_count": 18017,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -380,7 +380,7 @@
     "name": "Canadian Commercial Corporation",
     "slug": "canadian-commercial-corporation",
     "total_awarded": 4877170650.2,
-    "contract_count": 6110,
+    "contract_count": 6111,
     "top_agency": "Department of the Army"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
     "total_awarded": 4152230799.86,
-    "contract_count": 296662,
+    "contract_count": 296690,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -532,7 +532,7 @@
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3324050509.34,
-    "contract_count": 1547203,
+    "contract_count": 1547329,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -588,7 +588,7 @@
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
     "total_awarded": 2794608170.32,
-    "contract_count": 120972,
+    "contract_count": 121011,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -644,7 +644,7 @@
     "name": "Motor Oil (Hellas) Corinth Refineries S.A.",
     "slug": "motor-oil-hellas-corinth-refineries-s-a",
     "total_awarded": 2707607323.96,
-    "contract_count": 275,
+    "contract_count": 276,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -660,7 +660,7 @@
     "name": "Phillips 66 Company",
     "slug": "phillips-66-company",
     "total_awarded": 2676824588.72,
-    "contract_count": 3842,
+    "contract_count": 3844,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -683,7 +683,7 @@
     "id": 86,
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
-    "total_awarded": 2611197406.68,
+    "total_awarded": 2611201942.32,
     "contract_count": 3686,
     "top_agency": "Defense Information Systems Agency"
   },
