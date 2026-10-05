@@ -4,7 +4,7 @@
   "ueis": [
     "GTJHZE4M7YK1"
   ],
-  "total_awarded": 2712846429.05,
+  "total_awarded": 2727724681.05,
   "contract_count": 180,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 593245560.24
+      "amount": 608123812.24
     },
     {
       "fiscal_year": 2027,
@@ -36,18 +36,18 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 2554674962.38,
-      "share": 0.9417
+      "amount": 2569553214.38,
+      "share": 0.942
     },
     {
       "agency": "Department of the Air Force",
       "amount": 42825496.54,
-      "share": 0.0158
+      "share": 0.0157
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 42297880.05,
-      "share": 0.0156
+      "share": 0.0155
     },
     {
       "agency": "Department of the Army",
@@ -67,7 +67,7 @@
     {
       "agency": "U.S. Special Operations Command",
       "amount": 6112059.29,
-      "share": 0.0023
+      "share": 0.0022
     },
     {
       "agency": "Defense Microelectronics Activity",
@@ -82,8 +82,8 @@
   ],
   "competition_mix": {
     "competed_amount": 123355269.98,
-    "not_competed_amount": 2589491159.07,
-    "competed_pct": 0.0455,
-    "not_competed_pct": 0.9545
+    "not_competed_amount": 2604369411.07,
+    "competed_pct": 0.0452,
+    "not_competed_pct": 0.9548
   }
 }
