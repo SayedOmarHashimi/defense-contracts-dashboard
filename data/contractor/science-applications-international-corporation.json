@@ -4,7 +4,7 @@
   "ueis": [
     "MMLKPW9JLX64"
   ],
-  "total_awarded": 9992190863.3,
+  "total_awarded": 10005866124.62,
   "contract_count": 3568,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1455015976.79
+      "amount": 1468691238.11
     },
     {
       "fiscal_year": 2027,
@@ -37,22 +37,22 @@
     {
       "agency": "Department of the Navy",
       "amount": 4060507867.87,
-      "share": 0.4064
+      "share": 0.4058
     },
     {
       "agency": "Department of the Air Force",
       "amount": 3159379479.95,
-      "share": 0.3162
+      "share": 0.3158
     },
     {
       "agency": "Department of the Army",
       "amount": 2081193265.59,
-      "share": 0.2083
+      "share": 0.208
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 207373455.72,
-      "share": 0.0208
+      "share": 0.0207
     },
     {
       "agency": "Washington Headquarters Services",
@@ -72,7 +72,7 @@
     {
       "agency": "U.S. Cyber Command",
       "amount": 48513474.66,
-      "share": 0.0049
+      "share": 0.0048
     },
     {
       "agency": "Missile Defense Agency",

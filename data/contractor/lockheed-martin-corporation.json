@@ -18,7 +18,7 @@
     "XFJMYSYFJEK4"
   ],
   "total_awarded": 255177259569.67,
-  "contract_count": 15885,
+  "contract_count": 15887,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
@@ -100,7 +100,7 @@
   ],
   "competition_mix": {
     "competed_amount": 26664754842.73,
-    "not_competed_amount": 228516985631.0,
+    "not_competed_amount": 228512504726.94,
     "competed_pct": 0.1045,
     "not_competed_pct": 0.8955
   }
