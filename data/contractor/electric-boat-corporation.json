@@ -5,7 +5,7 @@
     "E7BEKJ4V9528"
   ],
   "total_awarded": 61081096913.8,
-  "contract_count": 2115,
+  "contract_count": 2117,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
@@ -41,12 +41,12 @@
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 28472775.31,
+      "amount": 28504033.02,
       "share": 0.0005
     }
   ],
   "competition_mix": {
-    "competed_amount": 273945182.56,
+    "competed_amount": 273976440.27,
     "not_competed_amount": 60807151731.24,
     "competed_pct": 0.0045,
     "not_competed_pct": 0.9955

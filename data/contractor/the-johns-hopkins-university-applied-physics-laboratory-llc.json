@@ -4,8 +4,8 @@
   "ueis": [
     "C1HBCJ9RMBV3"
   ],
-  "total_awarded": 7545989401.75,
-  "contract_count": 2696,
+  "total_awarded": 7607168890.39,
+  "contract_count": 2698,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1436897373.12
+      "amount": 1498076861.76
     },
     {
       "fiscal_year": 2027,
@@ -36,43 +36,43 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 3595497208.31,
-      "share": 0.4765
+      "amount": 3605781510.95,
+      "share": 0.474
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 1059757789.98,
-      "share": 0.1404
+      "amount": 1109483065.98,
+      "share": 0.1458
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 886700003.21,
-      "share": 0.1175
+      "share": 0.1166
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 793822668.67,
-      "share": 0.1052
+      "amount": 794992578.67,
+      "share": 0.1045
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 743555838.34,
-      "share": 0.0985
+      "share": 0.0977
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 159915600.82,
-      "share": 0.0212
+      "share": 0.021
     },
     {
       "agency": "U.S. Cyber Command",
       "amount": 118636923.09,
-      "share": 0.0157
+      "share": 0.0156
     },
     {
       "agency": "Immediate Office of the Secretary of Defense",
       "amount": 83611885.24,
-      "share": 0.0111
+      "share": 0.011
     },
     {
       "agency": "Department of the Army",
@@ -82,12 +82,12 @@
     {
       "agency": "Defense Information Systems Agency",
       "amount": 28509142.92,
-      "share": 0.0038
+      "share": 0.0037
     },
     {
       "agency": "Defense Health Agency",
       "amount": 26875610.46,
-      "share": 0.0036
+      "share": 0.0035
     },
     {
       "agency": "Defense Logistics Agency",
@@ -107,8 +107,8 @@
   ],
   "competition_mix": {
     "competed_amount": 151124142.62,
-    "not_competed_amount": 7394865259.13,
-    "competed_pct": 0.02,
-    "not_competed_pct": 0.98
+    "not_competed_amount": 7456044747.77,
+    "competed_pct": 0.0199,
+    "not_competed_pct": 0.9801
   }
 }

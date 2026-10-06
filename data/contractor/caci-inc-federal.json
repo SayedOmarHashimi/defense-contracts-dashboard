@@ -36,13 +36,13 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2698387982.91,
+      "amount": 2698636482.91,
       "share": 0.4019
     },
     {
       "agency": "Department of the Navy",
-      "amount": 2237769367.62,
-      "share": 0.3333
+      "amount": 2237053750.96,
+      "share": 0.3331
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
@@ -56,7 +56,7 @@
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 238352913.41,
+      "amount": 238276795.11,
       "share": 0.0355
     },
     {

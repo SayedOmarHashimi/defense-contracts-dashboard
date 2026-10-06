@@ -5,7 +5,7 @@
     "HTYJC5P9ZMH5"
   ],
   "total_awarded": 2795210562.01,
-  "contract_count": 121011,
+  "contract_count": 121079,
   "top_agency": "Defense Logistics Agency",
   "yearly_totals": [
     {
@@ -36,8 +36,8 @@
   "agency_breakdown": [
     {
       "agency": "Defense Logistics Agency",
-      "amount": 2790247340.59,
-      "share": 0.9982
+      "amount": 2791903456.61,
+      "share": 0.9988
     },
     {
       "agency": "Department of the Air Force",
@@ -67,8 +67,8 @@
   ],
   "competition_mix": {
     "competed_amount": 2374889511.59,
-    "not_competed_amount": 420321050.42,
-    "competed_pct": 0.8496,
-    "not_competed_pct": 0.1504
+    "not_competed_amount": 420820330.08,
+    "competed_pct": 0.8495,
+    "not_competed_pct": 0.1505
   }
 }

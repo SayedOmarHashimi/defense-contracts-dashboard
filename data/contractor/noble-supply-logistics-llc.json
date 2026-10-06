@@ -5,7 +5,7 @@
     "YLE5AAYNVPK6"
   ],
   "total_awarded": 4152292180.31,
-  "contract_count": 296690,
+  "contract_count": 296728,
   "top_agency": "Defense Logistics Agency",
   "yearly_totals": [
     {
@@ -36,8 +36,8 @@
   "agency_breakdown": [
     {
       "agency": "Defense Logistics Agency",
-      "amount": 4091659300.52,
-      "share": 0.9854
+      "amount": 4093481299.65,
+      "share": 0.9858
     },
     {
       "agency": "Department of the Army",
@@ -81,8 +81,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3981379481.97,
-    "not_competed_amount": 170912698.34,
+    "competed_amount": 3983167237.1,
+    "not_competed_amount": 170946942.34,
     "competed_pct": 0.9588,
     "not_competed_pct": 0.0412
   }
