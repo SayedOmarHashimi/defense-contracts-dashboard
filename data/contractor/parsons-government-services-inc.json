@@ -4,7 +4,7 @@
   "ueis": [
     "NMBCAG1JBKL7"
   ],
-  "total_awarded": 2810262913.18,
+  "total_awarded": 2816530083.89,
   "contract_count": 289,
   "top_agency": "Missile Defense Agency",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 389896622.77
+      "amount": 396163793.48
     },
     {
       "fiscal_year": 2027,
@@ -36,33 +36,33 @@
   "agency_breakdown": [
     {
       "agency": "Missile Defense Agency",
-      "amount": 1162044280.11,
-      "share": 0.4135
+      "amount": 1165170807.3,
+      "share": 0.4137
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 659933755.18,
-      "share": 0.2348
+      "amount": 660746698.46,
+      "share": 0.2346
     },
     {
       "agency": "Department of the Army",
       "amount": 605145880.36,
-      "share": 0.2153
+      "share": 0.2149
     },
     {
       "agency": "Defense Threat Reduction Agency",
-      "amount": 135727285.81,
-      "share": 0.0483
+      "amount": 138054986.05,
+      "share": 0.049
     },
     {
       "agency": "U.S. Cyber Command",
       "amount": 122479468.62,
-      "share": 0.0436
+      "share": 0.0435
     },
     {
       "agency": "Department of the Navy",
       "amount": 82531135.02,
-      "share": 0.0294
+      "share": 0.0293
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
@@ -91,9 +91,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2599085369.34,
-    "not_competed_amount": 211177543.84,
-    "competed_pct": 0.9249,
-    "not_competed_pct": 0.0751
+    "competed_amount": 2604539596.77,
+    "not_competed_amount": 211990487.12,
+    "competed_pct": 0.9247,
+    "not_competed_pct": 0.0753
   }
 }

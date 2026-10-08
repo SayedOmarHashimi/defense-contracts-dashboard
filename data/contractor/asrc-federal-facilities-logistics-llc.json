@@ -4,7 +4,7 @@
   "ueis": [
     "MA1VZ6667CB1"
   ],
-  "total_awarded": 3326598448.18,
+  "total_awarded": 3332578545.27,
   "contract_count": 1551174,
   "top_agency": "Defense Logistics Agency",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 570075371.21
+      "amount": 576055468.3
     },
     {
       "fiscal_year": 2027,
@@ -36,7 +36,7 @@
   "agency_breakdown": [
     {
       "agency": "Defense Logistics Agency",
-      "amount": 3322738484.14,
+      "amount": 3328718581.23,
       "share": 0.9988
     },
     {
@@ -56,9 +56,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2579107766.35,
-    "not_competed_amount": 747490681.83,
-    "competed_pct": 0.7753,
-    "not_competed_pct": 0.2247
+    "competed_amount": 2584285315.67,
+    "not_competed_amount": 748293229.6,
+    "competed_pct": 0.7755,
+    "not_competed_pct": 0.2245
   }
 }

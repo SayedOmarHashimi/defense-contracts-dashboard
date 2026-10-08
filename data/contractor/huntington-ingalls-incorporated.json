@@ -5,7 +5,7 @@
     "C3NLZNSMU254",
     "WMXDDH6HJNA5"
   ],
-  "total_awarded": 37458073949.38,
+  "total_awarded": 37467138218.38,
   "contract_count": 320,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -27,7 +27,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 7429059724.96
+      "amount": 7438123993.96
     },
     {
       "fiscal_year": 2027,
@@ -37,7 +37,7 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 37457251244.36,
+      "amount": 37466315513.36,
       "share": 1.0
     },
     {
@@ -47,9 +47,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 13204106741.88,
-    "not_competed_amount": 24253967207.5,
-    "competed_pct": 0.3525,
-    "not_competed_pct": 0.6475
+    "competed_amount": 13214971700.88,
+    "not_competed_amount": 24252166517.5,
+    "competed_pct": 0.3527,
+    "not_competed_pct": 0.6473
   }
 }
