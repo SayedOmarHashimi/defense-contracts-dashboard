@@ -4,7 +4,7 @@
   "ueis": [
     "HPBTLPA2JR77"
   ],
-  "total_awarded": 2707607323.96,
+  "total_awarded": 2733943575.16,
   "contract_count": 277,
   "top_agency": "Defense Logistics Agency",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 794439449.54
+      "amount": 820775700.74
     },
     {
       "fiscal_year": 2027,
@@ -36,12 +36,12 @@
   "agency_breakdown": [
     {
       "agency": "Defense Logistics Agency",
-      "amount": 2707607323.96,
+      "amount": 2733943575.16,
       "share": 1.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 2707607323.96,
+    "competed_amount": 2733943575.16,
     "not_competed_amount": 0.0,
     "competed_pct": 1.0,
     "not_competed_pct": 0.0

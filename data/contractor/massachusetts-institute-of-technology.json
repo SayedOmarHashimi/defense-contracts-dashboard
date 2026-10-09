@@ -4,7 +4,7 @@
   "ueis": [
     "SN5KKUDR9LY8"
   ],
-  "total_awarded": 6688204681.93,
+  "total_awarded": 6691100518.36,
   "contract_count": 28,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1300830467.8
+      "amount": 1303726304.23
     },
     {
       "fiscal_year": 2027,
@@ -36,13 +36,13 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 6688204681.93,
+      "amount": 6691100518.36,
       "share": 1.0
     }
   ],
   "competition_mix": {
     "competed_amount": 0.0,
-    "not_competed_amount": 6688204681.93,
+    "not_competed_amount": 6691100518.36,
     "competed_pct": 0.0,
     "not_competed_pct": 1.0
   }

@@ -11,7 +11,7 @@
     "XSV6AZJ6SDJ7",
     "YD6LTFVUZNG1"
   ],
-  "total_awarded": 84241173387.32,
+  "total_awarded": 84405919766.13,
   "contract_count": 4236,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -33,7 +33,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 18347070545.74
+      "amount": 18511816924.55
     },
     {
       "fiscal_year": 2027,
@@ -43,27 +43,27 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 31345521351.56,
+      "amount": 31407674378.16,
       "share": 0.3721
     },
     {
       "agency": "Department of the Air Force",
       "amount": 18782096177.33,
-      "share": 0.223
+      "share": 0.2225
     },
     {
       "agency": "Department of the Army",
-      "amount": 16110609406.19,
-      "share": 0.1912
+      "amount": 16204924193.1,
+      "share": 0.192
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 10306680452.35,
-      "share": 0.1223
+      "share": 0.1221
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 4251700443.24,
+      "amount": 4260019890.24,
       "share": 0.0505
     },
     {
@@ -88,14 +88,14 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -36144885.02,
+      "amount": -36185766.72,
       "share": -0.0004
     }
   ],
   "competition_mix": {
-    "competed_amount": 13017819778.31,
-    "not_competed_amount": 71223353609.01,
-    "competed_pct": 0.1545,
-    "not_competed_pct": 0.8455
+    "competed_amount": 13017987778.31,
+    "not_competed_amount": 71387931987.82,
+    "competed_pct": 0.1542,
+    "not_competed_pct": 0.8458
   }
 }

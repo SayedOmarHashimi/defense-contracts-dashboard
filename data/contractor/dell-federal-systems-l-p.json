@@ -4,7 +4,7 @@
   "ueis": [
     "N1C5QLNPJLS4"
   ],
-  "total_awarded": 2612712873.52,
+  "total_awarded": 2613034945.57,
   "contract_count": 3697,
   "top_agency": "Defense Information Systems Agency",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1151302834.57
+      "amount": 1151624906.62
     },
     {
       "fiscal_year": 2027,
@@ -37,22 +37,22 @@
     {
       "agency": "Defense Information Systems Agency",
       "amount": 709792919.29,
-      "share": 0.2717
+      "share": 0.2716
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 675765038.45,
-      "share": 0.2586
+      "amount": 676051312.62,
+      "share": 0.2587
     },
     {
       "agency": "Department of the Army",
-      "amount": 628845988.71,
+      "amount": 628853936.76,
       "share": 0.2407
     },
     {
       "agency": "Department of the Navy",
-      "amount": 404588372.32,
-      "share": 0.1549
+      "amount": 404616222.15,
+      "share": 0.1548
     },
     {
       "agency": "Defense Health Agency",
@@ -116,7 +116,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2468465782.4,
+    "competed_amount": 2468787854.45,
     "not_competed_amount": 144247091.12,
     "competed_pct": 0.9448,
     "not_competed_pct": 0.0552
