@@ -4,7 +4,7 @@
   "ueis": [
     "SMNWM6HN79X5"
   ],
-  "total_awarded": 6493027570.65,
+  "total_awarded": 6494090246.96,
   "contract_count": 2211,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1343021931.93
+      "amount": 1344084608.24
     },
     {
       "fiscal_year": 2027,
@@ -36,7 +36,7 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 1827688965.23,
+      "amount": 1828408034.55,
       "share": 0.2815
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 988469644.65,
+      "amount": 988615148.64,
       "share": 0.1522
     },
     {
       "agency": "Defense Health Agency",
-      "amount": 310120767.89,
+      "amount": 310318870.89,
       "share": 0.0478
     },
     {
@@ -101,7 +101,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6019183791.81,
+    "competed_amount": 6020246468.12,
     "not_competed_amount": 473843778.84,
     "competed_pct": 0.927,
     "not_competed_pct": 0.073

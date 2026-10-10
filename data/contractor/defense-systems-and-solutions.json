@@ -4,7 +4,7 @@
   "ueis": [
     "NWKQVQED4C81"
   ],
-  "total_awarded": 2394836807.08,
+  "total_awarded": 2406599238.08,
   "contract_count": 363,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 450956099.91
+      "amount": 462718530.91
     },
     {
       "fiscal_year": 2027,
@@ -36,12 +36,12 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 2394836807.08,
+      "amount": 2406599238.08,
       "share": 1.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 2394836807.08,
+    "competed_amount": 2406599238.08,
     "not_competed_amount": 0.0,
     "competed_pct": 1.0,
     "not_competed_pct": 0.0
