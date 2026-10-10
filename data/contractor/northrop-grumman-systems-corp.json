@@ -14,7 +14,7 @@
     "ULU9F3WMEH66",
     "VSBAFMDKTWL4"
   ],
-  "total_awarded": 51245151119.94,
+  "total_awarded": 51253990809.2,
   "contract_count": 3397,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -32,7 +32,7 @@
     },
     {
       "fiscal_year": 2025,
-      "amount": 9027112383.06
+      "amount": 9035952072.32
     },
     {
       "fiscal_year": 2026,
@@ -47,7 +47,7 @@
     {
       "agency": "Department of the Air Force",
       "amount": 26309085142.08,
-      "share": 0.5134
+      "share": 0.5133
     },
     {
       "agency": "Department of the Navy",
@@ -101,14 +101,14 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -250690143.07,
-      "share": -0.0049
+      "amount": -241850453.81,
+      "share": -0.0047
     }
   ],
   "competition_mix": {
     "competed_amount": 12690989002.63,
-    "not_competed_amount": 38554162117.31,
-    "competed_pct": 0.2477,
-    "not_competed_pct": 0.7523
+    "not_competed_amount": 38563001806.57,
+    "competed_pct": 0.2476,
+    "not_competed_pct": 0.7524
   }
 }
