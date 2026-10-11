@@ -68,7 +68,7 @@
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 26156380497.03,
-    "contract_count": 2265245,
+    "contract_count": 2265526,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
     "total_awarded": 22626482673.44,
-    "contract_count": 364673,
+    "contract_count": 364715,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -123,7 +123,7 @@
     "id": 16,
     "name": "Amentum Services, Inc.",
     "slug": "amentum-services-inc",
-    "total_awarded": 12809447628.53,
+    "total_awarded": 12809514260.12,
     "contract_count": 1035,
     "top_agency": "Department of the Army"
   },
@@ -332,7 +332,7 @@
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
     "total_awarded": 5920197172.16,
-    "contract_count": 18142,
+    "contract_count": 18144,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
     "total_awarded": 4158157764.57,
-    "contract_count": 296824,
+    "contract_count": 296825,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -532,7 +532,7 @@
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3336413825.86,
-    "contract_count": 1553674,
+    "contract_count": 1553853,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -580,7 +580,7 @@
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
     "total_awarded": 2840696822.12,
-    "contract_count": 121406,
+    "contract_count": 121407,
     "top_agency": "Defense Logistics Agency"
   },
   {
