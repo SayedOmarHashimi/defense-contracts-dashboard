@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 255400141828.55,
+    "total_awarded": 255423466504.55,
     "contract_count": 15914,
     "top_agency": "Department of the Navy"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "The Boeing Company",
     "slug": "the-boeing-company",
-    "total_awarded": 97570525258.76,
+    "total_awarded": 97572450671.76,
     "contract_count": 20240,
     "top_agency": "Department of the Air Force"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
-    "total_awarded": 26156380497.03,
+    "total_awarded": 26168884181.54,
     "contract_count": 2265526,
     "top_agency": "Defense Logistics Agency"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 22626482673.44,
+    "total_awarded": 22626533058.29,
     "contract_count": 364715,
     "top_agency": "Defense Logistics Agency"
   },
@@ -83,8 +83,8 @@
     "id": 11,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 21058812974.54,
-    "contract_count": 113448,
+    "total_awarded": 21058813364.46,
+    "contract_count": 113449,
     "top_agency": "Department of the Navy"
   },
   {
@@ -123,7 +123,7 @@
     "id": 16,
     "name": "Amentum Services, Inc.",
     "slug": "amentum-services-inc",
-    "total_awarded": 12809514260.12,
+    "total_awarded": 12806794266.94,
     "contract_count": 1035,
     "top_agency": "Department of the Army"
   },
@@ -331,7 +331,7 @@
     "id": 42,
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
-    "total_awarded": 5920197172.16,
+    "total_awarded": 5920623103.1,
     "contract_count": 18144,
     "top_agency": "Defense Logistics Agency"
   },
@@ -427,7 +427,7 @@
     "id": 54,
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
-    "total_awarded": 4158157764.57,
+    "total_awarded": 4158157802.57,
     "contract_count": 296825,
     "top_agency": "Defense Logistics Agency"
   },
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3336413825.86,
+    "total_awarded": 3336601492.61,
     "contract_count": 1553853,
     "top_agency": "Defense Logistics Agency"
   },
@@ -579,7 +579,7 @@
     "id": 73,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2840696822.12,
+    "total_awarded": 2840696937.22,
     "contract_count": 121407,
     "top_agency": "Defense Logistics Agency"
   },
