@@ -67,7 +67,7 @@
     "id": 9,
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
-    "total_awarded": 26168884181.54,
+    "total_awarded": 26169887855.95,
     "contract_count": 2265606,
     "top_agency": "Defense Logistics Agency"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 22626533058.29,
+    "total_awarded": 22626596935.27,
     "contract_count": 364768,
     "top_agency": "Defense Logistics Agency"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 21058813364.46,
+    "total_awarded": 21058813548.33,
     "contract_count": 113450,
     "top_agency": "Department of the Navy"
   },
@@ -235,7 +235,7 @@
     "id": 30,
     "name": "L3Harris Technologies Integrated Systems L.P.",
     "slug": "l3harris-technologies-integrated-systems-l-p",
-    "total_awarded": 7423143384.03,
+    "total_awarded": 7423268178.08,
     "contract_count": 535,
     "top_agency": "Department of the Air Force"
   },
@@ -275,7 +275,7 @@
     "id": 35,
     "name": "CACI, Inc. - Federal",
     "slug": "caci-inc-federal",
-    "total_awarded": 6729909368.02,
+    "total_awarded": 6729930413.03,
     "contract_count": 466,
     "top_agency": "Department of the Air Force"
   },
@@ -331,7 +331,7 @@
     "id": 42,
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
-    "total_awarded": 5920623103.1,
+    "total_awarded": 5920627864.12,
     "contract_count": 18147,
     "top_agency": "Defense Logistics Agency"
   },
@@ -355,7 +355,7 @@
     "id": 45,
     "name": "Valero Marketing and Supply Co",
     "slug": "valero-marketing-and-supply-co",
-    "total_awarded": 5397116301.27,
+    "total_awarded": 5397416154.63,
     "contract_count": 778,
     "top_agency": "Defense Logistics Agency"
   },
@@ -427,7 +427,7 @@
     "id": 54,
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
-    "total_awarded": 4158157802.57,
+    "total_awarded": 4158280032.6,
     "contract_count": 296851,
     "top_agency": "Defense Logistics Agency"
   },
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3336601492.61,
+    "total_awarded": 3336737745.58,
     "contract_count": 1553972,
     "top_agency": "Defense Logistics Agency"
   },
@@ -539,7 +539,7 @@
     "id": 68,
     "name": "BL Harbert International LLC",
     "slug": "bl-harbert-international-llc",
-    "total_awarded": 3215096200.54,
+    "total_awarded": 3215246961.54,
     "contract_count": 50,
     "top_agency": "Department of the Army"
   },
@@ -579,7 +579,7 @@
     "id": 73,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2840696937.22,
+    "total_awarded": 2840847589.73,
     "contract_count": 121417,
     "top_agency": "Defense Logistics Agency"
   },
