@@ -4,7 +4,7 @@
   "ueis": [
     "N3PBJAVNKF61"
   ],
-  "total_awarded": 6729930413.03,
+  "total_awarded": 6735084911.36,
   "contract_count": 466,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1555070123.06
+      "amount": 1560224621.39
     },
     {
       "fiscal_year": 2027,
@@ -36,18 +36,18 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 2708238002.29,
-      "share": 0.4024
+      "amount": 2713392500.62,
+      "share": 0.4029
     },
     {
       "agency": "Department of the Navy",
       "amount": 2241491075.08,
-      "share": 0.3331
+      "share": 0.3328
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 765141544.17,
-      "share": 0.1137
+      "share": 0.1136
     },
     {
       "agency": "Department of the Army",
@@ -62,7 +62,7 @@
     {
       "agency": "U.S. Special Operations Command",
       "amount": 182155760.6,
-      "share": 0.0271
+      "share": 0.027
     },
     {
       "agency": "USTRANSCOM",
@@ -116,9 +116,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6062919449.96,
+    "competed_amount": 6068073948.29,
     "not_competed_amount": 667010963.07,
-    "competed_pct": 0.9009,
-    "not_competed_pct": 0.0991
+    "competed_pct": 0.901,
+    "not_competed_pct": 0.099
   }
 }

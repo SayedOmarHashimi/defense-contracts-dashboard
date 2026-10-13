@@ -4,8 +4,8 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4154475442.46,
-  "contract_count": 5323,
+  "total_awarded": 4181483482.64,
+  "contract_count": 5326,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 944876584.09
+      "amount": 971884624.27
     },
     {
       "fiscal_year": 2027,
@@ -36,48 +36,48 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1020515198.9,
-      "share": 0.2456
+      "amount": 1023789068.44,
+      "share": 0.2448
     },
     {
       "agency": "Department of the Army",
-      "amount": 992850030.18,
-      "share": 0.239
+      "amount": 1010262854.32,
+      "share": 0.2416
     },
     {
       "agency": "Department of the Navy",
-      "amount": 772873288.51,
-      "share": 0.186
+      "amount": 777169840.51,
+      "share": 0.1859
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 646216606.46,
-      "share": 0.1555
+      "amount": 648241400.96,
+      "share": 0.155
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 263954541.0,
-      "share": 0.0635
+      "share": 0.0631
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 169981644.46,
-      "share": 0.0409
+      "share": 0.0407
     },
     {
       "agency": "Defense Health Agency",
       "amount": 68662303.06,
-      "share": 0.0165
+      "share": 0.0164
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 35938357.26,
-      "share": 0.0087
+      "share": 0.0086
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 35256084.57,
-      "share": 0.0085
+      "share": 0.0084
     },
     {
       "agency": "Department of Defense Education Activity",
@@ -97,12 +97,12 @@
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 19022452.45,
-      "share": 0.0046
+      "share": 0.0045
     },
     {
       "agency": "Defense Human Resources Activity",
       "amount": 14339838.05,
-      "share": 0.0035
+      "share": 0.0034
     },
     {
       "agency": "Defense Microelectronics Activity",
@@ -136,9 +136,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3553982001.26,
-    "not_competed_amount": 600493441.2,
-    "competed_pct": 0.8555,
-    "not_competed_pct": 0.1445
+    "competed_amount": 3563577217.3,
+    "not_competed_amount": 617906265.34,
+    "competed_pct": 0.8522,
+    "not_competed_pct": 0.1478
   }
 }

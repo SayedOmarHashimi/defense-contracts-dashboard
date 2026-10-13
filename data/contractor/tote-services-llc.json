@@ -1,0 +1,54 @@
+{
+  "name": "Tote Services, LLC",
+  "slug": "tote-services-llc",
+  "ueis": [
+    "UFQGBQM3JDY5"
+  ],
+  "total_awarded": 2532460928.72,
+  "contract_count": 10,
+  "top_agency": "Department of the Navy",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2022,
+      "amount": 45506719.53
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 39224048.57
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 87746853.34
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 98426007.06
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 2261557300.22
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Navy",
+      "amount": 2532460428.72,
+      "share": 1.0
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 500.0,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2400443246.33,
+    "not_competed_amount": 132017682.39,
+    "competed_pct": 0.9479,
+    "not_competed_pct": 0.0521
+  }
+}
