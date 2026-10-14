@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4181483482.64,
+  "total_awarded": 4191311307.63,
   "contract_count": 5332,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 971884624.27
+      "amount": 981712449.26
     },
     {
       "fiscal_year": 2027,
@@ -36,33 +36,33 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1023789068.44,
-      "share": 0.2448
+      "amount": 1024382028.75,
+      "share": 0.2444
     },
     {
       "agency": "Department of the Army",
       "amount": 1010262854.32,
-      "share": 0.2416
+      "share": 0.241
     },
     {
       "agency": "Department of the Navy",
-      "amount": 777169840.51,
-      "share": 0.1859
+      "amount": 777237572.11,
+      "share": 0.1854
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 648241400.96,
-      "share": 0.155
+      "amount": 657176796.0,
+      "share": 0.1568
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 263954541.0,
-      "share": 0.0631
+      "share": 0.063
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 169981644.46,
-      "share": 0.0407
+      "share": 0.0406
     },
     {
       "agency": "Defense Health Agency",
@@ -87,7 +87,7 @@
     {
       "agency": "USTRANSCOM",
       "amount": 29927161.13,
-      "share": 0.0072
+      "share": 0.0071
     },
     {
       "agency": "Defense Finance and Accounting Service",
@@ -101,8 +101,8 @@
     },
     {
       "agency": "Defense Human Resources Activity",
-      "amount": 14339838.05,
-      "share": 0.0034
+      "amount": 14571576.09,
+      "share": 0.0035
     },
     {
       "agency": "Defense Microelectronics Activity",
@@ -136,9 +136,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3563577217.3,
+    "competed_amount": 3573405042.29,
     "not_competed_amount": 617906265.34,
-    "competed_pct": 0.8522,
-    "not_competed_pct": 0.1478
+    "competed_pct": 0.8526,
+    "not_competed_pct": 0.1474
   }
 }

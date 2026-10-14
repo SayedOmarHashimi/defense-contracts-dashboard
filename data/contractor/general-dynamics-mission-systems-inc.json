@@ -5,7 +5,7 @@
     "LKMMNBMPUNH7",
     "MWDRZJ2ZVPV7"
   ],
-  "total_awarded": 4611908313.91,
+  "total_awarded": 4611418516.06,
   "contract_count": 1164,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -27,7 +27,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1081887780.91
+      "amount": 1081397983.06
     },
     {
       "fiscal_year": 2027,
@@ -62,8 +62,8 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": 18371596.7,
-      "share": 0.004
+      "amount": 17881798.85,
+      "share": 0.0039
     },
     {
       "agency": "U.S. Special Operations Command",
@@ -103,7 +103,7 @@
   ],
   "competition_mix": {
     "competed_amount": 1865781468.52,
-    "not_competed_amount": 2746126845.39,
+    "not_competed_amount": 2745637047.54,
     "competed_pct": 0.4046,
     "not_competed_pct": 0.5954
   }
