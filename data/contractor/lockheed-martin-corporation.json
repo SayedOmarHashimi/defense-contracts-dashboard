@@ -17,7 +17,7 @@
     "SJDEB3MKJEW5",
     "XFJMYSYFJEK4"
   ],
-  "total_awarded": 255482182876.98,
+  "total_awarded": 257618112824.6,
   "contract_count": 16046,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -39,7 +39,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 44491498789.06
+      "amount": 46627428736.68
     },
     {
       "fiscal_year": 2027,
@@ -49,38 +49,38 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 130761623878.19,
-      "share": 0.5118
+      "amount": 132399629800.74,
+      "share": 0.5139
     },
     {
       "agency": "Department of the Army",
-      "amount": 51475280862.71,
-      "share": 0.2015
+      "amount": 51943342499.2,
+      "share": 0.2016
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 50440080009.05,
-      "share": 0.1974
+      "amount": 50441826342.66,
+      "share": 0.1958
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 17561899251.69,
-      "share": 0.0687
+      "share": 0.0682
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 3965385346.66,
+      "amount": 3984486022.66,
       "share": 0.0155
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 647648307.29,
+      "amount": 649364872.26,
       "share": 0.0025
     },
     {
       "agency": "Defense Microelectronics Activity",
-      "amount": 472641420.47,
-      "share": 0.0018
+      "amount": 479940234.47,
+      "share": 0.0019
     },
     {
       "agency": "Immediate Office of the Secretary of Defense",
@@ -99,9 +99,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 26735473942.2,
-    "not_competed_amount": 228746708934.78,
-    "competed_pct": 0.1046,
-    "not_competed_pct": 0.8954
+    "competed_amount": 26767946582.66,
+    "not_competed_amount": 230850166241.94,
+    "competed_pct": 0.1039,
+    "not_competed_pct": 0.8961
   }
 }

@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4191311307.63,
+  "total_awarded": 4195470475.24,
   "contract_count": 5340,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 981712449.26
+      "amount": 985871616.87
     },
     {
       "fiscal_year": 2027,
@@ -36,33 +36,33 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1024382028.75,
-      "share": 0.2444
+      "amount": 1024894496.87,
+      "share": 0.2443
     },
     {
       "agency": "Department of the Army",
       "amount": 1010262854.32,
-      "share": 0.241
+      "share": 0.2408
     },
     {
       "agency": "Department of the Navy",
-      "amount": 777237572.11,
+      "amount": 777650796.43,
       "share": 0.1854
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 657176796.0,
-      "share": 0.1568
+      "amount": 660251097.64,
+      "share": 0.1574
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 263954541.0,
-      "share": 0.063
+      "share": 0.0629
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 169981644.46,
-      "share": 0.0406
+      "share": 0.0405
     },
     {
       "agency": "Defense Health Agency",
@@ -71,7 +71,7 @@
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 35938357.26,
+      "amount": 36097530.79,
       "share": 0.0086
     },
     {
@@ -82,7 +82,7 @@
     {
       "agency": "Department of Defense Education Activity",
       "amount": 33336426.99,
-      "share": 0.008
+      "share": 0.0079
     },
     {
       "agency": "USTRANSCOM",
@@ -136,9 +136,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3573405042.29,
+    "competed_amount": 3577564209.9,
     "not_competed_amount": 617906265.34,
-    "competed_pct": 0.8526,
-    "not_competed_pct": 0.1474
+    "competed_pct": 0.8527,
+    "not_competed_pct": 0.1473
   }
 }
