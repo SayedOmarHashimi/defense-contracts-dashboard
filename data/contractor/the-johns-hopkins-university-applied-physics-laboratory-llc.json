@@ -4,7 +4,7 @@
   "ueis": [
     "C1HBCJ9RMBV3"
   ],
-  "total_awarded": 7679134208.26,
+  "total_awarded": 7686951845.1,
   "contract_count": 2716,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1570042179.63
+      "amount": 1577859816.47
     },
     {
       "fiscal_year": 2027,
@@ -36,33 +36,33 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 3641268781.95,
-      "share": 0.4742
+      "amount": 3643407329.95,
+      "share": 0.474
     },
     {
       "agency": "Department of the Air Force",
       "amount": 1125612066.48,
-      "share": 0.1466
+      "share": 0.1464
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 892782478.65,
-      "share": 0.1163
+      "share": 0.1161
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 801655857.72,
-      "share": 0.1044
+      "share": 0.1043
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 746340303.34,
-      "share": 0.0972
+      "share": 0.0971
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 159915600.82,
-      "share": 0.0208
+      "amount": 165513198.2,
+      "share": 0.0215
     },
     {
       "agency": "U.S. Cyber Command",
@@ -71,7 +71,7 @@
     },
     {
       "agency": "Immediate Office of the Secretary of Defense",
-      "amount": 88508220.24,
+      "amount": 88613220.24,
       "share": 0.0115
     },
     {
@@ -101,14 +101,14 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -9496859.77,
+      "amount": -9520368.31,
       "share": -0.0012
     }
   ],
   "competition_mix": {
     "competed_amount": 150973496.07,
-    "not_competed_amount": 7528160712.19,
-    "competed_pct": 0.0197,
-    "not_competed_pct": 0.9803
+    "not_competed_amount": 7535978349.03,
+    "competed_pct": 0.0196,
+    "not_competed_pct": 0.9804
   }
 }

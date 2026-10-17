@@ -4,7 +4,7 @@
   "ueis": [
     "FA38CTVQM319"
   ],
-  "total_awarded": 4883258400.26,
+  "total_awarded": 4883278400.26,
   "contract_count": 6134,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 885998473.1
+      "amount": 886018473.1
     },
     {
       "fiscal_year": 2027,
@@ -41,7 +41,7 @@
     },
     {
       "agency": "Department of the Navy",
-      "amount": 680410587.38,
+      "amount": 680430587.38,
       "share": 0.1393
     },
     {
@@ -77,7 +77,7 @@
   ],
   "competition_mix": {
     "competed_amount": 1184227681.61,
-    "not_competed_amount": 3699030718.65,
+    "not_competed_amount": 3699050718.65,
     "competed_pct": 0.2425,
     "not_competed_pct": 0.7575
   }

@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4200059834.2,
+  "total_awarded": 4202224719.56,
   "contract_count": 5355,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 990460975.83
+      "amount": 992625861.19
     },
     {
       "fiscal_year": 2027,
@@ -36,23 +36,23 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1025167665.39,
-      "share": 0.2441
+      "amount": 1026786746.5,
+      "share": 0.2443
     },
     {
       "agency": "Department of the Army",
-      "amount": 1011277695.35,
-      "share": 0.2408
+      "amount": 1011419946.66,
+      "share": 0.2407
     },
     {
       "agency": "Department of the Navy",
-      "amount": 778475279.1,
+      "amount": 778727013.56,
       "share": 0.1853
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 661886747.94,
-      "share": 0.1576
+      "share": 0.1575
     },
     {
       "agency": "Defense Logistics Agency",
@@ -91,7 +91,7 @@
     },
     {
       "agency": "Defense Finance and Accounting Service",
-      "amount": 23456543.89,
+      "amount": 23608362.37,
       "share": 0.0056
     },
     {
@@ -117,7 +117,7 @@
     {
       "agency": "Uniformed Services University of the Health Sciences",
       "amount": 4410211.96,
-      "share": 0.0011
+      "share": 0.001
     },
     {
       "agency": "Missile Defense Agency",
@@ -136,8 +136,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3582153568.86,
-    "not_competed_amount": 617906265.34,
+    "competed_amount": 3584165640.86,
+    "not_competed_amount": 618059078.7,
     "competed_pct": 0.8529,
     "not_competed_pct": 0.1471
   }
