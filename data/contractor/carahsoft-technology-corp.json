@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4202224719.56,
+  "total_awarded": 4202235185.66,
   "contract_count": 5356,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 992625861.19
+      "amount": 992636327.29
     },
     {
       "fiscal_year": 2027,
@@ -71,7 +71,7 @@
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 36097530.79,
+      "amount": 36107996.89,
       "share": 0.0086
     },
     {
@@ -136,7 +136,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3584165640.86,
+    "competed_amount": 3584176106.96,
     "not_competed_amount": 618059078.7,
     "competed_pct": 0.8529,
     "not_competed_pct": 0.1471
