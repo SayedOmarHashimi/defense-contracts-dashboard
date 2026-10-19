@@ -11,8 +11,8 @@
     "XSV6AZJ6SDJ7",
     "YD6LTFVUZNG1"
   ],
-  "total_awarded": 86279812416.38,
-  "contract_count": 4245,
+  "total_awarded": 86279436518.38,
+  "contract_count": 4244,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 20385709574.8
+      "amount": 20385333676.8
     },
     {
       "fiscal_year": 2027,
@@ -88,13 +88,13 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -35819606.03,
+      "amount": -36195504.03,
       "share": -0.0004
     }
   ],
   "competition_mix": {
     "competed_amount": 14849639307.77,
-    "not_competed_amount": 71430173108.61,
+    "not_competed_amount": 71429797210.61,
     "competed_pct": 0.1721,
     "not_competed_pct": 0.8279
   }

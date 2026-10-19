@@ -11,7 +11,7 @@
     "UEGFHX6R6KJ1",
     "WZWRLY4G3PL8"
   ],
-  "total_awarded": 97826550142.22,
+  "total_awarded": 97826565251.86,
   "contract_count": 20323,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -21,7 +21,7 @@
     },
     {
       "fiscal_year": 2023,
-      "amount": 19780848224.98
+      "amount": 19780863334.62
     },
     {
       "fiscal_year": 2024,
@@ -48,7 +48,7 @@
     },
     {
       "agency": "Department of the Navy",
-      "amount": 19762668291.4,
+      "amount": 19762683401.04,
       "share": 0.202
     },
     {
@@ -79,7 +79,7 @@
   ],
   "competition_mix": {
     "competed_amount": 17734397669.13,
-    "not_competed_amount": 80092152473.09,
+    "not_competed_amount": 80092167582.73,
     "competed_pct": 0.1813,
     "not_competed_pct": 0.8187
   }
