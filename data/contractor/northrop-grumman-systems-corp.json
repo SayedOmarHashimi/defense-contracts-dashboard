@@ -14,7 +14,7 @@
     "ULU9F3WMEH66",
     "VSBAFMDKTWL4"
   ],
-  "total_awarded": 51399934474.65,
+  "total_awarded": 51405578313.65,
   "contract_count": 3401,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -36,7 +36,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 9022067218.48
+      "amount": 9027711057.48
     },
     {
       "fiscal_year": 2027,
@@ -46,13 +46,13 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 26339933179.76,
+      "amount": 26345101704.76,
       "share": 0.5125
     },
     {
       "agency": "Department of the Navy",
-      "amount": 13856004898.09,
-      "share": 0.2696
+      "amount": 13856021948.09,
+      "share": 0.2695
     },
     {
       "agency": "Department of the Army",
@@ -91,7 +91,7 @@
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 5927990.38,
+      "amount": 6386254.38,
       "share": 0.0001
     },
     {
@@ -107,7 +107,7 @@
   ],
   "competition_mix": {
     "competed_amount": 12721265261.68,
-    "not_competed_amount": 38678669212.97,
+    "not_competed_amount": 38684313051.97,
     "competed_pct": 0.2475,
     "not_competed_pct": 0.7525
   }

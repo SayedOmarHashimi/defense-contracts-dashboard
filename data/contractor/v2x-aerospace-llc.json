@@ -4,7 +4,7 @@
   "ueis": [
     "NVC1EFKKYB93"
   ],
-  "total_awarded": 5612881963.96,
+  "total_awarded": 5613334395.98,
   "contract_count": 526,
   "top_agency": "Defense Contract Management Agency",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1239332162.16
+      "amount": 1239784594.18
     },
     {
       "fiscal_year": 2027,
@@ -37,11 +37,11 @@
     {
       "agency": "Defense Contract Management Agency",
       "amount": 2224834246.45,
-      "share": 0.3964
+      "share": 0.3963
     },
     {
       "agency": "Department of the Navy",
-      "amount": 2053087116.34,
+      "amount": 2053539548.36,
       "share": 0.3658
     },
     {
@@ -76,7 +76,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 5425509488.79,
+    "competed_amount": 5425961920.81,
     "not_competed_amount": 187372475.17,
     "competed_pct": 0.9666,
     "not_competed_pct": 0.0334

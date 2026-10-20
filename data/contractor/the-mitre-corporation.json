@@ -5,7 +5,7 @@
     "DMHDNDCPWUD1",
     "GAVABYGCURL7"
   ],
-  "total_awarded": 7932268722.86,
+  "total_awarded": 7946676385.72,
   "contract_count": 212,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -27,7 +27,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1141788729.78
+      "amount": 1156196392.64
     },
     {
       "fiscal_year": 2027,
@@ -38,17 +38,17 @@
     {
       "agency": "Department of the Army",
       "amount": 5386906384.03,
-      "share": 0.6791
+      "share": 0.6779
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 2413760618.24,
-      "share": 0.3043
+      "amount": 2428168281.1,
+      "share": 0.3056
     },
     {
       "agency": "Defense Health Agency",
       "amount": 63118898.35,
-      "share": 0.008
+      "share": 0.0079
     },
     {
       "agency": "Washington Headquarters Services",
@@ -68,7 +68,7 @@
   ],
   "competition_mix": {
     "competed_amount": 134822844.69,
-    "not_competed_amount": 7797445878.17,
+    "not_competed_amount": 7811853541.03,
     "competed_pct": 0.017,
     "not_competed_pct": 0.983
   }
