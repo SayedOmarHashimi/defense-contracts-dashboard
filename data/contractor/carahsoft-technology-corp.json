@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4204859676.52,
+  "total_awarded": 4224325408.2,
   "contract_count": 5372,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 995260818.15
+      "amount": 1014726549.83
     },
     {
       "fiscal_year": 2027,
@@ -36,33 +36,33 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1027018566.81,
-      "share": 0.2442
+      "amount": 1027799217.85,
+      "share": 0.2433
     },
     {
       "agency": "Department of the Army",
       "amount": 1011441485.52,
-      "share": 0.2405
+      "share": 0.2394
     },
     {
       "agency": "Department of the Navy",
-      "amount": 778729513.56,
-      "share": 0.1852
+      "amount": 778902264.03,
+      "share": 0.1844
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 664184016.92,
-      "share": 0.158
+      "amount": 681785827.09,
+      "share": 0.1614
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 263954541.0,
-      "share": 0.0628
+      "share": 0.0625
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 169981644.46,
-      "share": 0.0404
+      "share": 0.0402
     },
     {
       "agency": "Defense Health Agency",
@@ -71,13 +71,13 @@
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 36107996.89,
-      "share": 0.0086
+      "amount": 37018516.89,
+      "share": 0.0088
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 35256337.01,
-      "share": 0.0084
+      "share": 0.0083
     },
     {
       "agency": "Department of Defense Education Activity",
@@ -102,7 +102,7 @@
     {
       "agency": "Defense Human Resources Activity",
       "amount": 14571576.09,
-      "share": 0.0035
+      "share": 0.0034
     },
     {
       "agency": "Defense Microelectronics Activity",
@@ -136,9 +136,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3586800597.82,
+    "competed_amount": 3606266329.5,
     "not_competed_amount": 618059078.7,
-    "competed_pct": 0.853,
-    "not_competed_pct": 0.147
+    "competed_pct": 0.8537,
+    "not_competed_pct": 0.1463
   }
 }

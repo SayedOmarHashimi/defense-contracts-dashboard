@@ -4,7 +4,7 @@
   "ueis": [
     "SMNWM6HN79X5"
   ],
-  "total_awarded": 6522180321.98,
+  "total_awarded": 6522704657.08,
   "contract_count": 2220,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1372174683.26
+      "amount": 1372699018.36
     },
     {
       "fiscal_year": 2027,
@@ -36,7 +36,7 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 1835590604.39,
+      "amount": 1835451179.65,
       "share": 0.2814
     },
     {
@@ -46,18 +46,18 @@
     },
     {
       "agency": "Department of the Army",
-      "amount": 1406514674.62,
-      "share": 0.2157
+      "amount": 1406492872.13,
+      "share": 0.2156
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 990476147.11,
+      "amount": 990475612.12,
       "share": 0.1519
     },
     {
       "agency": "Defense Health Agency",
-      "amount": 311135001.06,
-      "share": 0.0477
+      "amount": 311821098.38,
+      "share": 0.0478
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -82,7 +82,7 @@
     {
       "agency": "U.S. Special Operations Command",
       "amount": 30981160.79,
-      "share": 0.0048
+      "share": 0.0047
     },
     {
       "agency": "Defense Finance and Accounting Service",
@@ -101,7 +101,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6047626325.64,
+    "competed_amount": 6048150660.74,
     "not_competed_amount": 474553996.34,
     "competed_pct": 0.9272,
     "not_competed_pct": 0.0728

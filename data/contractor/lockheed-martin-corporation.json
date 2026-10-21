@@ -17,7 +17,7 @@
     "SJDEB3MKJEW5",
     "XFJMYSYFJEK4"
   ],
-  "total_awarded": 259341376687.22,
+  "total_awarded": 259371008206.13,
   "contract_count": 16088,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -39,7 +39,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 48347081505.3
+      "amount": 48376713024.21
     },
     {
       "fiscal_year": 2027,
@@ -49,23 +49,23 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 132411929261.88,
-      "share": 0.5106
+      "amount": 132417734671.24,
+      "share": 0.5105
     },
     {
       "agency": "Department of the Army",
-      "amount": 52287138615.29,
+      "amount": 52289538247.11,
       "share": 0.2016
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 50447981112.3,
+      "amount": 50454793660.19,
       "share": 0.1945
     },
     {
       "agency": "Missile Defense Agency",
-      "amount": 18916146507.1,
-      "share": 0.0729
+      "amount": 18930175442.1,
+      "share": 0.073
     },
     {
       "agency": "U.S. Special Operations Command",
@@ -74,12 +74,12 @@
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 650320599.81,
+      "amount": 650382523.04,
       "share": 0.0025
     },
     {
       "agency": "Defense Microelectronics Activity",
-      "amount": 479940234.47,
+      "amount": 480726808.47,
       "share": 0.0019
     },
     {
@@ -89,18 +89,18 @@
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 89042713.17,
+      "amount": 89206984.78,
       "share": 0.0003
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -63410089.78,
+      "amount": -63837863.78,
       "share": -0.0002
     }
   ],
   "competition_mix": {
-    "competed_amount": 26774094317.02,
-    "not_competed_amount": 232567282370.2,
+    "competed_amount": 26778945982.69,
+    "not_competed_amount": 232592062223.44,
     "competed_pct": 0.1032,
     "not_competed_pct": 0.8968
   }
