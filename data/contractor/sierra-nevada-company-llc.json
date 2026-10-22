@@ -5,8 +5,8 @@
     "DD2QET4D27T3",
     "N1PWVLN6F4U1"
   ],
-  "total_awarded": 10606588298.16,
-  "contract_count": 753,
+  "total_awarded": 10606920307.58,
+  "contract_count": 754,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "fiscal_year": 2023,
-      "amount": 1903451562.5
+      "amount": 1903783571.92
     },
     {
       "fiscal_year": 2024,
@@ -77,13 +77,13 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -7988028.81,
-      "share": -0.0008
+      "amount": -7656019.39,
+      "share": -0.0007
     }
   ],
   "competition_mix": {
     "competed_amount": 4143316722.83,
-    "not_competed_amount": 6463271575.33,
+    "not_competed_amount": 6463603584.75,
     "competed_pct": 0.3906,
     "not_competed_pct": 0.6094
   }
