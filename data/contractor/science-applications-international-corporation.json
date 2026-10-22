@@ -4,7 +4,7 @@
   "ueis": [
     "MMLKPW9JLX64"
   ],
-  "total_awarded": 10148942511.24,
+  "total_awarded": 10157554084.22,
   "contract_count": 3589,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
@@ -22,11 +22,11 @@
     },
     {
       "fiscal_year": 2025,
-      "amount": 2165010331.47
+      "amount": 2164999693.89
     },
     {
       "fiscal_year": 2026,
-      "amount": 1611767624.73
+      "amount": 1620389835.29
     },
     {
       "fiscal_year": 2027,
@@ -36,18 +36,18 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 4121778515.83,
-      "share": 0.4061
+      "amount": 4130398651.69,
+      "share": 0.4066
     },
     {
       "agency": "Department of the Air Force",
       "amount": 3217847052.77,
-      "share": 0.3171
+      "share": 0.3168
     },
     {
       "agency": "Department of the Army",
-      "amount": 2099753113.86,
-      "share": 0.2069
+      "amount": 2099744550.98,
+      "share": 0.2067
     },
     {
       "agency": "Defense Information Systems Agency",
@@ -67,7 +67,7 @@
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 58360951.87,
-      "share": 0.0058
+      "share": 0.0057
     },
     {
       "agency": "U.S. Cyber Command",
@@ -106,7 +106,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 9817117645.46,
+    "competed_amount": 9825729218.44,
     "not_competed_amount": 331824865.78,
     "competed_pct": 0.9673,
     "not_competed_pct": 0.0327
