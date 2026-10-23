@@ -4,7 +4,7 @@
   "ueis": [
     "DT8KJHZXVJH5"
   ],
-  "total_awarded": 4229925533.11,
+  "total_awarded": 4247206317.35,
   "contract_count": 5400,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1020326674.74
+      "amount": 1037607458.98
     },
     {
       "fiscal_year": 2027,
@@ -36,53 +36,53 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1028540489.3,
-      "share": 0.2432
+      "amount": 1029021571.85,
+      "share": 0.2423
     },
     {
       "agency": "Department of the Army",
-      "amount": 1012821014.76,
-      "share": 0.2394
+      "amount": 1013083198.64,
+      "share": 0.2385
     },
     {
       "agency": "Department of the Navy",
-      "amount": 780375484.76,
-      "share": 0.1845
+      "amount": 780557823.31,
+      "share": 0.1838
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 683655203.76,
-      "share": 0.1616
+      "amount": 684239480.74,
+      "share": 0.1611
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 264091267.82,
-      "share": 0.0624
+      "share": 0.0622
     },
     {
       "agency": "Defense Counterintelligence and Security Agency",
       "amount": 169981644.46,
-      "share": 0.0402
+      "share": 0.04
     },
     {
       "agency": "Defense Health Agency",
-      "amount": 68662303.06,
+      "amount": 68788103.84,
       "share": 0.0162
+    },
+    {
+      "agency": "U.S. Special Operations Command",
+      "amount": 50901438.51,
+      "share": 0.012
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 37018516.89,
-      "share": 0.0088
-    },
-    {
-      "agency": "U.S. Special Operations Command",
-      "amount": 35256337.01,
-      "share": 0.0083
+      "share": 0.0087
     },
     {
       "agency": "Department of Defense Education Activity",
       "amount": 33336426.99,
-      "share": 0.0079
+      "share": 0.0078
     },
     {
       "agency": "USTRANSCOM",
@@ -136,9 +136,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3610728555.61,
+    "competed_amount": 3628009339.85,
     "not_competed_amount": 619196977.5,
-    "competed_pct": 0.8536,
-    "not_competed_pct": 0.1464
+    "competed_pct": 0.8542,
+    "not_competed_pct": 0.1458
   }
 }

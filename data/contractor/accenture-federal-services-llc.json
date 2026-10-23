@@ -4,7 +4,7 @@
   "ueis": [
     "C47BNA8GM833"
   ],
-  "total_awarded": 3461628647.76,
+  "total_awarded": 3461470621.1,
   "contract_count": 299,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 609057703.21
+      "amount": 608899676.55
     },
     {
       "fiscal_year": 2027,
@@ -36,7 +36,7 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 1251695754.15,
+      "amount": 1251537727.49,
       "share": 0.3616
     },
     {
@@ -96,8 +96,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3150281195.82,
-    "not_competed_amount": 311347451.94,
+    "competed_amount": 3150114009.16,
+    "not_competed_amount": 311356611.94,
     "competed_pct": 0.9101,
     "not_competed_pct": 0.0899
   }
