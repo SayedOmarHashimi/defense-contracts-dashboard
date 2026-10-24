@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 259643113754.97,
+    "total_awarded": 259643162904.97,
     "contract_count": 16116,
     "top_agency": "Department of the Navy"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Northrop Grumman Systems Corp",
     "slug": "northrop-grumman-systems-corp",
-    "total_awarded": 52689419582.12,
+    "total_awarded": 52689277525.47,
     "contract_count": 3411,
     "top_agency": "Department of the Air Force"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 22920823276.73,
+    "total_awarded": 22922223535.89,
     "contract_count": 368045,
     "top_agency": "Defense Logistics Agency"
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "name": "General Electric Company",
     "slug": "general-electric-company",
-    "total_awarded": 14198790802.08,
+    "total_awarded": 14198832364.58,
     "contract_count": 5887,
     "top_agency": "Department of the Navy"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "name": "Booz Allen Hamilton Inc",
     "slug": "booz-allen-hamilton-inc",
-    "total_awarded": 12629492819.83,
+    "total_awarded": 12629812919.83,
     "contract_count": 1426,
     "top_agency": "Department of the Air Force"
   },
@@ -275,7 +275,7 @@
     "id": 35,
     "name": "CACI, Inc. - Federal",
     "slug": "caci-inc-federal",
-    "total_awarded": 6791693707.07,
+    "total_awarded": 6791733707.07,
     "contract_count": 469,
     "top_agency": "Department of the Air Force"
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "name": "General Dynamics Information Technology, Inc.",
     "slug": "general-dynamics-information-technology-inc",
-    "total_awarded": 6539264480.61,
+    "total_awarded": 6539835675.93,
     "contract_count": 2223,
     "top_agency": "Department of the Navy"
   },
@@ -323,7 +323,7 @@
     "id": 41,
     "name": "Bell Textron Inc",
     "slug": "bell-textron-inc",
-    "total_awarded": 6066215144.02,
+    "total_awarded": 6066183121.83,
     "contract_count": 5428,
     "top_agency": "Department of the Army"
   },
@@ -483,7 +483,7 @@
     "id": 61,
     "name": "KBR Wyle Services, LLC",
     "slug": "kbr-wyle-services-llc",
-    "total_awarded": 3655940372.05,
+    "total_awarded": 3655906263.16,
     "contract_count": 248,
     "top_agency": "Department of the Air Force"
   },
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3359699340.27,
+    "total_awarded": 3359699863.3,
     "contract_count": 1566891,
     "top_agency": "Defense Logistics Agency"
   },
@@ -683,7 +683,7 @@
     "id": 86,
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
-    "total_awarded": 2623056004.06,
+    "total_awarded": 2623060471.71,
     "contract_count": 3754,
     "top_agency": "Defense Information Systems Agency"
   },
