@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Raytheon Company",
     "slug": "raytheon-company",
-    "total_awarded": 86981896593.46,
+    "total_awarded": 86981116273.46,
     "contract_count": 4251,
     "top_agency": "Department of the Navy"
   },
@@ -76,7 +76,7 @@
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
     "total_awarded": 22922223535.89,
-    "contract_count": 368045,
+    "contract_count": 368046,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -228,7 +228,7 @@
     "name": "The Johns Hopkins University Applied Physics Laboratory LLC",
     "slug": "the-johns-hopkins-university-applied-physics-laboratory-llc",
     "total_awarded": 7737156802.1,
-    "contract_count": 2721,
+    "contract_count": 2722,
     "top_agency": "Department of the Navy"
   },
   {
@@ -388,7 +388,7 @@
     "name": "General Dynamics Mission Systems, Inc.",
     "slug": "general-dynamics-mission-systems-inc",
     "total_awarded": 4622719322.2,
-    "contract_count": 1165,
+    "contract_count": 1166,
     "top_agency": "Department of the Navy"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
     "total_awarded": 4247206317.35,
-    "contract_count": 5400,
+    "contract_count": 5401,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -532,7 +532,7 @@
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3359699863.3,
-    "contract_count": 1566891,
+    "contract_count": 1566893,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -588,7 +588,7 @@
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
     "total_awarded": 2888274523.87,
-    "contract_count": 122130,
+    "contract_count": 122131,
     "top_agency": "Defense Logistics Agency"
   },
   {
