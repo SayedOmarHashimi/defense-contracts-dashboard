@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 22922223535.89,
+    "total_awarded": 22922223930.05,
     "contract_count": 368046,
     "top_agency": "Defense Logistics Agency"
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "name": "Leidos, Inc.",
     "slug": "leidos-inc",
-    "total_awarded": 14581122659.19,
+    "total_awarded": 14582706559.27,
     "contract_count": 12673,
     "top_agency": "Department of the Navy"
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "name": "The Johns Hopkins University Applied Physics Laboratory LLC",
     "slug": "the-johns-hopkins-university-applied-physics-laboratory-llc",
-    "total_awarded": 7737156802.1,
+    "total_awarded": 7737133380.12,
     "contract_count": 2722,
     "top_agency": "Department of the Navy"
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "name": "General Dynamics Information Technology, Inc.",
     "slug": "general-dynamics-information-technology-inc",
-    "total_awarded": 6539835675.93,
+    "total_awarded": 6539835554.52,
     "contract_count": 2223,
     "top_agency": "Department of the Navy"
   },
@@ -387,7 +387,7 @@
     "id": 49,
     "name": "General Dynamics Mission Systems, Inc.",
     "slug": "general-dynamics-mission-systems-inc",
-    "total_awarded": 4622719322.2,
+    "total_awarded": 4622919322.2,
     "contract_count": 1166,
     "top_agency": "Department of the Navy"
   },
@@ -427,7 +427,7 @@
     "id": 54,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4247206317.35,
+    "total_awarded": 4247257271.9,
     "contract_count": 5401,
     "top_agency": "Department of the Air Force"
   },
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3359699863.3,
+    "total_awarded": 3359701181.98,
     "contract_count": 1566893,
     "top_agency": "Defense Logistics Agency"
   },
@@ -587,7 +587,7 @@
     "id": 74,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2888274523.87,
+    "total_awarded": 2888283498.97,
     "contract_count": 122131,
     "top_agency": "Defense Logistics Agency"
   },
