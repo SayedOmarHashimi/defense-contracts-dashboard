@@ -11,7 +11,7 @@
     "UEGFHX6R6KJ1",
     "WZWRLY4G3PL8"
   ],
-  "total_awarded": 97869993906.07,
+  "total_awarded": 97869754531.02,
   "contract_count": 20387,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
@@ -33,7 +33,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 25506769848.86
+      "amount": 25506530473.81
     },
     {
       "fiscal_year": 2027,
@@ -43,7 +43,7 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Air Force",
-      "amount": 62756188711.81,
+      "amount": 62756045899.17,
       "share": 0.6412
     },
     {
@@ -73,13 +73,13 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -320935815.62,
+      "amount": -321032378.03,
       "share": -0.0033
     }
   ],
   "competition_mix": {
-    "competed_amount": 17739436754.84,
-    "not_competed_amount": 80130557151.23,
+    "competed_amount": 17739293942.2,
+    "not_competed_amount": 80130460588.82,
     "competed_pct": 0.1813,
     "not_competed_pct": 0.8187
   }

@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 259643162904.97,
+    "total_awarded": 259643375729.97,
     "contract_count": 16116,
     "top_agency": "Department of the Navy"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "The Boeing Company",
     "slug": "the-boeing-company",
-    "total_awarded": 97869993906.07,
+    "total_awarded": 97869754531.02,
     "contract_count": 20387,
     "top_agency": "Department of the Air Force"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Raytheon Company",
     "slug": "raytheon-company",
-    "total_awarded": 86981116273.46,
+    "total_awarded": 86982316530.69,
     "contract_count": 4251,
     "top_agency": "Department of the Navy"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Northrop Grumman Systems Corp",
     "slug": "northrop-grumman-systems-corp",
-    "total_awarded": 52689277525.47,
+    "total_awarded": 52690603161.4,
     "contract_count": 3411,
     "top_agency": "Department of the Air Force"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
-    "total_awarded": 26475395265.48,
+    "total_awarded": 26475396982.14,
     "contract_count": 2288449,
     "top_agency": "Defense Logistics Agency"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 22922224805.05,
+    "total_awarded": 22922438076.66,
     "contract_count": 368051,
     "top_agency": "Defense Logistics Agency"
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "name": "Science Applications International Corporation",
     "slug": "science-applications-international-corporation",
-    "total_awarded": 10168206547.19,
+    "total_awarded": 10168366861.19,
     "contract_count": 3589,
     "top_agency": "Department of the Navy"
   },
@@ -235,7 +235,7 @@
     "id": 30,
     "name": "L3Harris Technologies Integrated Systems L.P.",
     "slug": "l3harris-technologies-integrated-systems-l-p",
-    "total_awarded": 7514898920.25,
+    "total_awarded": 7514066286.83,
     "contract_count": 539,
     "top_agency": "Department of the Air Force"
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "name": "General Dynamics Information Technology, Inc.",
     "slug": "general-dynamics-information-technology-inc",
-    "total_awarded": 6539835554.52,
+    "total_awarded": 6539832054.32,
     "contract_count": 2223,
     "top_agency": "Department of the Navy"
   },
@@ -379,7 +379,7 @@
     "id": 48,
     "name": "Canadian Commercial Corporation",
     "slug": "canadian-commercial-corporation",
-    "total_awarded": 4883747433.07,
+    "total_awarded": 4883638713.07,
     "contract_count": 6150,
     "top_agency": "Department of the Army"
   },
@@ -443,7 +443,7 @@
     "id": 56,
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
-    "total_awarded": 4168712417.07,
+    "total_awarded": 4168712523.39,
     "contract_count": 297174,
     "top_agency": "Defense Logistics Agency"
   },
@@ -523,7 +523,7 @@
     "id": 66,
     "name": "Accenture Federal Services LLC",
     "slug": "accenture-federal-services-llc",
-    "total_awarded": 3461470621.1,
+    "total_awarded": 3468944833.5,
     "contract_count": 300,
     "top_agency": "Department of the Air Force"
   },
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3359713395.19,
+    "total_awarded": 3359716383.89,
     "contract_count": 1566901,
     "top_agency": "Defense Logistics Agency"
   },
@@ -571,7 +571,7 @@
     "id": 72,
     "name": "HII Mission Technologies Corp",
     "slug": "hii-mission-technologies-corp",
-    "total_awarded": 2910731946.2,
+    "total_awarded": 2910512431.92,
     "contract_count": 169,
     "top_agency": "Department of the Air Force"
   },
@@ -587,7 +587,7 @@
     "id": 74,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2888283498.97,
+    "total_awarded": 2888310021.97,
     "contract_count": 122134,
     "top_agency": "Defense Logistics Agency"
   },
@@ -683,7 +683,7 @@
     "id": 86,
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
-    "total_awarded": 2623060471.71,
+    "total_awarded": 2623069394.74,
     "contract_count": 3756,
     "top_agency": "Defense Information Systems Agency"
   },
