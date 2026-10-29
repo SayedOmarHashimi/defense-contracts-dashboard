@@ -12,7 +12,7 @@
     "name": "The Boeing Company",
     "slug": "the-boeing-company",
     "total_awarded": 97869993906.07,
-    "contract_count": 20386,
+    "contract_count": 20387,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -68,7 +68,7 @@
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 26475395265.48,
-    "contract_count": 2288448,
+    "contract_count": 2288449,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
     "total_awarded": 22922224805.05,
-    "contract_count": 368047,
+    "contract_count": 368051,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -444,7 +444,7 @@
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
     "total_awarded": 4168712417.07,
-    "contract_count": 297173,
+    "contract_count": 297174,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -524,7 +524,7 @@
     "name": "Accenture Federal Services LLC",
     "slug": "accenture-federal-services-llc",
     "total_awarded": 3461470621.1,
-    "contract_count": 299,
+    "contract_count": 300,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -532,7 +532,7 @@
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3359713395.19,
-    "contract_count": 1566898,
+    "contract_count": 1566901,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -588,7 +588,7 @@
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
     "total_awarded": 2888283498.97,
-    "contract_count": 122131,
+    "contract_count": 122134,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -684,7 +684,7 @@
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
     "total_awarded": 2623060471.71,
-    "contract_count": 3754,
+    "contract_count": 3756,
     "top_agency": "Defense Information Systems Agency"
   },
   {
