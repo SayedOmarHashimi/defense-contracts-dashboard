@@ -43,7 +43,7 @@
     "id": 6,
     "name": "RTX Corporation",
     "slug": "rtx-corporation",
-    "total_awarded": 37449285987.31,
+    "total_awarded": 37446906783.66,
     "contract_count": 7697,
     "top_agency": "Department of the Navy"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 22922438076.66,
+    "total_awarded": 22924341142.27,
     "contract_count": 368065,
     "top_agency": "Defense Logistics Agency"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 21067323999.97,
+    "total_awarded": 21067325290.27,
     "contract_count": 113949,
     "top_agency": "Department of the Navy"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "General Dynamics Land Systems Inc.",
     "slug": "general-dynamics-land-systems-inc",
-    "total_awarded": 13492742860.43,
+    "total_awarded": 13492744130.43,
     "contract_count": 1547,
     "top_agency": "Department of the Army"
   },
@@ -275,7 +275,7 @@
     "id": 35,
     "name": "CACI, Inc. - Federal",
     "slug": "caci-inc-federal",
-    "total_awarded": 6791733707.07,
+    "total_awarded": 6791694107.07,
     "contract_count": 469,
     "top_agency": "Department of the Air Force"
   },
@@ -427,7 +427,7 @@
     "id": 54,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4247257271.9,
+    "total_awarded": 4247304616.87,
     "contract_count": 5401,
     "top_agency": "Department of the Air Force"
   },
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3359716383.89,
+    "total_awarded": 3360147321.95,
     "contract_count": 1566904,
     "top_agency": "Defense Logistics Agency"
   },
@@ -587,7 +587,7 @@
     "id": 74,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2888310021.97,
+    "total_awarded": 2888330031.37,
     "contract_count": 122135,
     "top_agency": "Defense Logistics Agency"
   },
