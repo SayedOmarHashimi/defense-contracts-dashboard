@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 259643375729.97,
+    "total_awarded": 259643619736.97,
     "contract_count": 16117,
     "top_agency": "Department of the Navy"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "RTX Corporation",
     "slug": "rtx-corporation",
-    "total_awarded": 37446906783.66,
+    "total_awarded": 38528792384.65,
     "contract_count": 7698,
     "top_agency": "Department of the Navy"
   },
@@ -275,7 +275,7 @@
     "id": 35,
     "name": "CACI, Inc. - Federal",
     "slug": "caci-inc-federal",
-    "total_awarded": 6802490101.02,
+    "total_awarded": 6821654347.52,
     "contract_count": 469,
     "top_agency": "Department of the Air Force"
   },
@@ -393,6 +393,14 @@
   },
   {
     "id": 50,
+    "name": "BP Products North America Inc.",
+    "slug": "bp-products-north-america-inc",
+    "total_awarded": 4518549487.01,
+    "contract_count": 509,
+    "top_agency": "Defense Logistics Agency"
+  },
+  {
+    "id": 51,
     "name": "United Launch Services, LLC",
     "slug": "united-launch-services-llc",
     "total_awarded": 4513090910.65,
@@ -400,7 +408,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 51,
+    "id": 52,
     "name": "Raytheon/Lockheed Martin Javelin JV",
     "slug": "raytheon-lockheed-martin-javelin-jv",
     "total_awarded": 4444583590.8,
@@ -408,7 +416,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 52,
+    "id": 53,
     "name": "M1 Support Services, L.P.",
     "slug": "m1-support-services-l-p",
     "total_awarded": 4418313841.98,
@@ -416,18 +424,10 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 53,
-    "name": "BP Products North America Inc.",
-    "slug": "bp-products-north-america-inc",
-    "total_awarded": 4263002066.45,
-    "contract_count": 509,
-    "top_agency": "Defense Logistics Agency"
-  },
-  {
     "id": 54,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4247345877.04,
+    "total_awarded": 4247355213.87,
     "contract_count": 5401,
     "top_agency": "Department of the Air Force"
   },
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3360155577.91,
+    "total_awarded": 3360182345.17,
     "contract_count": 1566922,
     "top_agency": "Defense Logistics Agency"
   },
@@ -683,7 +683,7 @@
     "id": 86,
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
-    "total_awarded": 2623069394.74,
+    "total_awarded": 2623070868.94,
     "contract_count": 3757,
     "top_agency": "Defense Information Systems Agency"
   },
