@@ -75,16 +75,16 @@
     "id": 10,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 22925841920.33,
-    "contract_count": 368095,
+    "total_awarded": 22925855100.79,
+    "contract_count": 368104,
     "top_agency": "Defense Logistics Agency"
   },
   {
     "id": 11,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 21067325290.27,
-    "contract_count": 113949,
+    "total_awarded": 21067363917.47,
+    "contract_count": 113953,
     "top_agency": "Department of the Navy"
   },
   {
@@ -107,8 +107,8 @@
     "id": 14,
     "name": "General Electric Company",
     "slug": "general-electric-company",
-    "total_awarded": 14198832364.58,
-    "contract_count": 5887,
+    "total_awarded": 14198840177.08,
+    "contract_count": 5888,
     "top_agency": "Department of the Navy"
   },
   {
@@ -531,8 +531,8 @@
     "id": 67,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3360185605.81,
-    "contract_count": 1566933,
+    "total_awarded": 3360206126.03,
+    "contract_count": 1566948,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -587,8 +587,8 @@
     "id": 74,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2888583453.79,
-    "contract_count": 122156,
+    "total_awarded": 2888583741.54,
+    "contract_count": 122159,
     "top_agency": "Defense Logistics Agency"
   },
   {
