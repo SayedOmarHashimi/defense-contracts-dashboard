@@ -4,29 +4,29 @@
   "ueis": [
     "MMLKPW9JLX64"
   ],
-  "total_awarded": 10168366861.19,
+  "total_awarded": 10322742009.22,
   "contract_count": 3589,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 1969927951.71
+      "amount": 2016143103.27
     },
     {
       "fiscal_year": 2023,
-      "amount": 2152612210.72
+      "amount": 2185298229.33
     },
     {
       "fiscal_year": 2024,
-      "amount": 2249624392.61
+      "amount": 2278795054.45
     },
     {
       "fiscal_year": 2025,
-      "amount": 2164999693.89
+      "amount": 2197137589.63
     },
     {
       "fiscal_year": 2026,
-      "amount": 1631202612.26
+      "amount": 1645368032.54
     },
     {
       "fiscal_year": 2027,
@@ -37,32 +37,32 @@
     {
       "agency": "Department of the Navy",
       "amount": 4134098843.69,
-      "share": 0.4066
+      "share": 0.4005
     },
     {
       "agency": "Department of the Air Force",
       "amount": 3223359241.14,
-      "share": 0.317
+      "share": 0.3123
     },
     {
       "agency": "Department of the Army",
-      "amount": 2101344947.58,
-      "share": 0.2067
+      "amount": 2255720095.61,
+      "share": 0.2185
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 211288633.16,
-      "share": 0.0208
+      "share": 0.0205
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 178948949.58,
-      "share": 0.0176
+      "share": 0.0173
     },
     {
       "agency": "USTRANSCOM",
       "amount": 153635255.8,
-      "share": 0.0151
+      "share": 0.0149
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -72,7 +72,7 @@
     {
       "agency": "U.S. Cyber Command",
       "amount": 48513474.66,
-      "share": 0.0048
+      "share": 0.0047
     },
     {
       "agency": "Missile Defense Agency",
@@ -82,7 +82,7 @@
     {
       "agency": "Defense Logistics Agency",
       "amount": 32450450.1,
-      "share": 0.0032
+      "share": 0.0031
     },
     {
       "agency": "Defense Health Agency",
@@ -106,9 +106,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 9836376882.38,
+    "competed_amount": 9990752030.41,
     "not_competed_amount": 331989978.81,
-    "competed_pct": 0.9674,
-    "not_competed_pct": 0.0326
+    "competed_pct": 0.9678,
+    "not_competed_pct": 0.0322
   }
 }

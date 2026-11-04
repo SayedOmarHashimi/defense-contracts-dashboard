@@ -4,21 +4,21 @@
   "ueis": [
     "N1C5QLNPJLS4"
   ],
-  "total_awarded": 2623070868.94,
+  "total_awarded": 2634390618.27,
   "contract_count": 3757,
   "top_agency": "Defense Information Systems Agency",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 669531068.47
+      "amount": 669852258.47
     },
     {
       "fiscal_year": 2023,
-      "amount": 269597235.09
+      "amount": 269635971.09
     },
     {
       "fiscal_year": 2024,
-      "amount": 312366880.86
+      "amount": 312376738.86
     },
     {
       "fiscal_year": 2025,
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 1161660829.99
+      "amount": 1172610795.32
     },
     {
       "fiscal_year": 2027,
@@ -37,27 +37,27 @@
     {
       "agency": "Defense Information Systems Agency",
       "amount": 709847476.81,
-      "share": 0.2706
+      "share": 0.2695
     },
     {
       "agency": "Department of the Air Force",
       "amount": 677867671.89,
-      "share": 0.2584
+      "share": 0.2573
     },
     {
       "agency": "Department of the Army",
-      "amount": 632897517.35,
-      "share": 0.2413
+      "amount": 644217266.68,
+      "share": 0.2445
     },
     {
       "agency": "Department of the Navy",
       "amount": 408338515.58,
-      "share": 0.1557
+      "share": 0.155
     },
     {
       "agency": "Defense Health Agency",
       "amount": 141282355.8,
-      "share": 0.0539
+      "share": 0.0536
     },
     {
       "agency": "Defense Logistics Agency",
@@ -67,7 +67,7 @@
     {
       "agency": "Defense Threat Reduction Agency",
       "amount": 21448675.68,
-      "share": 0.0082
+      "share": 0.0081
     },
     {
       "agency": "Defense Human Resources Activity",
@@ -121,9 +121,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2478165393.98,
+    "competed_amount": 2489485143.31,
     "not_competed_amount": 144905474.96,
-    "competed_pct": 0.9448,
-    "not_competed_pct": 0.0552
+    "competed_pct": 0.945,
+    "not_competed_pct": 0.055
   }
 }

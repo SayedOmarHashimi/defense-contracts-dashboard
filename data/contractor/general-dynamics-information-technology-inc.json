@@ -4,29 +4,29 @@
   "ueis": [
     "SMNWM6HN79X5"
   ],
-  "total_awarded": 6539832054.32,
+  "total_awarded": 6574948521.14,
   "contract_count": 2223,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 1307100619.27
+      "amount": 1312943268.37
     },
     {
       "fiscal_year": 2023,
-      "amount": 1241993210.89
+      "amount": 1248261542.35
     },
     {
       "fiscal_year": 2024,
-      "amount": 1271204355.87
+      "amount": 1281194516.78
     },
     {
       "fiscal_year": 2025,
-      "amount": 1329703831.08
+      "amount": 1334350323.47
     },
     {
       "fiscal_year": 2026,
-      "amount": 1389830037.21
+      "amount": 1398198870.17
     },
     {
       "fiscal_year": 2027,
@@ -37,27 +37,27 @@
     {
       "agency": "Department of the Navy",
       "amount": 1837567376.86,
-      "share": 0.281
+      "share": 0.2795
     },
     {
       "agency": "Department of the Air Force",
       "amount": 1689341344.28,
-      "share": 0.2583
+      "share": 0.2569
     },
     {
       "agency": "Department of the Army",
-      "amount": 1410020896.46,
-      "share": 0.2156
+      "amount": 1445137363.28,
+      "share": 0.2198
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 992366969.74,
-      "share": 0.1517
+      "share": 0.1509
     },
     {
       "agency": "Defense Health Agency",
       "amount": 317067459.54,
-      "share": 0.0485
+      "share": 0.0482
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -67,12 +67,12 @@
     {
       "agency": "Defense Logistics Agency",
       "amount": 90687511.87,
-      "share": 0.0139
+      "share": 0.0138
     },
     {
       "agency": "USTRANSCOM",
       "amount": 44249678.67,
-      "share": 0.0068
+      "share": 0.0067
     },
     {
       "agency": "Washington Headquarters Services",
@@ -101,9 +101,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 6066008348.43,
-    "not_competed_amount": 473823705.89,
-    "competed_pct": 0.9275,
-    "not_competed_pct": 0.0725
+    "competed_amount": 6101124815.24,
+    "not_competed_amount": 473823705.9,
+    "competed_pct": 0.9279,
+    "not_competed_pct": 0.0721
   }
 }

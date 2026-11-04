@@ -4,25 +4,25 @@
   "ueis": [
     "GTJHZE4M7YK1"
   ],
-  "total_awarded": 2729536635.79,
+  "total_awarded": 2736683580.21,
   "contract_count": 180,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 381091810.09
+      "amount": 381641810.09
     },
     {
       "fiscal_year": 2023,
-      "amount": 487848363.61
+      "amount": 491413437.33
     },
     {
       "fiscal_year": 2024,
-      "amount": 755947229.1
+      "amount": 758981533.48
     },
     {
       "fiscal_year": 2025,
-      "amount": 494713466.01
+      "amount": 494711032.33
     },
     {
       "fiscal_year": 2026,
@@ -37,12 +37,12 @@
     {
       "agency": "Department of the Navy",
       "amount": 2569865169.12,
-      "share": 0.9415
+      "share": 0.939
     },
     {
       "agency": "Department of the Air Force",
       "amount": 42825496.54,
-      "share": 0.0157
+      "share": 0.0156
     },
     {
       "agency": "Missile Defense Agency",
@@ -51,13 +51,13 @@
     },
     {
       "agency": "Department of the Army",
-      "amount": 34140691.29,
-      "share": 0.0125
+      "amount": 41287635.71,
+      "share": 0.0151
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 30175591.48,
-      "share": 0.0111
+      "share": 0.011
     },
     {
       "agency": "Defense Threat Reduction Agency",
@@ -81,9 +81,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 125120068.72,
+    "competed_amount": 132267013.14,
     "not_competed_amount": 2604416567.07,
-    "competed_pct": 0.0458,
-    "not_competed_pct": 0.9542
+    "competed_pct": 0.0483,
+    "not_competed_pct": 0.9517
   }
 }

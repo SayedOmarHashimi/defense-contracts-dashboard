@@ -4,29 +4,29 @@
   "ueis": [
     "C47BNA8GM833"
   ],
-  "total_awarded": 3468944833.5,
+  "total_awarded": 4662966040.71,
   "contract_count": 300,
-  "top_agency": "Department of the Air Force",
+  "top_agency": "Department of the Army",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 496125675.72
+      "amount": 745307476.17
     },
     {
       "fiscal_year": 2023,
-      "amount": 534473755.86
+      "amount": 764208390.57
     },
     {
       "fiscal_year": 2024,
-      "amount": 817088082.77
+      "amount": 1113025437.65
     },
     {
       "fiscal_year": 2025,
-      "amount": 1004883430.2
+      "amount": 1270187748.52
     },
     {
       "fiscal_year": 2026,
-      "amount": 616373888.95
+      "amount": 770236987.8
     },
     {
       "fiscal_year": 2027,
@@ -35,49 +35,49 @@
   ],
   "agency_breakdown": [
     {
-      "agency": "Department of the Air Force",
-      "amount": 1251537727.49,
-      "share": 0.3608
+      "agency": "Department of the Army",
+      "amount": 2377225325.09,
+      "share": 0.5098
     },
     {
-      "agency": "Department of the Army",
-      "amount": 1183204117.88,
-      "share": 0.3411
+      "agency": "Department of the Air Force",
+      "amount": 1251537727.49,
+      "share": 0.2684
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 795694546.44,
-      "share": 0.2294
+      "share": 0.1706
     },
     {
       "agency": "Defense Health Agency",
       "amount": 127472881.15,
-      "share": 0.0367
+      "share": 0.0273
     },
     {
       "agency": "Department of the Navy",
       "amount": 79736308.44,
-      "share": 0.023
+      "share": 0.0171
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 15300636.56,
-      "share": 0.0044
+      "share": 0.0033
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 11009569.71,
-      "share": 0.0032
+      "share": 0.0024
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 3108957.5,
-      "share": 0.0009
+      "share": 0.0007
     },
     {
       "agency": "U.S. Cyber Command",
       "amount": 1591509.7,
-      "share": 0.0005
+      "share": 0.0003
     },
     {
       "agency": "Defense Human Resources Activity",
@@ -96,9 +96,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3157588221.56,
-    "not_competed_amount": 311356611.94,
-    "competed_pct": 0.9102,
-    "not_competed_pct": 0.0898
+    "competed_amount": 4342008832.74,
+    "not_competed_amount": 320957207.97,
+    "competed_pct": 0.9312,
+    "not_competed_pct": 0.0688
   }
 }

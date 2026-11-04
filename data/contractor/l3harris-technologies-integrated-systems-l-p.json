@@ -4,25 +4,25 @@
   "ueis": [
     "RDFKNPZNQ8E3"
   ],
-  "total_awarded": 7514066286.83,
+  "total_awarded": 7510556985.04,
   "contract_count": 539,
   "top_agency": "Department of the Air Force",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 1570548355.29
+      "amount": 1569486466.52
     },
     {
       "fiscal_year": 2023,
-      "amount": 1478542629.37
+      "amount": 1476789225.82
     },
     {
       "fiscal_year": 2024,
-      "amount": 1536778167.68
+      "amount": 1536101703.2
     },
     {
       "fiscal_year": 2025,
-      "amount": 1592436662.51
+      "amount": 1592419117.52
     },
     {
       "fiscal_year": 2026,
@@ -37,7 +37,7 @@
     {
       "agency": "Department of the Air Force",
       "amount": 7377827927.93,
-      "share": 0.9819
+      "share": 0.9823
     },
     {
       "agency": "Defense Information Systems Agency",
@@ -61,8 +61,8 @@
     },
     {
       "agency": "Department of the Army",
-      "amount": -3509301.79,
-      "share": -0.0005
+      "amount": -7018603.58,
+      "share": -0.0009
     },
     {
       "agency": "Defense Contract Management Agency",
@@ -72,8 +72,8 @@
   ],
   "competition_mix": {
     "competed_amount": 1383970784.54,
-    "not_competed_amount": 6130095502.29,
-    "competed_pct": 0.1842,
-    "not_competed_pct": 0.8158
+    "not_competed_amount": 6126586200.5,
+    "competed_pct": 0.1843,
+    "not_competed_pct": 0.8157
   }
 }

@@ -4,29 +4,29 @@
   "ueis": [
     "C1HBCJ9RMBV3"
   ],
-  "total_awarded": 7737133380.12,
+  "total_awarded": 7761575385.58,
   "contract_count": 2722,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 1212209994.76
+      "amount": 1216194261.05
     },
     {
       "fiscal_year": 2023,
-      "amount": 1469500699.06
+      "amount": 1479285525.06
     },
     {
       "fiscal_year": 2024,
-      "amount": 1514764294.03
+      "amount": 1521075345.5
     },
     {
       "fiscal_year": 2025,
-      "amount": 1912617040.78
+      "amount": 1915693226.99
     },
     {
       "fiscal_year": 2026,
-      "amount": 1628041351.49
+      "amount": 1629327026.98
     },
     {
       "fiscal_year": 2027,
@@ -37,47 +37,47 @@
     {
       "agency": "Department of the Navy",
       "amount": 3655509329.95,
-      "share": 0.4725
+      "share": 0.471
     },
     {
       "agency": "Department of the Air Force",
       "amount": 1161335368.48,
-      "share": 0.1501
+      "share": 0.1496
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 893747343.65,
-      "share": 0.1155
+      "share": 0.1152
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
       "amount": 802070647.72,
-      "share": 0.1037
+      "share": 0.1033
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 746340303.34,
-      "share": 0.0965
+      "share": 0.0962
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 165513198.2,
-      "share": 0.0214
+      "share": 0.0213
     },
     {
       "agency": "U.S. Cyber Command",
       "amount": 119636923.09,
-      "share": 0.0155
+      "share": 0.0154
     },
     {
       "agency": "Immediate Office of the Secretary of Defense",
       "amount": 88613220.24,
-      "share": 0.0115
+      "share": 0.0114
     },
     {
       "agency": "Department of the Army",
-      "amount": 58299603.45,
-      "share": 0.0075
+      "amount": 82741608.91,
+      "share": 0.0107
     },
     {
       "agency": "Defense Information Systems Agency",
@@ -106,8 +106,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 150973496.07,
-    "not_competed_amount": 7586159884.05,
+    "competed_amount": 151326865.52,
+    "not_competed_amount": 7610248520.06,
     "competed_pct": 0.0195,
     "not_competed_pct": 0.9805
   }

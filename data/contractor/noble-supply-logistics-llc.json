@@ -4,13 +4,13 @@
   "ueis": [
     "YLE5AAYNVPK6"
   ],
-  "total_awarded": 4168712523.39,
+  "total_awarded": 4202948296.67,
   "contract_count": 297174,
   "top_agency": "Defense Logistics Agency",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 728495715.17
+      "amount": 732251882.28
     },
     {
       "fiscal_year": 2023,
@@ -22,11 +22,11 @@
     },
     {
       "fiscal_year": 2025,
-      "amount": 915490041.72
+      "amount": 926188147.32
     },
     {
       "fiscal_year": 2026,
-      "amount": 337999814.14
+      "amount": 357781314.71
     },
     {
       "fiscal_year": 2027,
@@ -36,18 +36,18 @@
   "agency_breakdown": [
     {
       "agency": "Defense Logistics Agency",
-      "amount": 4107798043.81,
-      "share": 0.9854
+      "amount": 4113034458.92,
+      "share": 0.9786
     },
     {
       "agency": "Department of the Army",
-      "amount": 31668125.59,
-      "share": 0.0076
+      "amount": 60667483.76,
+      "share": 0.0144
     },
     {
       "agency": "Department of the Air Force",
       "amount": 18219483.48,
-      "share": 0.0044
+      "share": 0.0043
     },
     {
       "agency": "Department of the Navy",
@@ -81,8 +81,8 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3997572611.76,
-    "not_competed_amount": 171139911.63,
+    "competed_amount": 4030328137.04,
+    "not_competed_amount": 172620159.63,
     "competed_pct": 0.9589,
     "not_competed_pct": 0.0411
   }

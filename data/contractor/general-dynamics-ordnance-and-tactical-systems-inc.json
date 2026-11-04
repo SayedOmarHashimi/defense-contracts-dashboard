@@ -1,0 +1,54 @@
+{
+  "name": "General Dynamics Ordnance and Tactical Systems, Inc.",
+  "slug": "general-dynamics-ordnance-and-tactical-systems-inc",
+  "ueis": [
+    "FNEJKBCACXL1"
+  ],
+  "total_awarded": 3297542516.0,
+  "contract_count": 34,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2022,
+      "amount": 162997597.42
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 734009377.97
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 1065149951.62
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1106554990.55
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 228830598.44
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 3297542515.98,
+      "share": 1.0
+    },
+    {
+      "agency": "Defense Contract Management Agency",
+      "amount": 0.02,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 1198970234.38,
+    "not_competed_amount": 2098572281.62,
+    "competed_pct": 0.3636,
+    "not_competed_pct": 0.6364
+  }
+}

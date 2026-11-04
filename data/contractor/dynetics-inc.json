@@ -1,0 +1,69 @@
+{
+  "name": "Dynetics, Inc.",
+  "slug": "dynetics-inc",
+  "ueis": [
+    "FH7ML8E9EWJ7"
+  ],
+  "total_awarded": 3829531387.73,
+  "contract_count": 104,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2022,
+      "amount": 129950769.21
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 104701950.34
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 147496001.17
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1221769480.33
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 2225613186.68
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 3488668184.91,
+      "share": 0.911
+    },
+    {
+      "agency": "Department of the Air Force",
+      "amount": 312152623.46,
+      "share": 0.0815
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 19807034.15,
+      "share": 0.0052
+    },
+    {
+      "agency": "Defense Advanced Research Projects Agency",
+      "amount": 8903045.21,
+      "share": 0.0023
+    },
+    {
+      "agency": "Missile Defense Agency",
+      "amount": 500.0,
+      "share": 0.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 266128281.39,
+    "not_competed_amount": 3563403106.34,
+    "competed_pct": 0.0695,
+    "not_competed_pct": 0.9305
+  }
+}

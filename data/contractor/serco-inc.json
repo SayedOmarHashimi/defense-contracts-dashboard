@@ -4,29 +4,29 @@
   "ueis": [
     "DKJ1R5ABCN48"
   ],
-  "total_awarded": 3961897265.53,
+  "total_awarded": 4141907140.89,
   "contract_count": 1195,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 510546312.95
+      "amount": 521459764.91
     },
     {
       "fiscal_year": 2023,
-      "amount": 685491965.55
+      "amount": 696845279.22
     },
     {
       "fiscal_year": 2024,
-      "amount": 1087917492.56
+      "amount": 1118938548.71
     },
     {
       "fiscal_year": 2025,
-      "amount": 927612192.35
+      "amount": 1032581197.81
     },
     {
       "fiscal_year": 2026,
-      "amount": 750329302.12
+      "amount": 772082350.24
     },
     {
       "fiscal_year": 2027,
@@ -37,32 +37,32 @@
     {
       "agency": "Department of the Navy",
       "amount": 2966277159.41,
-      "share": 0.7487
+      "share": 0.7162
     },
     {
       "agency": "Department of the Army",
-      "amount": 602818536.15,
-      "share": 0.1522
+      "amount": 782828411.51,
+      "share": 0.189
     },
     {
       "agency": "Department of the Air Force",
       "amount": 372637041.87,
-      "share": 0.0941
+      "share": 0.09
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 13585668.8,
-      "share": 0.0034
+      "share": 0.0033
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 4953620.0,
-      "share": 0.0013
+      "share": 0.0012
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 4558889.4,
-      "share": 0.0012
+      "share": 0.0011
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
@@ -86,9 +86,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 3888744459.27,
+    "competed_amount": 4068754334.63,
     "not_competed_amount": 73152806.26,
-    "competed_pct": 0.9815,
-    "not_competed_pct": 0.0185
+    "competed_pct": 0.9823,
+    "not_competed_pct": 0.0177
   }
 }

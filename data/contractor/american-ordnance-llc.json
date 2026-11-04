@@ -1,0 +1,54 @@
+{
+  "name": "American Ordnance LLC",
+  "slug": "american-ordnance-llc",
+  "ueis": [
+    "QHL5DNL1NUK3"
+  ],
+  "total_awarded": 2596628945.8,
+  "contract_count": 325,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2022,
+      "amount": 179936420.14
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 1251971001.92
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 545751525.5
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 348801232.54
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": 270168765.7
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 2595725213.84,
+      "share": 0.9997
+    },
+    {
+      "agency": "Department of the Navy",
+      "amount": 903731.96,
+      "share": 0.0003
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2003444676.74,
+    "not_competed_amount": 593184269.06,
+    "competed_pct": 0.7716,
+    "not_competed_pct": 0.2284
+  }
+}
