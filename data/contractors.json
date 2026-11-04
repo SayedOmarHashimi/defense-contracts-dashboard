@@ -4,7 +4,7 @@
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
     "total_awarded": 259643619736.97,
-    "contract_count": 16117,
+    "contract_count": 16118,
     "top_agency": "Department of the Navy"
   },
   {
@@ -12,7 +12,7 @@
     "name": "The Boeing Company",
     "slug": "the-boeing-company",
     "total_awarded": 97870137107.02,
-    "contract_count": 20387,
+    "contract_count": 20389,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Raytheon Company",
     "slug": "raytheon-company",
     "total_awarded": 86982316530.69,
-    "contract_count": 4251,
+    "contract_count": 4254,
     "top_agency": "Department of the Navy"
   },
   {
@@ -68,7 +68,7 @@
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 26475422591.73,
-    "contract_count": 2288466,
+    "contract_count": 2288471,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
     "total_awarded": 21067363917.47,
-    "contract_count": 113953,
+    "contract_count": 113955,
     "top_agency": "Department of the Navy"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Leidos, Inc.",
     "slug": "leidos-inc",
     "total_awarded": 14582706559.27,
-    "contract_count": 12673,
+    "contract_count": 12693,
     "top_agency": "Department of the Navy"
   },
   {
@@ -108,7 +108,7 @@
     "name": "General Electric Company",
     "slug": "general-electric-company",
     "total_awarded": 14198840177.08,
-    "contract_count": 5888,
+    "contract_count": 5889,
     "top_agency": "Department of the Navy"
   },
   {
@@ -116,7 +116,7 @@
     "name": "General Dynamics Land Systems Inc.",
     "slug": "general-dynamics-land-systems-inc",
     "total_awarded": 13492744130.43,
-    "contract_count": 1547,
+    "contract_count": 1548,
     "top_agency": "Department of the Army"
   },
   {
@@ -196,7 +196,7 @@
     "name": "General Atomics Aeronautical Systems, Inc.",
     "slug": "general-atomics-aeronautical-systems-inc",
     "total_awarded": 8899947104.45,
-    "contract_count": 503,
+    "contract_count": 504,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -260,7 +260,7 @@
     "name": "Oshkosh Defense LLC",
     "slug": "oshkosh-defense-llc",
     "total_awarded": 7239658913.69,
-    "contract_count": 51774,
+    "contract_count": 51776,
     "top_agency": "Department of the Army"
   },
   {
@@ -380,7 +380,7 @@
     "name": "Canadian Commercial Corporation",
     "slug": "canadian-commercial-corporation",
     "total_awarded": 4883638713.07,
-    "contract_count": 6150,
+    "contract_count": 6151,
     "top_agency": "Department of the Army"
   },
   {
@@ -412,7 +412,7 @@
     "name": "Raytheon/Lockheed Martin Javelin JV",
     "slug": "raytheon-lockheed-martin-javelin-jv",
     "total_awarded": 4444583590.8,
-    "contract_count": 33,
+    "contract_count": 39,
     "top_agency": "Department of the Army"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
     "total_awarded": 4247355213.87,
-    "contract_count": 5401,
+    "contract_count": 5404,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -460,7 +460,7 @@
     "name": "Rockwell Collins, Inc.",
     "slug": "rockwell-collins-inc",
     "total_awarded": 4053466345.77,
-    "contract_count": 2589,
+    "contract_count": 2590,
     "top_agency": "Department of the Navy"
   },
   {
@@ -468,7 +468,7 @@
     "name": "AM General LLC",
     "slug": "am-general-llc",
     "total_awarded": 3962373096.4,
-    "contract_count": 1252,
+    "contract_count": 1254,
     "top_agency": "Department of the Army"
   },
   {
@@ -492,7 +492,7 @@
     "name": "L3Harris Global Communications, Inc.",
     "slug": "l3harris-global-communications-inc",
     "total_awarded": 3608756192.64,
-    "contract_count": 679,
+    "contract_count": 681,
     "top_agency": "Department of the Army"
   },
   {
@@ -708,7 +708,7 @@
     "name": "Defense Systems and Solutions",
     "slug": "defense-systems-and-solutions",
     "total_awarded": 2560482867.51,
-    "contract_count": 370,
+    "contract_count": 371,
     "top_agency": "Department of the Army"
   },
   {
@@ -732,7 +732,7 @@
     "name": "DRS Network & Imaging Systems LLC",
     "slug": "drs-network-imaging-systems-llc",
     "total_awarded": 2526740513.9,
-    "contract_count": 1054,
+    "contract_count": 1055,
     "top_agency": "Department of the Army"
   },
   {
