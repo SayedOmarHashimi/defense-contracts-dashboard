@@ -2,32 +2,31 @@
   "name": "Global Military Products Inc",
   "slug": "global-military-products-inc",
   "ueis": [
-    "L168LBGMAA13",
     "L168LBGMAA13"
   ],
-  "total_awarded": 7357609404.3,
-  "contract_count": 114,
+  "total_awarded": 3678804702.15,
+  "contract_count": 57,
   "top_agency": "Department of the Army",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 824767751.64
+      "amount": 412383875.82
     },
     {
       "fiscal_year": 2023,
-      "amount": 3606877728.6
+      "amount": 1803438864.3
     },
     {
       "fiscal_year": 2024,
-      "amount": 2045944185.12
+      "amount": 1022972092.56
     },
     {
       "fiscal_year": 2025,
-      "amount": 950031269.78
+      "amount": 475015634.89
     },
     {
       "fiscal_year": 2026,
-      "amount": -70011530.84
+      "amount": -35005765.42
     },
     {
       "fiscal_year": 2027,
@@ -37,28 +36,28 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 7353631909.92,
+      "amount": 3676815954.96,
       "share": 0.9995
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 3281857.74,
+      "amount": 1640928.87,
       "share": 0.0004
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 654636.92,
+      "amount": 327318.46,
       "share": 0.0001
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 40999.72,
+      "amount": 20499.86,
       "share": 0.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 7120203288.18,
-    "not_competed_amount": 237406116.12,
+    "competed_amount": 3560101644.09,
+    "not_competed_amount": 118703058.06,
     "competed_pct": 0.9677,
     "not_competed_pct": 0.0323
   }
