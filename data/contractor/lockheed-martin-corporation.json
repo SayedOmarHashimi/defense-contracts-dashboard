@@ -17,29 +17,29 @@
     "SJDEB3MKJEW5",
     "XFJMYSYFJEK4"
   ],
-  "total_awarded": 269105492561.12,
-  "contract_count": 16118,
+  "total_awarded": 296608697724.37,
+  "contract_count": 16121,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 41410042767.98
+      "amount": 43968479311.88
     },
     {
       "fiscal_year": 2023,
-      "amount": 63208384942.28
+      "amount": 68273314851.83
     },
     {
       "fiscal_year": 2024,
-      "amount": 44259468499.42
+      "amount": 48808803106.39
     },
     {
       "fiscal_year": 2025,
-      "amount": 68576378749.26
+      "amount": 75728422852.28
     },
     {
       "fiscal_year": 2026,
-      "amount": 51651217602.18
+      "amount": 59829677601.99
     },
     {
       "fiscal_year": 2027,
@@ -50,42 +50,42 @@
     {
       "agency": "Department of the Navy",
       "amount": 132512159056.64,
-      "share": 0.4924
+      "share": 0.4468
     },
     {
       "agency": "Department of the Army",
-      "amount": 61774862366.11,
-      "share": 0.2296
+      "amount": 89195543641.87,
+      "share": 0.3007
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 50524162481.14,
-      "share": 0.1877
+      "amount": 50526727403.98,
+      "share": 0.1703
     },
     {
       "agency": "Missile Defense Agency",
       "amount": 18935949455.1,
-      "share": 0.0704
+      "share": 0.0638
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 4014619397.15,
-      "share": 0.0149
+      "share": 0.0135
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 707253165.66,
-      "share": 0.0026
+      "amount": 787647077.31,
+      "share": 0.0027
     },
     {
       "agency": "Defense Microelectronics Activity",
       "amount": 480726808.47,
-      "share": 0.0018
+      "share": 0.0016
     },
     {
       "agency": "Immediate Office of the Secretary of Defense",
       "amount": 131897498.0,
-      "share": 0.0005
+      "share": 0.0004
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
@@ -94,14 +94,14 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -65344651.93,
+      "amount": -65779598.93,
       "share": -0.0002
     }
   ],
   "competition_mix": {
     "competed_amount": 27475793892.13,
-    "not_competed_amount": 241629698668.99,
-    "competed_pct": 0.1021,
-    "not_competed_pct": 0.8979
+    "not_competed_amount": 269132903832.24,
+    "competed_pct": 0.0926,
+    "not_competed_pct": 0.9074
   }
 }

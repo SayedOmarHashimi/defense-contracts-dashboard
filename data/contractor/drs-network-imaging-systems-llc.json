@@ -2,31 +2,32 @@
   "name": "DRS Network & Imaging Systems LLC",
   "slug": "drs-network-imaging-systems-llc",
   "ueis": [
+    "MC27B7LGBL34",
     "MC27B7LGBL34"
   ],
-  "total_awarded": 3673931749.44,
-  "contract_count": 1055,
+  "total_awarded": 7469839936.08,
+  "contract_count": 2110,
   "top_agency": "Department of the Army",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 410881083.39
+      "amount": 828382374.24
     },
     {
       "fiscal_year": 2023,
-      "amount": 958355778.11
+      "amount": 1943594693.66
     },
     {
       "fiscal_year": 2024,
-      "amount": 856415178.55
+      "amount": 1744728746.82
     },
     {
       "fiscal_year": 2025,
-      "amount": 1149655127.91
+      "amount": 2335754828.32
     },
     {
       "fiscal_year": 2026,
-      "amount": 298624581.48
+      "amount": 617379293.04
     },
     {
       "fiscal_year": 2027,
@@ -36,59 +37,59 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 1624683115.32,
-      "share": 0.4422
+      "amount": 3371342667.84,
+      "share": 0.4513
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 1609275555.3,
-      "share": 0.438
+      "amount": 3218551110.6,
+      "share": 0.4309
     },
     {
       "agency": "Defense Information Systems Agency",
-      "amount": 390790394.39,
-      "share": 0.1064
+      "amount": 781580788.78,
+      "share": 0.1046
     },
     {
       "agency": "U.S. Special Operations Command",
-      "amount": 24623342.18,
-      "share": 0.0067
+      "amount": 49246684.36,
+      "share": 0.0066
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 15184314.0,
+      "amount": 30368628.0,
       "share": 0.0041
     },
     {
       "agency": "Department of the Navy",
-      "amount": 8058975.49,
+      "amount": 16117950.98,
       "share": 0.0022
     },
     {
       "agency": "Defense Advanced Research Projects Agency",
-      "amount": 1339415.11,
+      "amount": 2678830.22,
       "share": 0.0004
     },
     {
       "agency": "Defense Microelectronics Activity",
-      "amount": 5000.0,
+      "amount": 10000.0,
       "share": 0.0
     },
     {
       "agency": "Missile Defense Agency",
-      "amount": 500.0,
+      "amount": 1000.0,
       "share": 0.0
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -28862.35,
+      "amount": -57724.7,
       "share": -0.0
     }
   ],
   "competition_mix": {
-    "competed_amount": 1518838615.73,
-    "not_competed_amount": 2155093133.71,
-    "competed_pct": 0.4134,
-    "not_competed_pct": 0.5866
+    "competed_amount": 3148549568.66,
+    "not_competed_amount": 4321290367.42,
+    "competed_pct": 0.4215,
+    "not_competed_pct": 0.5785
   }
 }

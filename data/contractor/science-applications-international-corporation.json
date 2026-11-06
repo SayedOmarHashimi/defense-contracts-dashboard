@@ -5,7 +5,7 @@
     "MMLKPW9JLX64"
   ],
   "total_awarded": 10322742009.22,
-  "contract_count": 3589,
+  "contract_count": 3590,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
@@ -40,14 +40,14 @@
       "share": 0.4005
     },
     {
-      "agency": "Department of the Air Force",
-      "amount": 3223359241.14,
-      "share": 0.3123
+      "agency": "Department of the Army",
+      "amount": 3485591498.35,
+      "share": 0.3377
     },
     {
-      "agency": "Department of the Army",
-      "amount": 2255720095.61,
-      "share": 0.2185
+      "agency": "Department of the Air Force",
+      "amount": 3223554294.14,
+      "share": 0.3123
     },
     {
       "agency": "Defense Information Systems Agency",

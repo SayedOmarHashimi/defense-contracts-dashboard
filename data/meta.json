@@ -1,7 +1,7 @@
 {
   "source": "USASpending.gov API v2",
   "source_url": "https://api.usaspending.gov",
-  "generated_at": "2026-11-05T23:32:40+00:00",
+  "generated_at": "2026-11-06T05:48:48+00:00",
   "fiscal_years": {
     "start": 2022,
     "end": 2027
@@ -15,5 +15,5 @@
     "D"
   ],
   "contractor_count": 100,
-  "merged_uei_registrations": 143
+  "merged_uei_registrations": 144
 }
