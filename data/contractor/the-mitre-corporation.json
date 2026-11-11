@@ -5,7 +5,7 @@
     "DMHDNDCPWUD1",
     "GAVABYGCURL7"
   ],
-  "total_awarded": 10081427418.91,
+  "total_awarded": 7962591520.58,
   "contract_count": 212,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -15,19 +15,19 @@
     },
     {
       "fiscal_year": 2023,
-      "amount": 1957585090.98
+      "amount": 1905554781.0
     },
     {
       "fiscal_year": 2024,
-      "amount": 3184429141.43
+      "amount": 1829446238.59
     },
     {
       "fiscal_year": 2025,
-      "amount": 2042354837.02
+      "amount": 1320551114.61
     },
     {
       "fiscal_year": 2026,
-      "amount": 1162130490.6
+      "amount": 1172111527.5
     },
     {
       "fiscal_year": 2027,
@@ -37,28 +37,28 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 7512242082.36,
-      "share": 0.7452
+      "amount": 5393406184.03,
+      "share": 0.6773
     },
     {
       "agency": "Department of the Air Force",
       "amount": 2437583615.96,
-      "share": 0.2418
+      "share": 0.3061
     },
     {
       "agency": "Defense Health Agency",
       "amount": 63118898.35,
-      "share": 0.0063
+      "share": 0.0079
     },
     {
       "agency": "Washington Headquarters Services",
       "amount": 60267891.19,
-      "share": 0.006
+      "share": 0.0076
     },
     {
       "agency": "Department of the Navy",
       "amount": 8460265.66,
-      "share": 0.0008
+      "share": 0.0011
     },
     {
       "agency": "Defense Human Resources Activity",
@@ -68,8 +68,8 @@
   ],
   "competition_mix": {
     "competed_amount": 134822844.69,
-    "not_competed_amount": 9946604574.22,
-    "competed_pct": 0.0134,
-    "not_competed_pct": 0.9866
+    "not_competed_amount": 7827768675.89,
+    "competed_pct": 0.0169,
+    "not_competed_pct": 0.9831
   }
 }

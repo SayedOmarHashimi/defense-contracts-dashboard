@@ -1,0 +1,49 @@
+{
+  "name": "Ecc Constructors LLC",
+  "slug": "ecc-constructors-llc",
+  "ueis": [
+    "LJPLMV3GCYE7"
+  ],
+  "total_awarded": 2400634698.31,
+  "contract_count": 36,
+  "top_agency": "Department of the Army",
+  "yearly_totals": [
+    {
+      "fiscal_year": 2022,
+      "amount": 0.0
+    },
+    {
+      "fiscal_year": 2023,
+      "amount": 14870000.0
+    },
+    {
+      "fiscal_year": 2024,
+      "amount": 526621665.69
+    },
+    {
+      "fiscal_year": 2025,
+      "amount": 1899671312.8
+    },
+    {
+      "fiscal_year": 2026,
+      "amount": -40528280.18
+    },
+    {
+      "fiscal_year": 2027,
+      "amount": 0.0
+    }
+  ],
+  "agency_breakdown": [
+    {
+      "agency": "Department of the Army",
+      "amount": 2400634698.31,
+      "share": 1.0
+    }
+  ],
+  "competition_mix": {
+    "competed_amount": 2190245184.3,
+    "not_competed_amount": 210389514.01,
+    "competed_pct": 0.9124,
+    "not_competed_pct": 0.0876
+  }
+}

@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 296608697724.37,
+    "total_awarded": 269107777129.53,
     "contract_count": 16121,
     "top_agency": "Department of the Navy"
   },
@@ -11,15 +11,15 @@
     "id": 2,
     "name": "The Boeing Company",
     "slug": "the-boeing-company",
-    "total_awarded": 111681915782.37,
-    "contract_count": 22088,
+    "total_awarded": 107488495274.76,
+    "contract_count": 22089,
     "top_agency": "Department of the Air Force"
   },
   {
     "id": 3,
     "name": "Raytheon Company",
     "slug": "raytheon-company",
-    "total_awarded": 99359754234.23,
+    "total_awarded": 95540149265.9,
     "contract_count": 4254,
     "top_agency": "Department of the Navy"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Northrop Grumman Systems Corp",
     "slug": "northrop-grumman-systems-corp",
-    "total_awarded": 57009614440.78,
+    "total_awarded": 56163527345.62,
     "contract_count": 3412,
     "top_agency": "Department of the Air Force"
   },
@@ -65,34 +65,34 @@
   },
   {
     "id": 9,
-    "name": "General Dynamics Land Systems Inc.",
-    "slug": "general-dynamics-land-systems-inc",
-    "total_awarded": 27085228711.16,
-    "contract_count": 1548,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 10,
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 26475461097.9,
-    "contract_count": 2288475,
+    "contract_count": 2288493,
     "top_agency": "Defense Logistics Agency"
+  },
+  {
+    "id": 10,
+    "name": "General Dynamics Land Systems Inc.",
+    "slug": "general-dynamics-land-systems-inc",
+    "total_awarded": 25769817325.88,
+    "contract_count": 1549,
+    "top_agency": "Department of the Army"
   },
   {
     "id": 11,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
     "total_awarded": 23057379319.44,
-    "contract_count": 368287,
+    "contract_count": 368390,
     "top_agency": "Defense Logistics Agency"
   },
   {
     "id": 12,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 22438984522.05,
-    "contract_count": 113955,
+    "total_awarded": 22462943715.92,
+    "contract_count": 113960,
     "top_agency": "Department of the Navy"
   },
   {
@@ -107,7 +107,7 @@
     "id": 14,
     "name": "BAE Systems Land & Armaments L.P.",
     "slug": "bae-systems-land-armaments-l-p",
-    "total_awarded": 16587164335.55,
+    "total_awarded": 16473987036.1,
     "contract_count": 70,
     "top_agency": "Department of the Army"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "General Electric Company",
     "slug": "general-electric-company",
-    "total_awarded": 16430780909.59,
+    "total_awarded": 16422192306.59,
     "contract_count": 5890,
     "top_agency": "Department of the Navy"
   },
@@ -123,15 +123,15 @@
     "id": 16,
     "name": "Leidos, Inc.",
     "slug": "leidos-inc",
-    "total_awarded": 16233564250.84,
-    "contract_count": 12693,
+    "total_awarded": 16168472640.65,
+    "contract_count": 12700,
     "top_agency": "Department of the Navy"
   },
   {
     "id": 17,
     "name": "Amentum Services, Inc.",
     "slug": "amentum-services-inc",
-    "total_awarded": 14295444450.31,
+    "total_awarded": 14136915943.68,
     "contract_count": 1039,
     "top_agency": "Department of the Army"
   },
@@ -139,20 +139,12 @@
     "id": 18,
     "name": "Booz Allen Hamilton Inc",
     "slug": "booz-allen-hamilton-inc",
-    "total_awarded": 13386577629.3,
+    "total_awarded": 13127207868.47,
     "contract_count": 1426,
     "top_agency": "Department of the Air Force"
   },
   {
     "id": 19,
-    "name": "Oshkosh Defense LLC",
-    "slug": "oshkosh-defense-llc",
-    "total_awarded": 12613219688.84,
-    "contract_count": 51777,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 20,
     "name": "V2X Systems LLC",
     "slug": "v2x-systems-llc",
     "total_awarded": 12150915139.51,
@@ -160,7 +152,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 21,
+    "id": 20,
     "name": "Health Net Federal Services, LLC",
     "slug": "health-net-federal-services-llc",
     "total_awarded": 12096328975.23,
@@ -168,7 +160,7 @@
     "top_agency": "Defense Health Agency"
   },
   {
-    "id": 22,
+    "id": 21,
     "name": "General Atomics Aeronautical Systems, Inc.",
     "slug": "general-atomics-aeronautical-systems-inc",
     "total_awarded": 11789106598.9,
@@ -176,23 +168,23 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 23,
-    "name": "Science Applications International Corporation",
-    "slug": "science-applications-international-corporation",
-    "total_awarded": 11552808464.96,
-    "contract_count": 3590,
-    "top_agency": "Department of the Navy"
-  },
-  {
-    "id": 24,
+    "id": 22,
     "name": "Sierra Nevada Company, LLC",
     "slug": "sierra-nevada-company-llc",
-    "total_awarded": 10791073814.66,
+    "total_awarded": 10724516876.66,
     "contract_count": 755,
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 25,
+    "id": 23,
+    "name": "Oshkosh Defense LLC",
+    "slug": "oshkosh-defense-llc",
+    "total_awarded": 10521839215.48,
+    "contract_count": 51782,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 24,
     "name": "KBR Services, LLC",
     "slug": "kbr-services-llc",
     "total_awarded": 10497584318.24,
@@ -200,23 +192,23 @@
     "top_agency": "Department of the Army"
   },
   {
+    "id": 25,
+    "name": "Science Applications International Corporation",
+    "slug": "science-applications-international-corporation",
+    "total_awarded": 10340390498.7,
+    "contract_count": 3590,
+    "top_agency": "Department of the Navy"
+  },
+  {
     "id": 26,
     "name": "Bell Textron Inc",
     "slug": "bell-textron-inc",
-    "total_awarded": 10361944447.6,
+    "total_awarded": 10212909967.79,
     "contract_count": 5428,
     "top_agency": "Department of the Army"
   },
   {
     "id": 27,
-    "name": "The MITRE Corporation",
-    "slug": "the-mitre-corporation",
-    "total_awarded": 10081427418.91,
-    "contract_count": 212,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 28,
     "name": "Bechtel Plant Machinery, Inc.",
     "slug": "bechtel-plant-machinery-inc",
     "total_awarded": 10041303862.0,
@@ -224,7 +216,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 29,
+    "id": 28,
     "name": "Bath Iron Works Corporation",
     "slug": "bath-iron-works-corporation",
     "total_awarded": 10017644876.38,
@@ -232,7 +224,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 30,
+    "id": 29,
     "name": "Triwest Healthcare Alliance Corp",
     "slug": "triwest-healthcare-alliance-corp",
     "total_awarded": 9229784861.9,
@@ -240,7 +232,7 @@
     "top_agency": "Defense Health Agency"
   },
   {
-    "id": 31,
+    "id": 30,
     "name": "Fluor Marine Propulsion, LLC",
     "slug": "fluor-marine-propulsion-llc",
     "total_awarded": 9042984645.22,
@@ -248,15 +240,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 32,
-    "name": "Raytheon/Lockheed Martin Javelin JV",
-    "slug": "raytheon-lockheed-martin-javelin-jv",
-    "total_awarded": 8475626433.58,
-    "contract_count": 39,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 33,
+    "id": 31,
     "name": "National Steel and Shipbuilding Company",
     "slug": "national-steel-and-shipbuilding-company",
     "total_awarded": 8143617862.51,
@@ -264,7 +248,15 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 34,
+    "id": 32,
+    "name": "The MITRE Corporation",
+    "slug": "the-mitre-corporation",
+    "total_awarded": 7962591520.58,
+    "contract_count": 212,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 33,
     "name": "The Johns Hopkins University Applied Physics Laboratory LLC",
     "slug": "the-johns-hopkins-university-applied-physics-laboratory-llc",
     "total_awarded": 7764156390.96,
@@ -272,7 +264,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 35,
+    "id": 34,
     "name": "L3Harris Technologies Integrated Systems L.P.",
     "slug": "l3harris-technologies-integrated-systems-l-p",
     "total_awarded": 7510556985.04,
@@ -280,7 +272,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 36,
+    "id": 35,
     "name": "Space Exploration Technologies Corp.",
     "slug": "space-exploration-technologies-corp",
     "total_awarded": 7310329296.1,
@@ -288,15 +280,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 37,
-    "name": "Canadian Commercial Corporation",
-    "slug": "canadian-commercial-corporation",
-    "total_awarded": 7174381037.11,
-    "contract_count": 6151,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 38,
+    "id": 36,
     "name": "Okinawa Idemitsu K.K.",
     "slug": "okinawa-idemitsu-k-k",
     "total_awarded": 7167549295.25,
@@ -304,15 +288,23 @@
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 39,
-    "name": "L3Harris Global Communications, Inc.",
-    "slug": "l3harris-global-communications-inc",
-    "total_awarded": 7110306561.27,
-    "contract_count": 681,
+    "id": 37,
+    "name": "Canadian Commercial Corporation",
+    "slug": "canadian-commercial-corporation",
+    "total_awarded": 7158466603.37,
+    "contract_count": 6151,
     "top_agency": "Department of the Army"
   },
   {
-    "id": 40,
+    "id": 38,
+    "name": "L3Harris Global Communications, Inc.",
+    "slug": "l3harris-global-communications-inc",
+    "total_awarded": 7110306561.27,
+    "contract_count": 682,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 39,
     "name": "CACI, Inc. - Federal",
     "slug": "caci-inc-federal",
     "total_awarded": 6994573888.02,
@@ -320,15 +312,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 41,
-    "name": "AM General LLC",
-    "slug": "am-general-llc",
-    "total_awarded": 6983776570.68,
-    "contract_count": 1254,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 42,
+    "id": 40,
     "name": "Massachusetts Institute of Technology",
     "slug": "massachusetts-institute-of-technology",
     "total_awarded": 6783097890.73,
@@ -336,15 +320,23 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 43,
+    "id": 41,
     "name": "General Dynamics Information Technology, Inc.",
     "slug": "general-dynamics-information-technology-inc",
-    "total_awarded": 6591398885.07,
+    "total_awarded": 6574948521.14,
     "contract_count": 2223,
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 44,
+    "id": 42,
+    "name": "AM General LLC",
+    "slug": "am-general-llc",
+    "total_awarded": 6562291143.97,
+    "contract_count": 1254,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 43,
     "name": "Bell Boeing Joint Project Office",
     "slug": "bell-boeing-joint-project-office",
     "total_awarded": 6443348681.22,
@@ -352,7 +344,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 45,
+    "id": 44,
     "name": "Dell Marketing L.P.",
     "slug": "dell-marketing-l-p",
     "total_awarded": 6239521620.64,
@@ -360,23 +352,15 @@
     "top_agency": "Defense Information Systems Agency"
   },
   {
-    "id": 46,
-    "name": "Olin Winchester LLC",
-    "slug": "olin-winchester-llc",
-    "total_awarded": 6035718168.25,
-    "contract_count": 20,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 47,
+    "id": 45,
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
     "total_awarded": 6020152802.3,
-    "contract_count": 18329,
+    "contract_count": 18332,
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 48,
+    "id": 46,
     "name": "V2X Aerospace LLC",
     "slug": "v2x-aerospace-llc",
     "total_awarded": 5649902700.01,
@@ -384,7 +368,7 @@
     "top_agency": "Defense Contract Management Agency"
   },
   {
-    "id": 49,
+    "id": 47,
     "name": "L3Harris Technologies, Inc.",
     "slug": "l3harris-technologies-inc",
     "total_awarded": 5623480396.0,
@@ -392,7 +376,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 50,
+    "id": 48,
     "name": "The Aerospace Corporation",
     "slug": "the-aerospace-corporation",
     "total_awarded": 5473393286.4,
@@ -400,7 +384,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 51,
+    "id": 49,
     "name": "Valero Marketing and Supply Co",
     "slug": "valero-marketing-and-supply-co",
     "total_awarded": 5412245224.16,
@@ -408,15 +392,7 @@
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 52,
-    "name": "Torch Technologies Inc",
-    "slug": "torch-technologies-inc",
-    "total_awarded": 5373822426.97,
-    "contract_count": 288,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 53,
+    "id": 50,
     "name": "Rockwell Collins, Inc.",
     "slug": "rockwell-collins-inc",
     "total_awarded": 5250985634.63,
@@ -424,15 +400,15 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 54,
+    "id": 51,
     "name": "BAE Systems Technology Solutions & Services Inc.",
     "slug": "bae-systems-technology-solutions-services-inc",
     "total_awarded": 5153689899.1,
-    "contract_count": 830,
+    "contract_count": 832,
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 55,
+    "id": 52,
     "name": "Rolls-Royce Corporation",
     "slug": "rolls-royce-corporation",
     "total_awarded": 5108271732.55,
@@ -440,23 +416,31 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 56,
+    "id": 53,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
     "total_awarded": 4986816755.65,
-    "contract_count": 5405,
+    "contract_count": 5408,
     "top_agency": "Department of the Army"
   },
   {
-    "id": 57,
+    "id": 54,
     "name": "Defense Systems and Solutions",
     "slug": "defense-systems-and-solutions",
-    "total_awarded": 4948096720.73,
+    "total_awarded": 4951380993.73,
     "contract_count": 371,
     "top_agency": "Department of the Army"
   },
   {
-    "id": 58,
+    "id": 55,
+    "name": "Raytheon/Lockheed Martin Javelin JV",
+    "slug": "raytheon-lockheed-martin-javelin-jv",
+    "total_awarded": 4924210730.07,
+    "contract_count": 39,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 56,
     "name": "BP Products North America Inc.",
     "slug": "bp-products-north-america-inc",
     "total_awarded": 4791251255.48,
@@ -464,7 +448,7 @@
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 59,
+    "id": 57,
     "name": "BAE Systems Information and Electronic Systems Integration Inc.",
     "slug": "bae-systems-information-and-electronic-systems-integration-inc",
     "total_awarded": 4730303399.32,
@@ -472,7 +456,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 60,
+    "id": 58,
     "name": "Accenture Federal Services LLC",
     "slug": "accenture-federal-services-llc",
     "total_awarded": 4662966040.71,
@@ -480,15 +464,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 61,
-    "name": "Honeywell International Inc.",
-    "slug": "honeywell-international-inc",
-    "total_awarded": 4555995752.09,
-    "contract_count": 1860,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 62,
+    "id": 59,
     "name": "United Launch Services, LLC",
     "slug": "united-launch-services-llc",
     "total_awarded": 4513090910.65,
@@ -496,15 +472,23 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 63,
-    "name": "General Dynamics OTS (Wilkes Barre), LLC",
-    "slug": "general-dynamics-ots-wilkes-barre-llc",
-    "total_awarded": 4491741622.16,
-    "contract_count": 80,
+    "id": 60,
+    "name": "Honeywell International Inc.",
+    "slug": "honeywell-international-inc",
+    "total_awarded": 4469860876.88,
+    "contract_count": 1860,
     "top_agency": "Department of the Army"
   },
   {
-    "id": 64,
+    "id": 61,
+    "name": "Olin Winchester LLC",
+    "slug": "olin-winchester-llc",
+    "total_awarded": 4437392856.5,
+    "contract_count": 20,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 62,
     "name": "M1 Support Services, L.P.",
     "slug": "m1-support-services-l-p",
     "total_awarded": 4418313841.98,
@@ -512,7 +496,15 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 65,
+    "id": 63,
+    "name": "General Dynamics OTS (Wilkes Barre), LLC",
+    "slug": "general-dynamics-ots-wilkes-barre-llc",
+    "total_awarded": 4235311383.41,
+    "contract_count": 80,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 64,
     "name": "Noble Supply & Logistics, LLC",
     "slug": "noble-supply-logistics-llc",
     "total_awarded": 4202948296.67,
@@ -520,15 +512,15 @@
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 66,
+    "id": 65,
     "name": "Serco Inc",
     "slug": "serco-inc",
-    "total_awarded": 4185567399.79,
+    "total_awarded": 4141907140.89,
     "contract_count": 1195,
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 67,
+    "id": 66,
     "name": "BAE Systems Land and Armaments L.P.",
     "slug": "bae-systems-land-and-armaments-l-p",
     "total_awarded": 4120645993.06,
@@ -536,7 +528,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 68,
+    "id": 67,
     "name": "Dynetics, Inc.",
     "slug": "dynetics-inc",
     "total_awarded": 3829531387.73,
@@ -544,7 +536,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 69,
+    "id": 68,
     "name": "DRS Network & Imaging Systems LLC",
     "slug": "drs-network-imaging-systems-llc",
     "total_awarded": 3734919968.04,
@@ -552,7 +544,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 70,
+    "id": 69,
     "name": "Global Military Products Inc",
     "slug": "global-military-products-inc",
     "total_awarded": 3678804702.15,
@@ -560,7 +552,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 71,
+    "id": 70,
     "name": "KBR Wyle Services, LLC",
     "slug": "kbr-wyle-services-llc",
     "total_awarded": 3659663944.57,
@@ -568,7 +560,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 72,
+    "id": 71,
     "name": "Georgia Tech Applied Research Corp",
     "slug": "georgia-tech-applied-research-corp",
     "total_awarded": 3600790283.35,
@@ -576,7 +568,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 73,
+    "id": 72,
     "name": "Ministry of Defense",
     "slug": "ministry-of-defense",
     "total_awarded": 3555013192.98,
@@ -584,7 +576,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 74,
+    "id": 73,
     "name": "McKesson Corporation",
     "slug": "mckesson-corporation",
     "total_awarded": 3505747250.79,
@@ -592,15 +584,15 @@
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 75,
+    "id": 74,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3364100189.53,
-    "contract_count": 1566948,
+    "contract_count": 1567147,
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 76,
+    "id": 75,
     "name": "BL Harbert International LLC",
     "slug": "bl-harbert-international-llc",
     "total_awarded": 3317470500.54,
@@ -608,11 +600,19 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 77,
+    "id": 76,
     "name": "General Dynamics Ordnance and Tactical Systems, Inc.",
     "slug": "general-dynamics-ordnance-and-tactical-systems-inc",
     "total_awarded": 3297542516.0,
     "contract_count": 34,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 77,
+    "name": "Torch Technologies Inc",
+    "slug": "torch-technologies-inc",
+    "total_awarded": 3277937639.92,
+    "contract_count": 288,
     "top_agency": "Department of the Army"
   },
   {
@@ -641,14 +641,6 @@
   },
   {
     "id": 81,
-    "name": "Airbus US Space & Defense Inc",
-    "slug": "airbus-us-space-defense-inc",
-    "total_awarded": 3089225258.52,
-    "contract_count": 10,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 82,
     "name": "Dragados/Hawaiian Dredging/Orion JV",
     "slug": "dragados-hawaiian-dredging-orion-jv",
     "total_awarded": 3077819028.15,
@@ -656,23 +648,15 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 83,
+    "id": 82,
     "name": "Kongsberg Defence & Aerospace As",
     "slug": "kongsberg-defence-aerospace-as",
-    "total_awarded": 2995781589.02,
+    "total_awarded": 2991286494.59,
     "contract_count": 615,
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 84,
-    "name": "American Ordnance LLC",
-    "slug": "american-ordnance-llc",
-    "total_awarded": 2948932001.83,
-    "contract_count": 325,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 85,
+    "id": 83,
     "name": "HII Mission Technologies Corp",
     "slug": "hii-mission-technologies-corp",
     "total_awarded": 2925331925.92,
@@ -680,15 +664,15 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 86,
+    "id": 84,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
     "total_awarded": 2888583741.54,
-    "contract_count": 122159,
+    "contract_count": 122183,
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 87,
+    "id": 85,
     "name": "S-Oil Corporation",
     "slug": "s-oil-corporation",
     "total_awarded": 2849853432.38,
@@ -696,7 +680,7 @@
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 88,
+    "id": 86,
     "name": "Deloitte Consulting LLP",
     "slug": "deloitte-consulting-llp",
     "total_awarded": 2793355146.04,
@@ -704,7 +688,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 89,
+    "id": 87,
     "name": "Thalle Construction Co Inc",
     "slug": "thalle-construction-co-inc",
     "total_awarded": 2773404971.79,
@@ -712,7 +696,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 90,
+    "id": 88,
     "name": "Motor Oil (Hellas) Corinth Refineries S.A.",
     "slug": "motor-oil-hellas-corinth-refineries-s-a",
     "total_awarded": 2772762028.54,
@@ -720,7 +704,7 @@
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 91,
+    "id": 89,
     "name": "Eli Lilly and Company",
     "slug": "eli-lilly-and-company",
     "total_awarded": 2752650000.0,
@@ -728,7 +712,7 @@
     "top_agency": "Department of the Army"
   },
   {
-    "id": 92,
+    "id": 90,
     "name": "The Charles Stark Draper Laboratory, Inc.",
     "slug": "the-charles-stark-draper-laboratory-inc",
     "total_awarded": 2736683580.21,
@@ -736,7 +720,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 93,
+    "id": 91,
     "name": "General Dynamics Mission Systems, Inc.",
     "slug": "general-dynamics-mission-systems-inc",
     "total_awarded": 2690567661.47,
@@ -744,7 +728,7 @@
     "top_agency": "Department of the Air Force"
   },
   {
-    "id": 94,
+    "id": 92,
     "name": "Patriot Team",
     "slug": "patriot-team",
     "total_awarded": 2671661161.52,
@@ -752,7 +736,7 @@
     "top_agency": "USTRANSCOM"
   },
   {
-    "id": 95,
+    "id": 93,
     "name": "Phillips 66 Company",
     "slug": "phillips-66-company",
     "total_awarded": 2664261766.65,
@@ -760,15 +744,23 @@
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 96,
+    "id": 94,
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
     "total_awarded": 2634396850.07,
-    "contract_count": 3758,
+    "contract_count": 3760,
     "top_agency": "Defense Information Systems Agency"
   },
   {
-    "id": 97,
+    "id": 95,
+    "name": "American Ordnance LLC",
+    "slug": "american-ordnance-llc",
+    "total_awarded": 2596628945.8,
+    "contract_count": 325,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 96,
     "name": "Austal USA, LLC",
     "slug": "austal-usa-llc",
     "total_awarded": 2574450740.13,
@@ -776,7 +768,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 98,
+    "id": 97,
     "name": "Tote Services, LLC",
     "slug": "tote-services-llc",
     "total_awarded": 2532460928.72,
@@ -784,7 +776,7 @@
     "top_agency": "Department of the Navy"
   },
   {
-    "id": 99,
+    "id": 98,
     "name": "Express Scripts Inc",
     "slug": "express-scripts-inc",
     "total_awarded": 2490745751.22,
@@ -792,11 +784,19 @@
     "top_agency": "Defense Health Agency"
   },
   {
+    "id": 99,
+    "name": "The Johns Hopkins Medical Services Corporation",
+    "slug": "the-johns-hopkins-medical-services-corporation",
+    "total_awarded": 2401326008.93,
+    "contract_count": 2,
+    "top_agency": "Defense Health Agency"
+  },
+  {
     "id": 100,
-    "name": "Peraton Inc.",
-    "slug": "peraton-inc",
-    "total_awarded": 2410908796.39,
-    "contract_count": 607,
+    "name": "Ecc Constructors LLC",
+    "slug": "ecc-constructors-llc",
+    "total_awarded": 2400634698.31,
+    "contract_count": 36,
     "top_agency": "Department of the Army"
   }
 ]

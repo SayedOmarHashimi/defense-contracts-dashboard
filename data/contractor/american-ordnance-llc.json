@@ -4,7 +4,7 @@
   "ueis": [
     "QHL5DNL1NUK3"
   ],
-  "total_awarded": 2948932001.83,
+  "total_awarded": 2596628945.8,
   "contract_count": 325,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -14,19 +14,19 @@
     },
     {
       "fiscal_year": 2023,
-      "amount": 1275994797.39
+      "amount": 1251971001.92
     },
     {
       "fiscal_year": 2024,
-      "amount": 550401296.5
+      "amount": 545751525.5
     },
     {
       "fiscal_year": 2025,
-      "amount": 539545186.78
+      "amount": 348801232.54
     },
     {
       "fiscal_year": 2026,
-      "amount": 403054301.02
+      "amount": 270168765.7
     },
     {
       "fiscal_year": 2027,
@@ -36,7 +36,7 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 2948028269.87,
+      "amount": 2595725213.84,
       "share": 0.9997
     },
     {
@@ -46,9 +46,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 2355747732.77,
+    "competed_amount": 2003444676.74,
     "not_competed_amount": 593184269.06,
-    "competed_pct": 0.7988,
-    "not_competed_pct": 0.2012
+    "competed_pct": 0.7716,
+    "not_competed_pct": 0.2284
   }
 }

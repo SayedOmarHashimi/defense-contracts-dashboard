@@ -36,8 +36,8 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Army",
-      "amount": 1685671333.92,
-      "share": 0.4513
+      "amount": 1624683115.32,
+      "share": 0.435
     },
     {
       "agency": "Defense Logistics Agency",
@@ -86,9 +86,9 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 1574274784.33,
-    "not_competed_amount": 2160645183.71,
-    "competed_pct": 0.4215,
-    "not_competed_pct": 0.5785
+    "competed_amount": 1518838615.73,
+    "not_competed_amount": 2155093133.71,
+    "competed_pct": 0.4134,
+    "not_competed_pct": 0.5866
   }
 }
