@@ -4,7 +4,7 @@
   "ueis": [
     "HAWKSQF848W7"
   ],
-  "total_awarded": 25769817325.88,
+  "total_awarded": 25769821578.86,
   "contract_count": 1549,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -26,7 +26,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 3581979049.09
+      "amount": 3581983302.07
     },
     {
       "fiscal_year": 2027,
@@ -41,7 +41,7 @@
     },
     {
       "agency": "Defense Logistics Agency",
-      "amount": 582838476.18,
+      "amount": 582842729.16,
       "share": 0.0226
     },
     {
@@ -51,7 +51,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 4985245766.7,
+    "competed_amount": 4985250019.68,
     "not_competed_amount": 20784571559.18,
     "competed_pct": 0.1935,
     "not_competed_pct": 0.8065

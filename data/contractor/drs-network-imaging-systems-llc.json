@@ -4,29 +4,29 @@
   "ueis": [
     "MC27B7LGBL34"
   ],
-  "total_awarded": 3734919968.04,
+  "total_awarded": 3673931749.44,
   "contract_count": 1055,
   "top_agency": "Department of the Army",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 414191187.12
+      "amount": 410881083.39
     },
     {
       "fiscal_year": 2023,
-      "amount": 971797346.83
+      "amount": 958355778.11
     },
     {
       "fiscal_year": 2024,
-      "amount": 872364373.41
+      "amount": 856415178.55
     },
     {
       "fiscal_year": 2025,
-      "amount": 1167877414.16
+      "amount": 1149655127.91
     },
     {
       "fiscal_year": 2026,
-      "amount": 308689646.52
+      "amount": 298624581.48
     },
     {
       "fiscal_year": 2027,
@@ -37,22 +37,22 @@
     {
       "agency": "Department of the Army",
       "amount": 1624683115.32,
-      "share": 0.435
+      "share": 0.4422
     },
     {
       "agency": "Defense Logistics Agency",
       "amount": 1609275555.3,
-      "share": 0.4309
+      "share": 0.438
     },
     {
       "agency": "Defense Information Systems Agency",
       "amount": 390790394.39,
-      "share": 0.1046
+      "share": 0.1064
     },
     {
       "agency": "U.S. Special Operations Command",
       "amount": 24623342.18,
-      "share": 0.0066
+      "share": 0.0067
     },
     {
       "agency": "Department of the Air Force",
