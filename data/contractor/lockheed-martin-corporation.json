@@ -17,13 +17,13 @@
     "SJDEB3MKJEW5",
     "XFJMYSYFJEK4"
   ],
-  "total_awarded": 269106830913.52,
+  "total_awarded": 269114787789.98,
   "contract_count": 16121,
   "top_agency": "Department of the Navy",
   "yearly_totals": [
     {
       "fiscal_year": 2022,
-      "amount": 41410042767.98
+      "amount": 41417949565.98
     },
     {
       "fiscal_year": 2023,
@@ -31,7 +31,7 @@
     },
     {
       "fiscal_year": 2024,
-      "amount": 44259468499.42
+      "amount": 44259546347.42
     },
     {
       "fiscal_year": 2025,
@@ -39,7 +39,7 @@
     },
     {
       "fiscal_year": 2026,
-      "amount": 51653132330.75
+      "amount": 51653104561.21
     },
     {
       "fiscal_year": 2027,
@@ -49,18 +49,18 @@
   "agency_breakdown": [
     {
       "agency": "Department of the Navy",
-      "amount": 132512159056.64,
+      "amount": 132520065854.64,
       "share": 0.4924
     },
     {
       "agency": "Department of the Army",
-      "amount": 61774582011.68,
-      "share": 0.2296
+      "amount": 61774577396.14,
+      "share": 0.2295
     },
     {
       "agency": "Department of the Air Force",
-      "amount": 50525781187.97,
-      "share": 0.1878
+      "amount": 50525859035.97,
+      "share": 0.1877
     },
     {
       "agency": "Missile Defense Agency",
@@ -94,13 +94,13 @@
     },
     {
       "agency": "Defense Contract Management Agency",
-      "amount": -65344651.93,
+      "amount": -65367805.93,
       "share": -0.0002
     }
   ],
   "competition_mix": {
     "competed_amount": 27475514932.55,
-    "not_competed_amount": 241631315980.97,
+    "not_competed_amount": 241639272857.43,
     "competed_pct": 0.1021,
     "not_competed_pct": 0.8979
   }

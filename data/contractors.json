@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 269106830913.52,
+    "total_awarded": 269114787789.98,
     "contract_count": 16121,
     "top_agency": "Department of the Navy"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Raytheon Company",
     "slug": "raytheon-company",
-    "total_awarded": 95562200528.95,
+    "total_awarded": 95563548551.95,
     "contract_count": 4254,
     "top_agency": "Department of the Navy"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Northrop Grumman Systems Corp",
     "slug": "northrop-grumman-systems-corp",
-    "total_awarded": 56165443025.62,
+    "total_awarded": 56166588457.62,
     "contract_count": 3412,
     "top_agency": "Department of the Air Force"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "name": "Amentum Services, Inc.",
     "slug": "amentum-services-inc",
-    "total_awarded": 14136915943.68,
+    "total_awarded": 14136912812.01,
     "contract_count": 1039,
     "top_agency": "Department of the Army"
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "name": "Booz Allen Hamilton Inc",
     "slug": "booz-allen-hamilton-inc",
-    "total_awarded": 13127207868.47,
+    "total_awarded": 13127207864.47,
     "contract_count": 1426,
     "top_agency": "Department of the Air Force"
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "name": "Science Applications International Corporation",
     "slug": "science-applications-international-corporation",
-    "total_awarded": 10347704672.07,
+    "total_awarded": 10349759799.05,
     "contract_count": 3590,
     "top_agency": "Department of the Navy"
   },
@@ -259,8 +259,8 @@
     "id": 33,
     "name": "The Johns Hopkins University Applied Physics Laboratory LLC",
     "slug": "the-johns-hopkins-university-applied-physics-laboratory-llc",
-    "total_awarded": 7764156390.96,
-    "contract_count": 2723,
+    "total_awarded": 7764123219.82,
+    "contract_count": 2724,
     "top_agency": "Department of the Navy"
   },
   {
@@ -281,19 +281,19 @@
   },
   {
     "id": 36,
-    "name": "Canadian Commercial Corporation",
-    "slug": "canadian-commercial-corporation",
-    "total_awarded": 7171454900.37,
-    "contract_count": 6151,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 37,
     "name": "Okinawa Idemitsu K.K.",
     "slug": "okinawa-idemitsu-k-k",
     "total_awarded": 7167549295.25,
     "contract_count": 1034,
     "top_agency": "Defense Logistics Agency"
+  },
+  {
+    "id": 37,
+    "name": "Canadian Commercial Corporation",
+    "slug": "canadian-commercial-corporation",
+    "total_awarded": 7158466603.37,
+    "contract_count": 6151,
+    "top_agency": "Department of the Army"
   },
   {
     "id": 38,
@@ -419,8 +419,8 @@
     "id": 53,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4986905529.81,
-    "contract_count": 5408,
+    "total_awarded": 4986969153.08,
+    "contract_count": 5409,
     "top_agency": "Department of the Army"
   },
   {
@@ -683,7 +683,7 @@
     "id": 86,
     "name": "Deloitte Consulting LLP",
     "slug": "deloitte-consulting-llp",
-    "total_awarded": 2804156622.84,
+    "total_awarded": 2798796678.54,
     "contract_count": 363,
     "top_agency": "Department of the Air Force"
   },
@@ -747,8 +747,8 @@
     "id": 94,
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
-    "total_awarded": 2634692740.76,
-    "contract_count": 3760,
+    "total_awarded": 2634702505.16,
+    "contract_count": 3761,
     "top_agency": "Defense Information Systems Agency"
   },
   {
