@@ -36,7 +36,7 @@
     "name": "Northrop Grumman Systems Corp",
     "slug": "northrop-grumman-systems-corp",
     "total_awarded": 56166588457.62,
-    "contract_count": 3412,
+    "contract_count": 3413,
     "top_agency": "Department of the Air Force"
   },
   {
@@ -68,7 +68,7 @@
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 26475564130.65,
-    "contract_count": 2288493,
+    "contract_count": 2288556,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
     "total_awarded": 23058129539.64,
-    "contract_count": 368390,
+    "contract_count": 368392,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Pfizer Inc",
     "slug": "pfizer-inc",
     "total_awarded": 19828422784.4,
-    "contract_count": 3974,
+    "contract_count": 4022,
     "top_agency": "Department of the Army"
   },
   {
@@ -139,7 +139,7 @@
     "id": 18,
     "name": "Booz Allen Hamilton Inc",
     "slug": "booz-allen-hamilton-inc",
-    "total_awarded": 13127207864.47,
+    "total_awarded": 13122759571.33,
     "contract_count": 1426,
     "top_agency": "Department of the Air Force"
   },
@@ -292,7 +292,7 @@
     "name": "Canadian Commercial Corporation",
     "slug": "canadian-commercial-corporation",
     "total_awarded": 7158466603.37,
-    "contract_count": 6151,
+    "contract_count": 6153,
     "top_agency": "Department of the Army"
   },
   {
@@ -356,7 +356,7 @@
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
     "total_awarded": 6020766142.55,
-    "contract_count": 18332,
+    "contract_count": 18334,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -420,7 +420,7 @@
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
     "total_awarded": 4986969153.08,
-    "contract_count": 5409,
+    "contract_count": 5412,
     "top_agency": "Department of the Army"
   },
   {
@@ -460,7 +460,7 @@
     "name": "Accenture Federal Services LLC",
     "slug": "accenture-federal-services-llc",
     "total_awarded": 4662966040.71,
-    "contract_count": 300,
+    "contract_count": 301,
     "top_agency": "Department of the Army"
   },
   {
@@ -596,7 +596,7 @@
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3364648275.58,
-    "contract_count": 1567147,
+    "contract_count": 1567162,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -612,7 +612,7 @@
     "name": "Torch Technologies Inc",
     "slug": "torch-technologies-inc",
     "total_awarded": 3293842944.39,
-    "contract_count": 288,
+    "contract_count": 289,
     "top_agency": "Department of the Army"
   },
   {
@@ -668,7 +668,7 @@
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
     "total_awarded": 2888814307.68,
-    "contract_count": 122183,
+    "contract_count": 122205,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -748,7 +748,7 @@
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
     "total_awarded": 2634702505.16,
-    "contract_count": 3761,
+    "contract_count": 3762,
     "top_agency": "Defense Information Systems Agency"
   },
   {
