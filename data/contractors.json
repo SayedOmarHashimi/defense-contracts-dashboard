@@ -4,7 +4,7 @@
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
     "total_awarded": 269109862780.34,
-    "contract_count": 16121,
+    "contract_count": 16125,
     "top_agency": "Department of the Navy"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Electric Boat Corporation",
     "slug": "electric-boat-corporation",
     "total_awarded": 63128142892.35,
-    "contract_count": 2128,
+    "contract_count": 2129,
     "top_agency": "Department of the Navy"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Huntington Ingalls Incorporated",
     "slug": "huntington-ingalls-incorporated",
     "total_awarded": 37394596802.59,
-    "contract_count": 322,
+    "contract_count": 323,
     "top_agency": "Department of the Navy"
   },
   {
@@ -68,7 +68,7 @@
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 26475732107.46,
-    "contract_count": 2288556,
+    "contract_count": 2288558,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
     "total_awarded": 23058139482.65,
-    "contract_count": 368392,
+    "contract_count": 368506,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "General Electric Company",
     "slug": "general-electric-company",
-    "total_awarded": 16422192306.59,
+    "total_awarded": 16422258335.12,
     "contract_count": 5890,
     "top_agency": "Department of the Navy"
   },
@@ -132,7 +132,7 @@
     "name": "Amentum Services, Inc.",
     "slug": "amentum-services-inc",
     "total_awarded": 14136912812.01,
-    "contract_count": 1039,
+    "contract_count": 1040,
     "top_agency": "Department of the Army"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Oshkosh Defense LLC",
     "slug": "oshkosh-defense-llc",
     "total_awarded": 10518946508.68,
-    "contract_count": 51782,
+    "contract_count": 51817,
     "top_agency": "Department of the Army"
   },
   {
@@ -204,7 +204,7 @@
     "name": "Bell Textron Inc",
     "slug": "bell-textron-inc",
     "total_awarded": 10213239516.19,
-    "contract_count": 5428,
+    "contract_count": 5429,
     "top_agency": "Department of the Army"
   },
   {
@@ -356,7 +356,7 @@
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
     "total_awarded": 6021282575.7,
-    "contract_count": 18334,
+    "contract_count": 18352,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -585,26 +585,26 @@
   },
   {
     "id": 74,
-    "name": "General Dynamics Ordnance and Tactical Systems, Inc.",
-    "slug": "general-dynamics-ordnance-and-tactical-systems-inc",
-    "total_awarded": 3431811632.82,
-    "contract_count": 34,
-    "top_agency": "Department of the Army"
-  },
-  {
-    "id": 75,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
     "total_awarded": 3364819471.63,
-    "contract_count": 1567162,
+    "contract_count": 1567232,
     "top_agency": "Defense Logistics Agency"
   },
   {
-    "id": 76,
+    "id": 75,
     "name": "BL Harbert International LLC",
     "slug": "bl-harbert-international-llc",
     "total_awarded": 3317470500.54,
     "contract_count": 51,
+    "top_agency": "Department of the Army"
+  },
+  {
+    "id": 76,
+    "name": "General Dynamics Ordnance and Tactical Systems, Inc.",
+    "slug": "general-dynamics-ordnance-and-tactical-systems-inc",
+    "total_awarded": 3297542516.0,
+    "contract_count": 34,
     "top_agency": "Department of the Army"
   },
   {
@@ -668,7 +668,7 @@
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
     "total_awarded": 2889281005.97,
-    "contract_count": 122205,
+    "contract_count": 122217,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -747,8 +747,8 @@
     "id": 94,
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
-    "total_awarded": 2634711221.44,
-    "contract_count": 3762,
+    "total_awarded": 2634695380.09,
+    "contract_count": 3761,
     "top_agency": "Defense Information Systems Agency"
   },
   {
