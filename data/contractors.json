@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Raytheon Company",
     "slug": "raytheon-company",
-    "total_awarded": 95563548551.95,
+    "total_awarded": 96515192999.15,
     "contract_count": 4254,
     "top_agency": "Department of the Navy"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 23071378667.61,
+    "total_awarded": 23071428127.22,
     "contract_count": 368536,
     "top_agency": "Defense Logistics Agency"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "General Electric Company",
     "slug": "general-electric-company",
-    "total_awarded": 16422258335.12,
+    "total_awarded": 16422263135.12,
     "contract_count": 5891,
     "top_agency": "Department of the Navy"
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "name": "Oshkosh Defense LLC",
     "slug": "oshkosh-defense-llc",
-    "total_awarded": 10519389194.65,
+    "total_awarded": 10519406020.77,
     "contract_count": 51821,
     "top_agency": "Department of the Army"
   },
@@ -419,7 +419,7 @@
     "id": 53,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4987452468.56,
+    "total_awarded": 4987635878.54,
     "contract_count": 5413,
     "top_agency": "Department of the Army"
   },
@@ -587,7 +587,7 @@
     "id": 74,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3364967839.32,
+    "total_awarded": 3365026233.28,
     "contract_count": 1567263,
     "top_agency": "Defense Logistics Agency"
   },
@@ -667,7 +667,7 @@
     "id": 84,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2889887631.04,
+    "total_awarded": 2889896168.14,
     "contract_count": 122228,
     "top_agency": "Defense Logistics Agency"
   },
