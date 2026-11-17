@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Raytheon Company",
     "slug": "raytheon-company",
-    "total_awarded": 96515192999.15,
+    "total_awarded": 96499356880.71,
     "contract_count": 4254,
     "top_agency": "Department of the Navy"
   },
@@ -83,16 +83,16 @@
     "id": 11,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 23071428127.22,
-    "contract_count": 368536,
+    "total_awarded": 23071445224.72,
+    "contract_count": 368546,
     "top_agency": "Defense Logistics Agency"
   },
   {
     "id": 12,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 22462962875.33,
-    "contract_count": 113960,
+    "total_awarded": 22462975436.02,
+    "contract_count": 113965,
     "top_agency": "Department of the Navy"
   },
   {
@@ -179,8 +179,8 @@
     "id": 23,
     "name": "Oshkosh Defense LLC",
     "slug": "oshkosh-defense-llc",
-    "total_awarded": 10519406020.77,
-    "contract_count": 51821,
+    "total_awarded": 10519410216.75,
+    "contract_count": 51822,
     "top_agency": "Department of the Army"
   },
   {
@@ -419,8 +419,8 @@
     "id": 53,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4987635878.54,
-    "contract_count": 5413,
+    "total_awarded": 4988050219.35,
+    "contract_count": 5415,
     "top_agency": "Department of the Army"
   },
   {
@@ -587,8 +587,8 @@
     "id": 74,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3365026233.28,
-    "contract_count": 1567263,
+    "total_awarded": 3365046509.23,
+    "contract_count": 1567280,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -667,8 +667,8 @@
     "id": 84,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2889896168.14,
-    "contract_count": 122228,
+    "total_awarded": 2889902802.58,
+    "contract_count": 122231,
     "top_agency": "Defense Logistics Agency"
   },
   {
