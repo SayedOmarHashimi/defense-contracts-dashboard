@@ -75,7 +75,7 @@
     "id": 10,
     "name": "General Dynamics Land Systems Inc.",
     "slug": "general-dynamics-land-systems-inc",
-    "total_awarded": 25777604171.84,
+    "total_awarded": 25777962592.23,
     "contract_count": 1550,
     "top_agency": "Department of the Army"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 23075230464.86,
+    "total_awarded": 23079422995.4,
     "contract_count": 368656,
     "top_agency": "Defense Logistics Agency"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 22463038159.22,
+    "total_awarded": 22463040802.4,
     "contract_count": 113977,
     "top_agency": "Department of the Navy"
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "name": "Sierra Nevada Company, LLC",
     "slug": "sierra-nevada-company-llc",
-    "total_awarded": 10724516876.66,
+    "total_awarded": 10735752036.23,
     "contract_count": 757,
     "top_agency": "Department of the Air Force"
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "name": "Oshkosh Defense LLC",
     "slug": "oshkosh-defense-llc",
-    "total_awarded": 10519603179.95,
+    "total_awarded": 10519714004.15,
     "contract_count": 51853,
     "top_agency": "Department of the Army"
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "name": "Canadian Commercial Corporation",
     "slug": "canadian-commercial-corporation",
-    "total_awarded": 7158532933.97,
+    "total_awarded": 7158580217.97,
     "contract_count": 6159,
     "top_agency": "Department of the Army"
   },
@@ -355,7 +355,7 @@
     "id": 45,
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
-    "total_awarded": 6036633473.43,
+    "total_awarded": 6038157417.01,
     "contract_count": 18387,
     "top_agency": "Defense Logistics Agency"
   },
@@ -403,7 +403,7 @@
     "id": 51,
     "name": "BAE Systems Technology Solutions & Services Inc.",
     "slug": "bae-systems-technology-solutions-services-inc",
-    "total_awarded": 5154285799.1,
+    "total_awarded": 5166224686.23,
     "contract_count": 832,
     "top_agency": "Department of the Navy"
   },
@@ -419,7 +419,7 @@
     "id": 53,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4989165130.63,
+    "total_awarded": 4989751232.23,
     "contract_count": 5416,
     "top_agency": "Department of the Army"
   },
@@ -451,7 +451,7 @@
     "id": 57,
     "name": "BAE Systems Information and Electronic Systems Integration Inc.",
     "slug": "bae-systems-information-and-electronic-systems-integration-inc",
-    "total_awarded": 4730880847.32,
+    "total_awarded": 4802542353.32,
     "contract_count": 617,
     "top_agency": "Department of the Air Force"
   },
@@ -587,7 +587,7 @@
     "id": 74,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3365103725.19,
+    "total_awarded": 3365386456.54,
     "contract_count": 1567314,
     "top_agency": "Defense Logistics Agency"
   },
@@ -667,7 +667,7 @@
     "id": 84,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2891210258.25,
+    "total_awarded": 2892400441.84,
     "contract_count": 122274,
     "top_agency": "Defense Logistics Agency"
   },
