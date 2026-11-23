@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 269119983959.72,
+    "total_awarded": 269086605443.0,
     "contract_count": 16134,
     "top_agency": "Department of the Navy"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
-    "total_awarded": 26477858527.53,
+    "total_awarded": 26477879755.05,
     "contract_count": 2288575,
     "top_agency": "Defense Logistics Agency"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 23079422995.4,
+    "total_awarded": 23081370737.17,
     "contract_count": 368695,
     "top_agency": "Defense Logistics Agency"
   },
@@ -355,7 +355,7 @@
     "id": 45,
     "name": "W S Darley & Co",
     "slug": "w-s-darley-co",
-    "total_awarded": 6038157417.01,
+    "total_awarded": 6040830284.64,
     "contract_count": 18402,
     "top_agency": "Defense Logistics Agency"
   },
@@ -587,7 +587,7 @@
     "id": 74,
     "name": "ASRC Federal Facilities Logistics, LLC",
     "slug": "asrc-federal-facilities-logistics-llc",
-    "total_awarded": 3365386456.54,
+    "total_awarded": 3365970345.54,
     "contract_count": 1567536,
     "top_agency": "Defense Logistics Agency"
   },
@@ -667,7 +667,7 @@
     "id": 84,
     "name": "SupplyCore LLC",
     "slug": "supplycore-llc",
-    "total_awarded": 2892400441.84,
+    "total_awarded": 2893894630.42,
     "contract_count": 122284,
     "top_agency": "Defense Logistics Agency"
   },
