@@ -11,7 +11,7 @@
     "id": 2,
     "name": "The Boeing Company",
     "slug": "the-boeing-company",
-    "total_awarded": 107497467961.33,
+    "total_awarded": 107498445218.33,
     "contract_count": 22090,
     "top_agency": "Department of the Air Force"
   },
@@ -91,8 +91,8 @@
     "id": 12,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 22463040802.4,
-    "contract_count": 113977,
+    "total_awarded": 22463100336.1,
+    "contract_count": 113981,
     "top_agency": "Department of the Navy"
   },
   {
@@ -179,8 +179,8 @@
     "id": 23,
     "name": "Oshkosh Defense LLC",
     "slug": "oshkosh-defense-llc",
-    "total_awarded": 10519714004.15,
-    "contract_count": 51853,
+    "total_awarded": 10519714689.25,
+    "contract_count": 51854,
     "top_agency": "Department of the Army"
   },
   {
@@ -203,8 +203,8 @@
     "id": 26,
     "name": "Bell Textron Inc",
     "slug": "bell-textron-inc",
-    "total_awarded": 10212584130.42,
-    "contract_count": 5429,
+    "total_awarded": 10212622582.72,
+    "contract_count": 5430,
     "top_agency": "Department of the Army"
   },
   {
@@ -403,7 +403,7 @@
     "id": 51,
     "name": "BAE Systems Technology Solutions & Services Inc.",
     "slug": "bae-systems-technology-solutions-services-inc",
-    "total_awarded": 5166224686.23,
+    "total_awarded": 5166148282.56,
     "contract_count": 832,
     "top_agency": "Department of the Navy"
   },
