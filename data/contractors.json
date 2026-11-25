@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Raytheon Company",
     "slug": "raytheon-company",
-    "total_awarded": 96505638455.01,
+    "total_awarded": 96504815512.01,
     "contract_count": 4255,
     "top_agency": "Department of the Navy"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 23081370737.17,
+    "total_awarded": 23081406849.33,
     "contract_count": 368697,
     "top_agency": "Defense Logistics Agency"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "name": "Amentum Services, Inc.",
     "slug": "amentum-services-inc",
-    "total_awarded": 14140232410.22,
+    "total_awarded": 14140356274.62,
     "contract_count": 1040,
     "top_agency": "Department of the Army"
   },
@@ -419,7 +419,7 @@
     "id": 53,
     "name": "Carahsoft Technology Corp",
     "slug": "carahsoft-technology-corp",
-    "total_awarded": 4989751232.23,
+    "total_awarded": 4990115358.45,
     "contract_count": 5416,
     "top_agency": "Department of the Army"
   },
@@ -531,7 +531,7 @@
     "id": 67,
     "name": "Dynetics, Inc.",
     "slug": "dynetics-inc",
-    "total_awarded": 3829531387.73,
+    "total_awarded": 3827531387.73,
     "contract_count": 104,
     "top_agency": "Department of the Army"
   },
