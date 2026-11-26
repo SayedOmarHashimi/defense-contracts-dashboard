@@ -11,7 +11,7 @@
     "id": 2,
     "name": "The Boeing Company",
     "slug": "the-boeing-company",
-    "total_awarded": 107498445218.33,
+    "total_awarded": 107498482983.16,
     "contract_count": 22091,
     "top_agency": "Department of the Air Force"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Atlantic Diving Supply, Inc.",
     "slug": "atlantic-diving-supply-inc",
-    "total_awarded": 23081406849.33,
+    "total_awarded": 23081406704.33,
     "contract_count": 368697,
     "top_agency": "Defense Logistics Agency"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 22463100336.1,
+    "total_awarded": 22463098967.65,
     "contract_count": 113981,
     "top_agency": "Department of the Navy"
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "name": "V2X Systems LLC",
     "slug": "v2x-systems-llc",
-    "total_awarded": 12150921962.6,
+    "total_awarded": 12151516863.01,
     "contract_count": 1713,
     "top_agency": "Department of the Army"
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "name": "Bell Textron Inc",
     "slug": "bell-textron-inc",
-    "total_awarded": 10212622582.72,
+    "total_awarded": 10212624500.38,
     "contract_count": 5431,
     "top_agency": "Department of the Army"
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "name": "Canadian Commercial Corporation",
     "slug": "canadian-commercial-corporation",
-    "total_awarded": 7158580217.97,
+    "total_awarded": 7158569561.31,
     "contract_count": 6159,
     "top_agency": "Department of the Army"
   },
@@ -315,7 +315,7 @@
     "id": 40,
     "name": "Massachusetts Institute of Technology",
     "slug": "massachusetts-institute-of-technology",
-    "total_awarded": 6783097890.73,
+    "total_awarded": 6786355451.61,
     "contract_count": 28,
     "top_agency": "Department of the Air Force"
   },
@@ -323,7 +323,7 @@
     "id": 41,
     "name": "General Dynamics Information Technology, Inc.",
     "slug": "general-dynamics-information-technology-inc",
-    "total_awarded": 6574931785.47,
+    "total_awarded": 6574919178.57,
     "contract_count": 2223,
     "top_agency": "Department of the Navy"
   },
@@ -459,7 +459,7 @@
     "id": 58,
     "name": "Accenture Federal Services LLC",
     "slug": "accenture-federal-services-llc",
-    "total_awarded": 4663996906.32,
+    "total_awarded": 4664000239.94,
     "contract_count": 301,
     "top_agency": "Department of the Army"
   },
@@ -483,7 +483,7 @@
     "id": 61,
     "name": "Honeywell International Inc.",
     "slug": "honeywell-international-inc",
-    "total_awarded": 4469860876.88,
+    "total_awarded": 4469885225.63,
     "contract_count": 1861,
     "top_agency": "Department of the Army"
   },
@@ -747,7 +747,7 @@
     "id": 94,
     "name": "Dell Federal Systems L.P",
     "slug": "dell-federal-systems-l-p",
-    "total_awarded": 2634877732.57,
+    "total_awarded": 2634894842.57,
     "contract_count": 3764,
     "top_agency": "Defense Information Systems Agency"
   },
