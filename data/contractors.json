@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Lockheed Martin Corporation",
     "slug": "lockheed-martin-corporation",
-    "total_awarded": 269086605443.0,
+    "total_awarded": 269085757067.3,
     "contract_count": 16134,
     "top_agency": "Department of the Navy"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
-    "total_awarded": 26477879755.05,
+    "total_awarded": 26477889297.22,
     "contract_count": 2288576,
     "top_agency": "Defense Logistics Agency"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
-    "total_awarded": 22463098967.65,
+    "total_awarded": 22463141091.41,
     "contract_count": 113987,
     "top_agency": "Department of the Navy"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "General Electric Company",
     "slug": "general-electric-company",
-    "total_awarded": 16422526924.62,
+    "total_awarded": 16422564118.69,
     "contract_count": 5896,
     "top_agency": "Department of the Navy"
   },
@@ -259,7 +259,7 @@
     "id": 33,
     "name": "The Johns Hopkins University Applied Physics Laboratory LLC",
     "slug": "the-johns-hopkins-university-applied-physics-laboratory-llc",
-    "total_awarded": 7778030039.89,
+    "total_awarded": 7778027712.39,
     "contract_count": 2725,
     "top_agency": "Department of the Navy"
   },
@@ -371,7 +371,7 @@
     "id": 47,
     "name": "L3Harris Technologies, Inc.",
     "slug": "l3harris-technologies-inc",
-    "total_awarded": 5623480396.0,
+    "total_awarded": 5623482117.97,
     "contract_count": 3120,
     "top_agency": "Department of the Army"
   },
@@ -427,7 +427,7 @@
     "id": 54,
     "name": "Defense Systems and Solutions",
     "slug": "defense-systems-and-solutions",
-    "total_awarded": 4953249253.73,
+    "total_awarded": 4952689711.73,
     "contract_count": 371,
     "top_agency": "Department of the Army"
   },
@@ -451,7 +451,7 @@
     "id": 57,
     "name": "BAE Systems Information and Electronic Systems Integration Inc.",
     "slug": "bae-systems-information-and-electronic-systems-integration-inc",
-    "total_awarded": 4802542353.32,
+    "total_awarded": 4802242353.32,
     "contract_count": 617,
     "top_agency": "Department of the Air Force"
   },
