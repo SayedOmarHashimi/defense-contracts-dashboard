@@ -4,7 +4,7 @@
   "ueis": [
     "C47BNA8GM833"
   ],
-  "total_awarded": 4664000239.94,
+  "total_awarded": 4663996906.32,
   "contract_count": 301,
   "top_agency": "Department of the Army",
   "yearly_totals": [
@@ -22,7 +22,7 @@
     },
     {
       "fiscal_year": 2025,
-      "amount": 1270191082.14
+      "amount": 1270187748.52
     },
     {
       "fiscal_year": 2026,
@@ -61,7 +61,7 @@
     },
     {
       "agency": "Washington Headquarters Services",
-      "amount": 15303970.18,
+      "amount": 15300636.56,
       "share": 0.0033
     },
     {
@@ -96,7 +96,7 @@
     }
   ],
   "competition_mix": {
-    "competed_amount": 4343043031.97,
+    "competed_amount": 4343039698.35,
     "not_competed_amount": 320957207.97,
     "competed_pct": 0.9312,
     "not_competed_pct": 0.0688

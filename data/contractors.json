@@ -68,7 +68,7 @@
     "name": "AmerisourceBergen Drug Corp",
     "slug": "amerisourcebergen-drug-corp",
     "total_awarded": 26477879755.05,
-    "contract_count": 2288575,
+    "contract_count": 2288576,
     "top_agency": "Defense Logistics Agency"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Sikorsky Aircraft Corporation",
     "slug": "sikorsky-aircraft-corporation",
     "total_awarded": 22463098967.65,
-    "contract_count": 113981,
+    "contract_count": 113987,
     "top_agency": "Department of the Navy"
   },
   {
@@ -116,7 +116,7 @@
     "name": "General Electric Company",
     "slug": "general-electric-company",
     "total_awarded": 16422526924.62,
-    "contract_count": 5893,
+    "contract_count": 5896,
     "top_agency": "Department of the Navy"
   },
   {
@@ -260,7 +260,7 @@
     "name": "The Johns Hopkins University Applied Physics Laboratory LLC",
     "slug": "the-johns-hopkins-university-applied-physics-laboratory-llc",
     "total_awarded": 7778030039.89,
-    "contract_count": 2724,
+    "contract_count": 2725,
     "top_agency": "Department of the Navy"
   },
   {
@@ -372,7 +372,7 @@
     "name": "L3Harris Technologies, Inc.",
     "slug": "l3harris-technologies-inc",
     "total_awarded": 5623480396.0,
-    "contract_count": 3119,
+    "contract_count": 3120,
     "top_agency": "Department of the Army"
   },
   {
@@ -459,7 +459,7 @@
     "id": 58,
     "name": "Accenture Federal Services LLC",
     "slug": "accenture-federal-services-llc",
-    "total_awarded": 4664000239.94,
+    "total_awarded": 4663996906.32,
     "contract_count": 301,
     "top_agency": "Department of the Army"
   },
